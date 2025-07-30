@@ -1,7 +1,6 @@
-# Hi, I'm Paul (aka systemslibrarian / "The Library Guy")
-
-📚 Application Systems Analyst • Data Analyst • AI Enthusiast  
-🏛️ Making libraries smarter with automation, data, and AI.
+# Hi, I'm Paul — an Application Systems Analyst & Data Analyst.
+I believe in using data and automation to empower access to information.
+Dream role? Working at Google one day. Until then, I'm building, learning, and contributing.
 
 ---
 

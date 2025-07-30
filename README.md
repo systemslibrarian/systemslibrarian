@@ -1,6 +1,9 @@
-# Hi, I'm Paul — an Application Systems Analyst & Data Analyst.
-I believe in using data and automation to empower access to information.
-Dream role? Working at Google one day. Until then, I'm building, learning, and contributing.
+#  Hi, I'm Paul — Application Systems Analyst & Data Analyst
+
+I believe in using **data** and **automation** to empower access to information and drive smarter decision-making.
+
+🎯 **Dream role?** Working at Google one day.  
+🛠️ Until then, I'm building, learning, and contributing — one project at a time.
 
 ---
 

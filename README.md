@@ -1,4 +1,4 @@
-# Hi, I'm Paul (aka systemslibrarian)
+# Hi, I'm Paul (aka systemslibrarian / "The Library Guy")
 
 📚 Application Systems Analyst • Data Analyst • AI Enthusiast  
 🏛️ Making libraries smarter with automation, data, and AI.

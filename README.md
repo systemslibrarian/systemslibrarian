@@ -1,4 +1,4 @@
-#  Hi, I'm Paul — Application Systems Analyst & Data Analyst
+# Hi, I'm Paul — Application Systems Analyst & Data Analyst
 
 I believe in using **data** and **automation** to empower access to information and drive smarter decision-making.
 
@@ -18,6 +18,13 @@ I believe in using **data** and **automation** to empower access to information 
 ## 📰 Data Ingestion & Scraping
 - 🔗 [pressreader-news-scraper](https://github.com/systemslibrarian/pressreader-news-scraper) — Store PressReader articles in SQLite
 - 🔗 [podcast-generator-final](https://github.com/systemslibrarian/podcast-generator-final) — Build podcast RSS feeds from YAML
+
+## 📊 Data Analytics Projects
+- 🔗 [imls-public-libraries-2022](https://github.com/systemslibrarian/imls-public-libraries-2022) — Visualizes key trends from the IMLS FY2022 Public Library Survey:
+  - Visits per capita
+  - Library funding equity
+  - Digital access & ebook availability
+  - Program reach and usage
 
 ---
 

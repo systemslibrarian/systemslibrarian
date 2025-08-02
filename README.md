@@ -21,10 +21,6 @@ I believe in using **data** and **automation** to empower access to information 
 
 ## 📊 Data Analytics Projects
 - 🔗 [imls-public-libraries-2022](https://github.com/systemslibrarian/imls-public-libraries-2022) — Visualizes key trends from the IMLS FY2022 Public Library Survey:
-  - Visits per capita
-  - Library funding equity
-  - Digital access & ebook availability
-  - Program reach and usage
 
 ---
 

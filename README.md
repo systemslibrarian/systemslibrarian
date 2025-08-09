@@ -20,7 +20,9 @@ I believe in using **data** and **automation** to empower access to information 
 - 🔗 [podcast-generator-final](https://github.com/systemslibrarian/podcast-generator-final) — Build podcast RSS feeds from YAML
 
 ## 📊 Data Analytics Projects
-- 🔗 [imls-public-libraries-2022](https://github.com/systemslibrarian/imls-public-libraries-2022) — Visualizes key trends from the IMLS FY2022 Public Library Survey:
+- 🔗 [enterprise-customer-segmentation-analytics](https://github.com/systemslibrarian/enterprise-customer-segmentation-analytics) — 
+  Sample SQL & Python toolkit for data cleaning, customer segmentation, predictive modeling, and interactive dashboards.
+- 🔗 [imls-public-libraries-2022](https://github.com/systemslibrarian/imls-public-libraries-2022) — Visualizes key trends from the IMLS FY2022 Public Library Survey
 
 ---
 

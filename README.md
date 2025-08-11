@@ -8,18 +8,12 @@ I'm passionate about tackling complex problems and am actively developing my ski
 
 ---
 
-## 💻 My Tech Stack (honest snapshot)
+## 📚 What I'm Working On
 
-**Core tools I use regularly**  
-`Python` · `SQL` · `SQLite` · `Pandas` · `Flask` · `Requests/HTTP` · `JSON` · `Git/GitHub` · `Jupyter/Colab` · `PythonAnywhere` · `Markdown`
-
-**Comfortable (often AI-assisted)**  
-`Prompt Engineering` · `FastAPI` · `Matplotlib` · `LangChain` · `OpenAI API` · Basic `Node.js`/`SignalR` · `Power BI`-style dashboards
-
-**Learning next**  
-`Docker` · `PostgreSQL` · `BigQuery` · `Vertex AI`
-
-> I regularly use AI pair-programming tools for boilerplate and drafts, and I review/test all code before shipping.
+- Building automation tools for library systems and data analysis workflows  
+- Exploring **prompt engineering** with AI to create interactive learning tools  
+- Expanding my skills in `Python`, `SQL`, and data visualization  
+- Learning more about `FastAPI`, `LangChain`, and cloud-based AI platforms  
 
 ---
 
@@ -28,28 +22,24 @@ I'm passionate about tackling complex problems and am actively developing my ski
 ### 📊 IMLS Public Libraries Analysis (2022)
 An in-depth analysis of the IMLS Public Libraries Survey dataset to uncover trends in library services, funding, and community engagement across the United States. Demonstrates advanced data cleaning, visualization, and storytelling.
 - **[🔗 View on GitHub →](https://github.com/systemslibrarian/imls-public-libraries-2022)**
-- **Tech Stack:** `Python`, `Pandas`, `Matplotlib`, `Jupyter Notebook`
 
 ---
 
 ### 📚 NYT Bestsellers CatKey Generator
 An automation tool that fetches ISBNs for New York Times Bestsellers and generates catalog keys for seamless integration with SirsiDynix library systems — reducing manual data entry by hours each week.
 - **[🔗 View on GitHub →](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)**
-- **Tech Stack:** `Python`, `APIs`, `CSV`
 
 ---
 
 ### 🧠 Bible + AI Prompting Class (NIV Edition)
 A creative exploration of advanced **AI prompt engineering techniques** using Bible study as an interactive learning framework in Google Colab.
 - **[🔗 View on GitHub →](https://github.com/systemslibrarian/bible-ai-prompting-class)**
-- **Tech Stack:** `Prompt Engineering`, `Google Colab`, `Large Language Models (LLMs)`
 
 ---
 
 ### 🤖 Gemini-ChatGPT Interaction Controller
 A workflow demonstrating how to orchestrate communication between different LLMs, using Gemini for analysis and ChatGPT for summarization.
 - **[🔗 View on GitHub →](https://github.com/systemslibrarian/Gemini-ChatGPT-Interaction)**
-- **Tech Stack:** `Python`, `LLMs`, `API Integration`, `Prompt Engineering`
 
 ---
 

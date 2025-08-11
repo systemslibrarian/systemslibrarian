@@ -8,6 +8,18 @@ I'm passionate about tackling complex problems and am actively developing my ski
 
 ---
 
+## 💻 My Tech Stack (honest snapshot)
+
+**Core tools I use regularly**  
+`Python` · `SQL` · `SQLite` · `Pandas` · `Flask` · `Requests/HTTP` · `JSON` · `Git/GitHub` · `Jupyter/Colab` · `PythonAnywhere` · `Markdown`
+
+**Comfortable (often AI-assisted)**  
+`Prompt Engineering` · `FastAPI` · `Matplotlib` · `LangChain` · `OpenAI API` · Basic `Node.js`/`SignalR` · `Power BI`-style dashboards
+
+**Learning next**  
+`Docker` · `PostgreSQL` · `BigQuery` · `Vertex AI`
+
+> I regularly use AI pair-programming tools for boilerplate and drafts, and I review/test all code before shipping.
 
 ---
 

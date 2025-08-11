@@ -9,6 +9,7 @@
 With a background in IT librarianship and a passion for data, I build tools, data pipelines, and automated workflows that **turn information into actionable insight**.  
 
 I use AI as a **true development partner**, freeing me to focus on system architecture, data engineering, and delivering reliable, user-friendly solutions.  
+
 My ultimate goal? **Contribute to a world-class team at Google.**
 
 ---

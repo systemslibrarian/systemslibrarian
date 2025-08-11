@@ -1,46 +1,52 @@
-# Hi, I'm Paul 👋 — Application Systems & Data Analyst
+# Hi, I'm Paul 👋 — Application Systems Analyst
 
-I build tools and workflows that use **data**, **automation**, and **AI** to empower access to information and drive smarter decision-making.  
+**Google Certified Data Analyst** specializing in **AI-augmented development** and workflow automation.
 
-I'm passionate about tackling complex problems and am actively developing my skills with the long-term goal of joining an innovative team at a company like Google.
+With a background in IT librarianship and a passion for data, I bridge the gap between information systems and intelligent automation. I design, build, and deploy tools that empower access to information and drive smarter decision-making. My development process leverages AI for efficiency, allowing me to focus on system architecture, creative problem-solving, and ensuring every solution is rigorously tested and robust.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/systemslibrarian)
+[<img src="URL_TO_YOUR_GOOGLE_CERT_BADGE_IMAGE" alt="Google Data Analyst Certification Badge" height="28" />](URL_TO_YOUR_CREDLY_VERIFICATION_LINK) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />](https://www.linkedin.com/in/systemslibrarian)
 
 ---
 
-## 📚 What I'm Working On
+## My Development Philosophy & Toolkit
 
-- Building automation tools for library systems and data analysis workflows  
-- Exploring **prompt engineering** with AI to create interactive learning tools  
-- Expanding my skills in `Python`, `SQL`, and data visualization  
-- Learning more about `FastAPI`, `LangChain`, and cloud-based AI platforms  
+My experience in library and information systems has shown me firsthand how critical efficient access to data is. I now build the tools to make that happen. I embrace an **AI-first approach**, serving as the architect and quality guarantor for every project. This allows me to translate complex requirements into working applications with exceptional speed and precision.
 
-> I regularly use AI pair-programming tools for boilerplate and drafts, and I review/test all code.
+| Category          | Technologies                                                   |
+| :---------------- | :------------------------------------------------------------- |
+| **Languages** | `Python`, `SQL`                                                |
+| **AI / ML** | `Prompt Engineering`, `LangChain`, `Google AI Platform`, `OpenAI API` |
+| **Data & Automation**| `Pandas`, `FastAPI`, `Data Visualization`, `Workflow Automation` |
+| **Core Method** | `AI-Assisted Development`, `Test-Driven Development (TDD)`     |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📊 IMLS Public Libraries Analysis (2022)
-An in-depth analysis of the IMLS Public Libraries Survey dataset to uncover trends in library services, funding, and community engagement across the United States. Demonstrates advanced data cleaning, visualization, and storytelling.
+As a **Google Certified Data Analyst**, I conducted an in-depth analysis of the IMLS Public Libraries Survey dataset to uncover trends in library services and funding across the United States.
+- **`Tech:`** `Python`, `Pandas`, `Matplotlib`, `Jupyter`
 - **[🔗 View on GitHub →](https://github.com/systemslibrarian/imls-public-libraries-2022)**
 
 ---
 
 ### 📚 NYT Bestsellers CatKey Generator
-An automation tool that fetches ISBNs for New York Times Bestsellers and generates catalog keys for seamless integration with SirsiDynix library systems — reducing manual data entry by hours each week.
+Drawing on my experience as an **IT Librarian**, I built this automation tool to solve a recurring challenge in library systems. It fetches ISBNs for NYT Bestsellers and generates catalog keys for SirsiDynix, reducing manual data entry by hours.
+- **`Methodology:`** `AI-Assisted Development`, `Automation Scripting`
 - **[🔗 View on GitHub →](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)**
 
 ---
 
 ### 🧠 Bible + AI Prompting Class (NIV Edition)
 A creative exploration of advanced **AI prompt engineering techniques** using Bible study as an interactive learning framework in Google Colab.
+- **`Focus:`** `Advanced Prompt Engineering`, `Educational Design`
 - **[🔗 View on GitHub →](https://github.com/systemslibrarian/bible-ai-prompting-class)**
 
 ---
 
 ### 🤖 Gemini-ChatGPT Interaction Controller
-A workflow demonstrating how to orchestrate communication between different LLMs, using Gemini for analysis and ChatGPT for summarization.
+A workflow demonstrating how to orchestrate communication between different LLMs, using Gemini for analysis and ChatGPT for summarization. A prime example of high-level AI wrangling.
+- **`Focus:`** `LLM Orchestration`, `API Integration`
 - **[🔗 View on GitHub →](https://github.com/systemslibrarian/Gemini-ChatGPT-Interaction)**
 
 ---

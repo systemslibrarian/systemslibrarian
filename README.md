@@ -13,7 +13,7 @@ Learn **AI prompt engineering** through Bible study!
 This Colab-ready notebook blends **7 prompting lessons** with Scripture study in the **New International Version (NIV)**.
 
 [🔗 Explore the project →](https://github.com/systemslibrarian/bible-ai-prompting-class)  
-[📥 Download the notebook](https://github.com/systemslibrarian/bible-ai-prompting-class/blob/main/bible_ai_prompting_class_Lesson3_fixed.ipynb)
+[📥 Download the notebook](https://github.com/systemslibrarian/bible-ai-prompting-class/blob/main/bible_ai_prompting_masterclass_NIV_expanded.ipynb)
 
 **Highlights:**
 - 7 interactive lessons (role, context, stepwise, comparison, Socratic, format, application)

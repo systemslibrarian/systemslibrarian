@@ -4,6 +4,8 @@
 
 With a background in IT librarianship and a passion for data, I bridge the gap between information systems and intelligent automation. I specialize in designing and building tools, data pipelines, and workflows that empower access to information and drive smarter decision-making. My development process leverages AI for efficiency, allowing me to focus on system architecture, data engineering, and ensuring every solution is rigorously tested and robust. I am actively honing this methodology with the specific goal of contributing to a world-class team at Google.
 
+I actively share open-source tools, automation scripts, and data analysis projects here on GitHub.
+
 [<img src="https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue" alt="Google Data Analyst Certification Badge" height="28" />](https://www.credly.com/badges/d41670d1-a861-474d-be14-0c973c39d122/public_url) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />](https://www.linkedin.com/in/systemslibrarian)
 
 <br>
@@ -27,43 +29,35 @@ My experience in library and information systems has shown me firsthand how crit
 
 ## 🚀 Featured Projects
 
-### 📊 IMLS Public Libraries Analysis (2022)
+### 📊 [IMLS Public Libraries Analysis (2022)](https://github.com/systemslibrarian/imls-public-libraries-2022)
 An in-depth analysis of the IMLS Public Libraries Survey dataset to uncover trends in library services and funding across the United States.
 - **Tech:** `Python`, `Pandas`, `Matplotlib`, `Jupyter`
 - **Methodology:** `Data Analysis`, `Data Visualization`
 - **Focus:** `Public Library Data`, `Trend Analysis`
 
-**[🔗 View on GitHub →](https://github.com/systemslibrarian/imls-public-libraries-2022)**
-
 ---
 
-### 📚 NYT Bestsellers CatKey Generator
+### 📚 [NYT Bestsellers CatKey Generator](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)
 This tool solves a recurring challenge in library systems by fetching ISBNs for NYT Bestsellers and generating catalog keys for SirsiDynix.
 - **Tech:** `Python`, `Pandas`, `APIs`
 - **Methodology:** `AI-Assisted Development`, `Automation Scripting`
 - **Focus:** `Library Automation`, `Data Entry Reduction`
 
-**[🔗 View on GitHub →](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)**
-
 ---
 
-### 🧠 Bible + AI Prompting Class (NIV Edition)
+### 🧠 [Bible + AI Prompting Class (NIV Edition)](https://github.com/systemslibrarian/bible-ai-prompting-class)
 A creative exploration of advanced AI prompting techniques using Bible study as an interactive learning framework in Google Colab.
 - **Tech:** `Python`, `Google Colab`, `LLM APIs`
 - **Methodology:** `Prompt Engineering`, `Instructional Design`
 - **Focus:** `Creative AI Applications`, `Educational Tools`
 
-**[🔗 View on GitHub →](https://github.com/systemslibrarian/bible-ai-prompting-class)**
-
 ---
 
-### 🤖 Gemini-ChatGPT Interaction Controller
+### 🤖 [Gemini-ChatGPT Interaction Controller](https://github.com/systemslibrarian/Gemini-ChatGPT-Interaction)
 A practical example of workflow orchestration, this project demonstrates how to manage communication between different LLMs for a multi-step task.
 - **Tech:** `Python`, `Google Gemini API`, `OpenAI API`
 - **Methodology:** `Workflow Orchestration`, `API Integration`
 - **Focus:** `Multi-LLM Systems`, `AI Agent-Like Behavior`
-
-**[🔗 View on GitHub →](https://github.com/systemslibrarian/Gemini-ChatGPT-Interaction)**
 
 ---
 

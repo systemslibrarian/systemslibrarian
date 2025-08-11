@@ -4,7 +4,7 @@
 
 With a background in IT librarianship and a passion for data, I bridge the gap between information systems and intelligent automation. I design, build, and deploy tools that empower access to information and drive smarter decision-making. My development process leverages AI for efficiency, allowing me to focus on system architecture, creative problem-solving, and ensuring every solution is rigorously tested and robust.
 
-[<img src="https://images.credly.com/images/d41670d1-a861-474d-be14-0c973c39d122/image.png" alt="Google Data Analyst Certification Badge" height="28" />](https://www.credly.com/badges/d41670d1-a861-474d-be14-0c973c39d122/public_url) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />](https://www.linkedin.com/in/systemslibrarian)
+[<img src="https://img.shields.io/badge/Google_Certified-Data_Analyst-blue.svg?logo=google" alt="Google Data Analyst Certification Badge" height="28" />](https://www.credly.com/badges/d41670d1-a861-474d-be14-0c973c39d122/public_url) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />](https://www.linkedin.com/in/systemslibrarian)
 
 ---
 

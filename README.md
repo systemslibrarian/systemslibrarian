@@ -14,7 +14,7 @@ I actively share open-source tools, automation scripts, and data analysis projec
 
 ## My Development Philosophy & Toolkit
 
-My time in libraries wasn't just about technology; it was about seeing firsthand the frustration people face when data is hard to reach. That experience is the foundation of my work today: **I build tools to eliminate that friction.**
+My work in libraries isn't just about technology; it's about seeing firsthand the frustration people face when data is hard to reach. That daily experience is the foundation of my work: **I build tools to eliminate that friction**
 
 My approach is **people-first, but my toolkit is AI-first.** I leverage AI as a development partner to handle complex coding and testing, which allows me to focus on what truly matters: understanding user needs, architecting robust systems, and ensuring every solution is both powerful and intuitive. This synergy of human-centric design and AI-powered execution means I can deliver better, more reliable applications, faster.
 

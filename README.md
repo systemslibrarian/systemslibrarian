@@ -1,42 +1,54 @@
-# Hi, I'm Paul — Application Systems Analyst & Data Analyst
+# Hi, I'm Paul 👋 — Application Systems & Data Analyst
 
-I believe in using **data**, **automation**, and **AI** to empower access to information and drive smarter decision-making.
+I build tools and workflows that use **data**, **automation**, and **AI** to empower access to information and drive smarter decision-making.  
 
-🎯 **Dream role?** Working at Google one day  
-🛠️ Until then, I'm building, learning, and contributing — one project at a time.
+I'm passionate about tackling complex problems and am actively developing my skills with the long-term goal of joining an innovative team at a company like Google.
 
----
-
-## 📖 Featured Project — Bible + AI Prompting Class (NIV Edition)
-
-Learn **AI prompt engineering** through Bible study!  
-This Colab-ready notebook blends **7 prompting lessons** with Scripture study in the **New International Version (NIV)**.
-
-[🔗 Explore the project →](https://github.com/systemslibrarian/bible-ai-prompting-class)  
-[📥 Download the notebook](https://github.com/systemslibrarian/bible-ai-prompting-class/blob/main/bible_ai_prompting_masterclass_NIV_expanded.ipynb)
-
-**Highlights:**
-- 7 interactive lessons (role, context, stepwise, comparison, Socratic, format, application)
-- Expanded Prompt Library with 5 categories
-- Advanced Bible study templates
-- Exportable study notes
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/systemslibrarian)
+[<img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://your-portfolio-website.com)
 
 ---
 
-## 🏛️ Library Automation Tools
-- 🔗 [NYT-Bestsellers-CatKey-Generator](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator) — ISBN lookup tool for Solus/SirsiDynix integration
+## 💻 My Tech Stack
 
-## 🤖 AI & Language Workflows
-- 🔗 [Gemini-ChatGPT-Interaction](https://github.com/systemslibrarian/Gemini-ChatGPT-Interaction) — Compare responses across LLMs
-- 🔗 [YouTube-MP3-Transcript-Summary](https://github.com/systemslibrarian/YouTube-MP3-Transcript-Summary) — From audio to summary using Whisper + GPT
-
-## 📰 Data Ingestion & Scraping
-- 🔗 [pressreader-news-scraper](https://github.com/systemslibrarian/pressreader-news-scraper) — Store PressReader articles in SQLite
-
-## 📊 Data Analytics Projects
-- 🔗 [enterprise-customer-segmentation-analytics](https://github.com/systemslibrarian/enterprise-customer-segmentation-analytics) — SQL & Python toolkit for data cleaning, segmentation, modeling, and dashboards
-- 🔗 [imls-public-libraries-2022](https://github.com/systemslibrarian/imls-public-libraries-2022) — Visualizes trends from the IMLS FY2022 Public Library Survey
+| Category | Proficient In | Currently Learning |
+| :--- | :--- | :--- |
+| **Languages** | `Python`, `SQL`, `JavaScript` | `R` |
+| **Data & Analytics** | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Power BI`, `Tableau` | `Scikit-learn`, `Google Analytics` |
+| **AI & ML** | `Prompt Engineering`, `LangChain`, `OpenAI API` | `TensorFlow`, `PyTorch`, `Hugging Face`, `Google AI Platform (Vertex AI)` |
+| **Databases** | `SQLite`, `MySQL` | `PostgreSQL` |
+| **Tools & Platforms** | `Git`, `Google Colab`, `Jupyter Notebooks`, `VS Code` | `Docker` |
 
 ---
 
-> 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/systemslibrarian)
+## 🚀 Featured Projects
+
+### 📊 IMLS Public Libraries Analysis (2022)
+An in-depth analysis of the IMLS Public Libraries Survey dataset to uncover trends in library services, funding, and community engagement across the United States. Demonstrates advanced data cleaning, visualization, and storytelling.
+- **[🔗 View on GitHub →](https://github.com/systemslibrarian/imls-public-libraries-2022)**
+- **Tech Stack:** `Python`, `Pandas`, `Matplotlib`, `Jupyter Notebook`
+
+---
+
+### 📚 NYT Bestsellers CatKey Generator
+An automation tool that fetches ISBNs for New York Times Bestsellers and generates catalog keys for seamless integration with SirsiDynix library systems — reducing manual data entry by hours each week.
+- **[🔗 View on GitHub →](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)**
+- **Tech Stack:** `Python`, `APIs`, `CSV`
+
+---
+
+### 🧠 Bible + AI Prompting Class (NIV Edition)
+A creative exploration of advanced **AI prompt engineering techniques** using Bible study as an interactive learning framework in Google Colab.
+- **[🔗 View on GitHub →](https://github.com/systemslibrarian/bible-ai-prompting-class)**
+- **Tech Stack:** `Prompt Engineering`, `Google Colab`, `Large Language Models (LLMs)`
+
+---
+
+### 🤖 Gemini-ChatGPT Interaction Controller
+A workflow demonstrating how to orchestrate communication between different LLMs, using Gemini for analysis and ChatGPT for summarization.
+- **[🔗 View on GitHub →](https://github.com/systemslibrarian/Gemini-ChatGPT-Interaction)**
+- **Tech Stack:** `Python`, `LLMs`, `API Integration`, `Prompt Engineering`
+
+---
+
+💬 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/systemslibrarian)

@@ -8,15 +8,6 @@ I'm passionate about tackling complex problems and am actively developing my ski
 
 ---
 
-## 💻 My Tech Stack
-
-| Category | Proficient In | Currently Learning |
-| :--- | :--- | :--- |
-| **Languages** | `Python`, `SQL`, `JavaScript` | `R` |
-| **Data & Analytics** | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Power BI`, `Tableau` | `Scikit-learn`, `Google Analytics` |
-| **AI & ML** | `Prompt Engineering`, `LangChain`, `OpenAI API` | `TensorFlow`, `PyTorch`, `Hugging Face`, `Google AI Platform (Vertex AI)` |
-| **Databases** | `SQLite`, `MySQL` | `PostgreSQL` |
-| **Tools & Platforms** | `Git`, `Google Colab`, `Jupyter Notebooks`, `VS Code` | `Docker` |
 
 ---
 

@@ -5,7 +5,6 @@ I build tools and workflows that use **data**, **automation**, and **AI** to emp
 I'm passionate about tackling complex problems and am actively developing my skills with the long-term goal of joining an innovative team at a company like Google.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/systemslibrarian)
-[<img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://your-portfolio-website.com)
 
 ---
 

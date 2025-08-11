@@ -15,6 +15,8 @@ I'm passionate about tackling complex problems and am actively developing my ski
 - Expanding my skills in `Python`, `SQL`, and data visualization  
 - Learning more about `FastAPI`, `LangChain`, and cloud-based AI platforms  
 
+> I regularly use AI pair-programming tools for boilerplate and drafts, and I review/test all code.
+
 ---
 
 ## 🚀 Featured Projects

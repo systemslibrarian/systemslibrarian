@@ -37,7 +37,7 @@ My approach is *people-first*, but my **toolkit is AI-first**.
 ---
 
 ### 📚 [NYT Bestsellers CatKey Generator](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)
-**Automates catalog key creation** for SirsiDynix by fetching NYT Bestsellers ISBNs.  
+**Automates catalog key creation** for SirsiDynix by fetching NYT Bestsellers ISBNs. Perfect for updating Solus App book rivers and spotting collection gaps.  
 *Tech:* `Python`, `Pandas`, `APIs` · *Methodology:* `AI-Assisted Dev`, `Automation Scripting` · *Focus:* `Library Automation`, `Data Entry Reduction`
 
 ---

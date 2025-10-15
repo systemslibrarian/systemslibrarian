@@ -1,6 +1,6 @@
-# Hi, I'm Paul 👋 — Application Systems Analyst & Google-Certified Data Analyst
+# Hi, I'm Paul 👋 — Application Systems Analyst & Google-Certified Data Analyst  
 
-[![Google Data Analyst Certification Badge](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue)](https://www.credly.com/badges/d41670d1-a861-474d-be14-0c973c39d122/public_url)
+[![Google Data Analytics Certification Badge](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue)](https://www.credly.com/badges/d41670d1-a861-474d-be14-0c973c39d122/public_url)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/systemslibrarian)
 
 ---
@@ -16,45 +16,44 @@ My ultimate goal? **Contribute to a world-class team at Google while creating te
 
 ---
 
-## 🛠 My Development Philosophy & Toolkit
+## 🧠 Philosophy & Toolkit
 
-I’ve seen firsthand how frustrating inaccessible data can be — my mission is to **remove that friction**.  
-My approach is *people-first*, but my **toolkit is AI-first**.
+I believe in designing systems that simplify, not complicate — using AI responsibly to *empower people* and *enhance access to knowledge.*
 
 | Category              | Technologies & Methods |
 | :-------------------- | :---------------------- |
 | **Languages**         | `Python`, `SQL` |
-| **AI / ML**            | `Prompt Engineering`, `LangChain`, `Google AI Platform`, `OpenAI API` |
-| **Data & Engineering** | `Data Pipelines`, `Pandas`, `FastAPI`, `Data Visualization`, `Workflow Automation` |
-| **Core Practices**     | `AI-Assisted Development`, `Test-Driven Development (TDD)` |
+| **AI / ML**           | `Prompt Engineering`, `LangChain`, `OpenAI API`, `Google AI Platform` |
+| **Data & Engineering** | `Data Pipelines`, `FastAPI`, `Pandas`, `Visualization`, `Automation` |
+| **Core Practices**     | `AI-Assisted Development`, `Ethical Design`, `Test-Driven Development (TDD)` |
 
 ---
 
-## 🚀 Featured Projects
+## 🌍 Featured Projects
 
 ### 📊 [IMLS Public Libraries Analysis (2022)](https://github.com/systemslibrarian/imls-public-libraries-2022)
-**Analyzing U.S. library service & funding trends** using the IMLS Public Libraries Survey dataset.  
-*Tech:* `Python`, `Pandas`, `Matplotlib` · *Methodology:* `Data Analysis`, `Visualization` · *Focus:* `Public Library Data`, `Trend Insights`
+Analyzing **U.S. library service and funding trends** using IMLS Public Libraries Survey data.  
+*Tech:* `Python`, `Pandas`, `Matplotlib` · *Focus:* `Public Library Data`, `Visualization`, `Insights`
 
 ---
 
 ### 📚 [NYT Bestsellers CatKey Generator](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)
-**Automates catalog key creation** for SirsiDynix by fetching NYT Bestsellers ISBNs. Perfect for updating Solus App book rivers and spotting collection gaps.  
-*Tech:* `Python`, `Pandas`, `APIs` · *Methodology:* `AI-Assisted Dev`, `Automation Scripting` · *Focus:* `Library Automation`, `Data Entry Reduction`
+Automates **catalog key creation** for SirsiDynix by fetching NYT Bestseller ISBNs — streamlining collection updates.  
+*Tech:* `Python`, `APIs`, `Automation` · *Focus:* `Library Automation`, `Data Efficiency`
 
 ---
 
 ### 🧠 [Bible + AI Prompting Class (NIV Edition)](https://github.com/systemslibrarian/bible-ai-prompting-class)
-**Teaches AI prompting** via interactive Bible study in Google Colab.  
-*Tech:* `Python`, `Colab`, `LLM APIs` · *Methodology:* `Prompt Engineering`, `Instructional Design` · *Focus:* `Creative AI Applications`, `Education`
+Teaches **AI prompting through interactive Bible study** in Google Colab.  
+*Tech:* `Python`, `Colab`, `LLM APIs` · *Focus:* `Education`, `Faith + Technology`
 
 ---
 
 ### 🤖 [Gemini-ChatGPT Interaction Controller](https://github.com/systemslibrarian/Gemini-ChatGPT-Interaction)
-**Orchestrates multi-step workflows** between Gemini and ChatGPT APIs.  
-*Tech:* `Python`, `Gemini API`, `OpenAI API` · *Methodology:* `Workflow Orchestration`, `API Integration` · *Focus:* `Multi-LLM Systems`, `AI Agent Behavior`
+Orchestrates **multi-step workflows** between Gemini and ChatGPT APIs.  
+*Tech:* `Python`, `Gemini API`, `OpenAI API` · *Focus:* `Multi-LLM Systems`, `Automation`
 
 ---
 
-💬 **Let’s Connect** — Open to collaborations, data challenges, and library tech discussions.  
-**[Find me on LinkedIn →](https://www.linkedin.com/in/systemslibrarian)**
+💬 **Let’s Connect** — I’m always open to collaborations, data challenges, or projects that combine **AI, ethics, and public good.**  
+> 🕊️ *Built to serve people and glorify God.*

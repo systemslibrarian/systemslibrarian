@@ -6,17 +6,17 @@
 ---
 
 **Specializing in AI-augmented development, library technology, and workflow automation.**  
-With a background in IT librarianship and a passion for data, I build tools, data pipelines, and automated workflows that **turn information into actionable insight**.  
+With a background in IT librarianship and a passion for data, I build tools, data pipelines, and automated workflows that **turn information into actionable insight.**
 
-I use AI as a **true development partner**, freeing me to focus on system architecture, data engineering, and delivering reliable, user-friendly solutions.  
+I use AI as a **true development partner**, freeing me to focus on system architecture, data engineering, and delivering reliable, user-friendly solutions.
 
-💡 **I believe technology is a gift from God — meant to serve people, bring light, and reflect His wisdom and creativity. Everything I build, I want to use for good and for God’s glory.**  
+💡 **I believe technology is a gift from God — meant to serve people, bring light, and reflect His wisdom and creativity. Everything I build, I want to use for good and for God’s glory.**
 
 My ultimate goal? **Contribute to a world-class team at Google while creating technology that honors God and helps people.**
 
 ---
 
-## 🧠 Philosophy & Toolkit
+## 🧠 Philosophy & Toolkit  
 
 I believe in designing systems that simplify, not complicate — using AI responsibly to *empower people* and *enhance access to knowledge.*
 
@@ -29,7 +29,7 @@ I believe in designing systems that simplify, not complicate — using AI respon
 
 ---
 
-## 🌍 Featured Projects
+## 🌍 Featured Projects  
 
 ### 📊 [IMLS Public Libraries Analysis (2022)](https://github.com/systemslibrarian/imls-public-libraries-2022)
 Analyzing **U.S. library service and funding trends** using IMLS Public Libraries Survey data.  
@@ -56,4 +56,9 @@ Orchestrates **multi-step workflows** between Gemini and ChatGPT APIs.
 ---
 
 💬 **Let’s Connect** — I’m always open to collaborations, data challenges, or projects that combine **AI, ethics, and public good.**  
-> 🕊️ *Built to serve people and glorify God.*
+
+> 🕊️ *Built to serve people and glorify God.*  
+
+---
+
+> _“Whatever you do, do it all for the glory of God.” — 1 Corinthians 10:31_

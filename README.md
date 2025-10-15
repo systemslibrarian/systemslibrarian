@@ -10,7 +10,9 @@ With a background in IT librarianship and a passion for data, I build tools, dat
 
 I use AI as a **true development partner**, freeing me to focus on system architecture, data engineering, and delivering reliable, user-friendly solutions.  
 
-My ultimate goal? **Contribute to a world-class team at Google.**
+💡 **I believe technology is a gift from God — meant to serve people, bring light, and reflect His wisdom and creativity. Everything I build, I want to use for good and for God’s glory.**  
+
+My ultimate goal? **Contribute to a world-class team at Google while creating technology that honors God and helps people.**
 
 ---
 

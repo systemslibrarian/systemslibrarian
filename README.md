@@ -31,7 +31,7 @@ I believe in designing systems that simplify, not complicate — using AI respon
 
 ---
 
-## 🌟 Featured Project — *AI Conversation Platform v5.0*  
+## 🌟 Featured Project — *AI Conversation Platform*  
 
 ### 🤖 [AI Conversation Platform – The Future of Multi-Agent Collaboration](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)
 

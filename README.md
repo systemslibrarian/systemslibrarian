@@ -49,7 +49,7 @@ No scripts. No prompts. Just **real-time, multi-model dialogue** — with:
 - **Live web dashboard + CLI control**  
 - **Prometheus + Grafana observability**  
 - **LLM Guard security & path hardening**  
-- **Docker, CI/CD, 72 %+ test coverage**
+- **Docker, CI/CD, 90 %+ test coverage**
 
 ```bash
 uv run aic-start --agent1 claude --agent2 chatgpt --topic "AI consciousness" --yes

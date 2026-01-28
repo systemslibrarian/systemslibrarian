@@ -22,41 +22,60 @@ My ultimate goal? **Contribute to a world-class team at Google while creating te
 
 I believe in designing systems that simplify, not complicate — using AI responsibly to *empower people* and *enhance access to knowledge.*
 
-| Category              | Technologies & Methods |
-| :-------------------- | :---------------------- |
-| **Languages**         | `Python`, `SQL` |
-| **AI / ML**           | `Prompt Engineering`, `LangChain`, `OpenAI API`, `Google AI Platform` |
+| Category               | Technologies & Methods |
+| :--------------------- | :--------------------- |
+| **Languages**          | `Python`, `SQL` |
+| **AI / ML**            | `Prompt Engineering`, `LangChain`, `OpenAI API`, `Google AI Platform` |
 | **Data & Engineering** | `Data Pipelines`, `FastAPI`, `Pandas`, `Visualization`, `Automation` |
 | **Core Practices**     | `AI-Assisted Development`, `Ethical Design`, `Test-Driven Development (TDD)` |
 
 ---
 
-## 🌟 Featured Project — *AI Conversation Platform*  
+## 🌟 Featured Projects  
 
-### 🤖 [AI Conversation Platform – The Future of Multi-Agent Collaboration](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)
+### 🤖 AI Conversation Platform — *Multi-Agent AI Collaboration*
+🔗 https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration
 
-> **"Because AIs shouldn't monologue — they should *converse*."**
-
-**Let AIs Talk — Like Never Before.**  
-*Watch Claude debate ChatGPT. See Gemini roast Grok. Let Perplexity fact-check them all — live, async, and unscripted.*
+> **“Because AIs shouldn’t monologue — they should *converse*.”**
 
 A **fully async, type-safe, enterprise-grade platform** that turns AI models into autonomous conversational agents.  
-No scripts. No prompts. Just **real-time, multi-model dialogue** — with:
+No scripts. No prompts. Just **real-time, multi-model dialogue**.
 
-- **5 top-tier LLMs** (Claude, ChatGPT, Gemini, Grok, Perplexity)  
-- **Zero-downtime async orchestration**  
-- **Built-in circuit breakers & rate limiting**  
-- **Live web dashboard + CLI control**  
-- **Prometheus + Grafana observability**  
-- **LLM Guard security & path hardening**  
-- **Docker, CI/CD, 90 %+ test coverage**
+**Highlights**
+- 5 top-tier LLMs (Claude, ChatGPT, Gemini, Grok, Perplexity)
+- Async orchestration with circuit breakers & rate limiting
+- Web dashboard + CLI control
+- Observability (Prometheus + Grafana)
+- LLM Guard security & path hardening
+- Docker, CI/CD, 90%+ test coverage
 
 ```bash
 uv run aic-start --agent1 claude --agent2 chatgpt --topic "AI consciousness" --yes
 ```
 
-**Start a debate. Watch the sparks fly.**  
 *Production-ready. Developer-obsessed. AI-to-AI, out of the box.*
+
+---
+
+### 🔐 Meow-Decoder — *Secure Air-Gapped Data Transfer*
+🔗 https://github.com/systemslibrarian/meow-decoder
+
+**Meow-Decoder** explores how to securely move data across **air-gapped channels** (QR codes / animated images) using **modern, misuse-resistant cryptography**.
+
+This project is intentionally built with a **security-review mindset**, emphasizing correctness, explicit protocols, and safe failure behavior.
+
+**Security & Design Focus**
+- AES-256-GCM authenticated encryption
+- Argon2id password-based key derivation
+- Strong tamper detection and non-leaky failure modes
+- Explicit protocol specification (byte-level formats)
+- Threat modeling and formal-methods scaffolding (TLA+ / symbolic analysis)
+- Designed to resist misuse, not just pass tests
+
+> **Status:** Pre-v1.0 — actively hardening toward a security-reviewed release  
+> **Note:** Not yet audited; security claims are precise and intentionally conservative
+
+*Built to explore cryptographic engineering discipline, not hype.*
 
 ---
 
@@ -69,8 +88,8 @@ Analyzing **U.S. library service and funding trends** using IMLS Public Librarie
 ---
 
 ### 📚 [NYT Bestsellers CatKey Generator](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)
-Automates **catalog key creation** for SirsiDynix by fetching NYT Bestseller ISBNs — streamlining collection updates.  
-*Tech:* `Python`, `APIs`, `Automation` · *Focus:* `Library Automation`, `Data Efficiency`
+Automates **catalog key creation** for SirsiDynix by fetching NYT Bestseller ISBNs.  
+*Tech:* `Python`, `APIs`, `Automation` · *Focus:* `Library Automation`
 
 ---
 
@@ -82,7 +101,7 @@ Teaches **AI prompting through interactive Bible study** in Google Colab.
 
 ### ⚙️ [Gemini–ChatGPT Interaction Controller](https://github.com/systemslibrarian/Gemini-ChatGPT-Interaction)
 Orchestrates **multi-step workflows** between Gemini and ChatGPT APIs.  
-*Tech:* `Python`, `Gemini API`, `OpenAI API` · *Focus:* `Multi-LLM Systems`, `Automation`
+*Tech:* `Python`, `Gemini API`, `OpenAI API` · *Focus:* `Multi-LLM Systems`
 
 ---
 

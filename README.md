@@ -58,29 +58,21 @@ uv run aic-start --agent1 claude --agent2 chatgpt --topic "AI consciousness" --y
 ---
 
 ### 🔐 Meow-Decoder — *Secure Air-Gapped Data Transfer*
-🔗 https://github.com/systemslibrarian/meow-decoder
+🔗 Repo: https://github.com/systemslibrarian/meow-decoder  
+🌐 Live demo (web): http://www.meowdecoder.com *(demo UI; not the security boundary — don’t enter secrets)*
 
-Meow-Decoder explores secure data transfer across air-gapped optical channels (QR codes and animated images) using modern, misuse-resistant cryptography.
+Meow-Decoder is a research/dev project for moving data across air gaps using **animated QR / image frames**.  
+A phone acts only as an **untrusted optical sensor**; **all cryptography runs on the endpoints**.
 
-It’s built with a security-review mindset: explicit protocols, correctness-first engineering, and fail-closed behavior.
+**Security & design focus**
+- **AEAD:** AES-256-GCM
+- **Password KDF:** Argon2id
+- Fail-closed parsing + tamper detection (no “helpful” crypto-oracle errors)
+- Explicit, versioned **byte-level protocol specs**
+- Threat model + security invariants; formal-methods scaffolding (TLA+/symbolic work-in-progress)
+- Misuse-resistant *design goals* (guardrails, conservative defaults)
 
-Security & Design Focus
-
-AES-256-GCM authenticated encryption
-
-Argon2id password-based key derivation
-
-Strong tamper detection with non-leaky failure modes
-
-Explicit, versioned protocol specs (byte-level formats)
-
-Threat modeling and formal-methods scaffolding (e.g., TLA+ / symbolic modeling)
-
-Designed to resist misuse, not just pass tests
-
-Status: Pre-v1.0 — actively hardening toward an external security review.
-Note: Not yet externally audited; claims are intentionally conservative.
-
+**Status:** Pre-v1.0 hardening. **Not externally audited.** Claims are intentionally conservative.  
 Built to explore cryptographic engineering discipline—not hype.
 
 ---

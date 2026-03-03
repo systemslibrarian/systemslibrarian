@@ -57,28 +57,43 @@ uv run aic-start --agent1 claude --agent2 chatgpt --topic "AI consciousness" --y
 *Production-ready. Developer-obsessed. AI-to-AI, out of the box.*
 
 ---
+### 🔐 [Meow-Decoder — Secure Air-Gapped Data Transfer](https://github.com/systemslibrarian/meow-decoder)
+🌐 **[Live Demo](https://www.meowdecoder.com)**
 
-### 🔐 Meow-Decoder — *Secure Air-Gapped Data Transfer*
-🔗 Repo: https://github.com/systemslibrarian/meow-decoder  
-🌐 Try Live demo : https://www.meowdecoder.com 
+Meow-Decoder is a research and development project for transferring data across air gaps using **animated QR / image frames**.
 
-Meow-Decoder is a research/dev project for moving data across air gaps using **animated QR / image frames**.  
-A phone acts only as an **untrusted optical sensor**; **all cryptography runs on the endpoints**.
+A phone acts only as an **untrusted optical sensor**. All cryptographic operations happen on the endpoints.
 
-**Security & design focus**
+**Security and design focus**
 - **AEAD:** AES-256-GCM
 - **Password KDF:** Argon2id
-- Fail-closed parsing + tamper detection (no “helpful” crypto-oracle errors)
-- Explicit, versioned **byte-level protocol specs**
-- Threat model + security invariants; formal-methods scaffolding (TLA+/symbolic work-in-progress)
-- Misuse-resistant *design goals* (guardrails, conservative defaults)
+- Fail-closed parsing and tamper detection
+- Explicit, versioned byte-level protocol specifications
+- Threat-model-driven design and security invariants
+- Conservative, misuse-resistant design goals
 
-**Status:** Pre-v1.0 hardening. **Not externally audited.** Claims are intentionally conservative.  
-Built to explore cryptographic engineering discipline—not hype.
+**Status:** Pre-v1 hardening. **Not externally audited.**  
+This project is focused on disciplined cryptographic engineering, careful protocol design, and honest security boundaries.
 
 ---
 
-## 🌍 Additional Projects  
+## 🌍 Additional Projects
+
+### 🐢 [Dad Mode Morse](https://github.com/systemslibrarian/dad-mode-morse)
+🌐 **[Live Demo](https://systemslibrarian.github.io/dad-mode-morse/)**
+
+A browser-based Morse messaging app that combines **encryption, audio transmission, and tribute-driven design** in a project dedicated to my dad, a Navy veteran who knew Morse code.  
+*Tech:* `JavaScript`, `Web Audio`, `Client-Side Crypto`, `HTML/CSS` · *Focus:* `Creative Security`, `Signal Encoding`, `Human-Centered Design`
+
+---
+
+### ❄️ [SNOW2](https://github.com/systemslibrarian/snow2)
+🌐 **[Live Demo](https://systemslibrarian.github.io/snow2/)**
+
+A modern Rust tribute to the classic SNOW steganography tool, focused on **secure hidden-message embedding**, modern cryptography, and educational security engineering.  
+*Tech:* `Rust`, `WASM`, `Cryptography`, `Steganography` · *Focus:* `Security Engineering`, `Privacy Tools`, `Modernized Classic Concepts`
+
+---
 
 ### 📊 [IMLS Public Libraries Analysis (2022)](https://github.com/systemslibrarian/imls-public-libraries-2022)
 Analyzing **U.S. library service and funding trends** using IMLS Public Libraries Survey data.  
@@ -104,10 +119,12 @@ Orchestrates **multi-step workflows** between Gemini and ChatGPT APIs.
 
 ---
 
-💬 **Let’s Connect** — I’m always open to collaborations, data challenges, or projects that combine **AI, ethics, and public good.**  
+## 💬 Let’s Connect
 
-> 🕊️ *Built to serve people and glorify God.*  
+I’m always open to collaboration, thoughtful technical discussions, and projects that combine **AI, data, automation, ethics, and public good**.
+
+If you’re building systems that help people, improve access to knowledge, or solve real operational problems, I’d love to connect.
+
+> 🕊️ *Built to serve people and glorify God.*
 
 ---
-
-> _“Whatever you do, do it all for the glory of God.” — 1 Corinthians 10:31_

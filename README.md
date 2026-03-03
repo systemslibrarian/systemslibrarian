@@ -60,7 +60,7 @@ uv run aic-start --agent1 claude --agent2 chatgpt --topic "AI consciousness" --y
 
 ### 🔐 Meow-Decoder — *Secure Air-Gapped Data Transfer*
 🔗 Repo: https://github.com/systemslibrarian/meow-decoder  
-🌐 Live demo (web): https://www.meowdecoder.com *(demo UI)*
+🌐 Try Live demo : https://www.meowdecoder.com **
 
 Meow-Decoder is a research/dev project for moving data across air gaps using **animated QR / image frames**.  
 A phone acts only as an **untrusted optical sensor**; **all cryptography runs on the endpoints**.

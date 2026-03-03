@@ -18,16 +18,17 @@ My ultimate goal? **Contribute to a world-class team at Google while creating te
 
 ---
 
-## 🧠 Philosophy & Toolkit  
+## Philosophy & Toolkit
 
-I believe in designing systems that simplify, not complicate — using AI responsibly to *empower people* and *enhance access to knowledge.*
+I believe in designing systems that simplify, not complicate — using AI responsibly to *empower people* and *enhance access to knowledge*.
 
-| Category               | Technologies & Methods |
-| :--------------------- | :--------------------- |
-| **Languages**          | `Python`, `SQL` |
-| **AI / ML**            | `Prompt Engineering`, `LangChain`, `OpenAI API`, `Google AI Platform` |
-| **Data & Engineering** | `Data Pipelines`, `FastAPI`, `Pandas`, `Visualization`, `Automation` |
-| **Core Practices**     | `AI-Assisted Development`, `Ethical Design`, `Test-Driven Development (TDD)` |
+| Category | Technologies & Methods |
+| :-- | :-- |
+| **Languages** | `Python`, `SQL`, `Rust`, `JavaScript`, `HTML/CSS` |
+| **AI / ML** | `Prompt Engineering`, `LangChain`, `OpenAI API`, `Google AI Platform`, `Multi-Agent Systems`, `LLM Orchestration` |
+| **Data & Engineering** | `Data Pipelines`, `FastAPI`, `Pandas`, `Visualization`, `Automation`, `APIs`, `WASM`, `Async Systems`, `CI/CD`, `Observability` |
+| **Security / Privacy** | `Applied Cryptography`, `Protocol Design`, `Threat Modeling`, `Steganography`, `Tamper Detection`, `Fail-Closed Design` |
+| **Core Practices** | `AI-Assisted Development`, `Ethical Design`, `Test-Driven Development (TDD)`, `Security Review`, `Human-Centered Design` |
 
 ---
 

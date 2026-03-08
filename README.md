@@ -36,7 +36,7 @@ I believe in designing systems that simplify, not complicate — using AI respon
 
 ### 🤖 AI Conversation Platform — *Multi-Agent AI Collaboration*
 
-### [https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration]
+###{https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration}
 
 
 > 🚀 **[Live Demo](https://ai-conversation-demo.onrender.com)** — Watch AI models debate in real-time!

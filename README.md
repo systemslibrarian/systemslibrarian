@@ -12,7 +12,7 @@ With a background in IT librarianship and a passion for data, I build tools, dat
 
 I use AI as a **true development partner**, freeing me to focus on system architecture, data engineering, and delivering reliable, user-friendly solutions.
 
-💡 **I believe technology is a gift from God — meant to serve people, bring light, and reflect His wisdom and creativity. Everything I build, I want to use for good and for God’s glory.**
+💡 **I believe technology is a gift from God — meant to serve people, bring light, and reflect His wisdom and creativity. Everything I build, I want to use for good and for God's glory.**
 
 My ultimate goal? **Contribute to a world-class team at Google while creating technology that honors God and helps people.**
 
@@ -34,14 +34,11 @@ I believe in designing systems that simplify, not complicate — using AI respon
 
 ## 🌟 Featured Projects  
 
-### 🤖 AI Conversation Platform — *Multi-Agent AI Collaboration*
-
-###{https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration}
-
+### 🤖 [AI Conversation Platform — *Multi-Agent AI Collaboration*](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)
 
 > 🚀 **[Live Demo](https://ai-conversation-demo.onrender.com)** — Watch AI models debate in real-time!
 
-> **“Because AIs shouldn’t monologue — they should *converse*.”**
+> **"Because AIs shouldn't monologue — they should *converse*."**
 
 A **fully async, type-safe, enterprise-grade platform** that turns AI models into autonomous conversational agents.  
 No scripts. No prompts. Just **real-time, multi-model dialogue**.
@@ -61,6 +58,7 @@ uv run aic-start --agent1 claude --agent2 chatgpt --topic "AI consciousness" --y
 *Production-ready. Developer-obsessed. AI-to-AI, out of the box.*
 
 ---
+
 ### 🔐 [Meow-Decoder — Secure Air-Gapped Data Transfer](https://github.com/systemslibrarian/meow-decoder)
 🌐 **[Live Demo](https://www.meowdecoder.com)**
 
@@ -123,12 +121,13 @@ Orchestrates **multi-step workflows** between Gemini and ChatGPT APIs.
 
 ---
 
-## 💬 Let’s Connect
+## 💬 Let's Connect
 
-I’m always open to collaboration, thoughtful technical discussions, and projects that combine **AI, data, automation, ethics, and public good**.
+I'm always open to collaboration, thoughtful technical discussions, and projects that combine **AI, data, automation, ethics, and public good**.
 
-If you’re building systems that help people, improve access to knowledge, or solve real operational problems, I’d love to connect.
-
-> 🕊️ *Built to serve people and glorify God.*
+If you're building systems that help people, improve access to knowledge, or solve real operational problems, I'd love to connect.
 
 ---
+
+> *"So whether you eat or drink or whatever you do, do it all for the glory of God."*
+> — **1 Corinthians 10:31 (NIV)**

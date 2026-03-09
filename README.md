@@ -81,7 +81,8 @@ This project is focused on disciplined cryptographic engineering, careful protoc
 
 ## 🌍 Additional Projects
 ### ✝️ Scripture Journey
-https://github.com/systemslibrarian/scripture-journey
+🔗 Repo: https://github.com/systemslibrarian/scripture-journey  
+🌐 Live Demo: https://scripturejourney.com
 
 A Christ-centered learning application designed to help people explore how the **entire Bible points to Jesus through promise, prophecy, pattern, and fulfillment**.
 

@@ -81,12 +81,13 @@ This project is focused on disciplined cryptographic engineering, careful protoc
 
 ## 🌍 Additional Projects
 ### ✝️ Scripture Journey
+
 🔗 Repo: https://github.com/systemslibrarian/scripture-journey  
 🌐 Live Demo: https://scripturejourney.com
 
-A Christ-centered learning application designed to help people explore how the **entire Bible points to Jesus through promise, prophecy, pattern, and fulfillment**.
+A Christ-centered learning application designed to help people explore how the entire Bible points to Jesus through promise, prophecy, pattern, and fulfillment.
 
-The goal is to help people understand the **unified story of Scripture and God's love revealed through Christ.**
+# The goal is to help people understand the unified story of Scripture and God's love revealed through Christ.
 ---
 ### 🐢 [Dad Mode Morse](https://github.com/systemslibrarian/dad-mode-morse)
 🌐 **[Live Demo](https://systemslibrarian.github.io/dad-mode-morse/)**

@@ -3,8 +3,6 @@
 **Application Systems Analyst · Google Data Analytics Certified**  
 **Library Technologist · Security-Conscious Engineer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=4A90D9&width=500&lines=AI+systems+%7C+Library+automation+%7C+Security+engineering;Building+systems+worth+depending+on.)](https://git.io/typing-svg)
-
 ---
 
 [![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue?style=flat&logo=google&logoColor=white)](https://www.credly.com/badges/d41670d1-a861-474d-be14-0c973c39d122/public_url)
@@ -40,25 +38,12 @@ My goal is to build systems that are genuinely useful, responsibly designed, and
 
 ## Toolkit
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 | | |
 | :-- | :-- |
-| **AI / ML** | `Prompt Engineering` `Multi-Agent Systems` `LLM Orchestration` `OpenAI API` |
+| **Languages** | `Python` `C#` `SQL` `Rust` `JavaScript` `HTML/CSS` |
+| **Frameworks** | `.NET 8` `ASP.NET Core MVC` `Next.js` `FastAPI` |
+| **AI / ML** | `Prompt Engineering` `Multi-Agent Systems` `LLM Orchestration` `LangChain` `OpenAI API` |
+| **Data** | `Data Pipelines` `Pandas` `Visualization` `Automation` `APIs` `CI/CD` `Observability` |
 | **Security** | `Applied Cryptography` `Steganography` `Threat Modeling` `Tamper Detection` `Fail-Closed Design` |
 | **Practices** | `TDD` `Security Review` `Ethical Design` `Human-Centered Design` `AI-Assisted Development` |
 
@@ -275,8 +260,9 @@ A collaboration with a staff programmer integrating **LibCal reservation data** 
 
 <br>
 
-
 ---
+
+
 
 ## 💬 Let's Connect
 

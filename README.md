@@ -43,7 +43,7 @@ My goal is to build systems that are genuinely useful, responsibly designed, and
 | **Frameworks** | .NET 8, ASP.NET Core MVC, Next.js, FastAPI |
 | **AI / ML** | Prompt Engineering, Multi-Agent Systems, LLM Orchestration, LangChain, OpenAI API |
 | **Data** | Data Pipelines, Pandas, Visualization, Automation, APIs, CI/CD, Observability |
-| **Security** | Applied Cryptography, Steganography, Threat Modeling, Tamper Detection, Fail-Closed Design |
+| **Security** | Applied Cryptography, Steganography, Threat Modeling, Tamper Detection, fail-closed design |
 | **Practices** | TDD, Security Review, Ethical Design, Human-Centered Design, AI-Assisted Development |
 
 <br>
@@ -85,7 +85,7 @@ The design prioritizes an explicit threat model, honest security boundaries, and
 **Highlights**
 - **AEAD:** AES-256-GCM
 - **Password KDF:** Argon2id
-- Fail-closed parsing and tamper detection
+- Fail-closed parsing with tamper detection
 - Explicit, versioned byte-level protocol specifications
 - Threat-model-driven invariants throughout
 
@@ -107,7 +107,7 @@ A Christ-centered learning application mapping Old Testament prophecy to New Tes
 
 ### 🙏 PrayerWarriors *(In Development)*
 
-A prayer-focused mobile application designed to help individuals and groups organize prayer requests, track intercession, and stay rooted in Scripture. UI design began in Figma and is being developed toward a full mobile release.
+A prayer-focused mobile application designed to help individuals and groups organize prayer requests, track intercession, and stay rooted in Scripture. UI prototyped in Figma; backend in progress toward mobile/PWA release.
 
 *Tech:* `Firebase` `Firestore` `Cloud Functions` · Progressive Web App  
 *Focus:* `Faith-Based Product Design` `Prayer Workflows` `Human-Centered UX`

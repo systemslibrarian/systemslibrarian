@@ -1,7 +1,6 @@
 # Paul — Building Reliable Library Systems + AI-Augmented Tools
 
-**Application Systems Analyst · Google Data Analytics Certified**  
-**Library Technologist · Security-Conscious Engineer**
+**Application Systems Analyst · Google Data Analytics Certified · Library Technologist · Security-Conscious Engineer**
 
 ---
 

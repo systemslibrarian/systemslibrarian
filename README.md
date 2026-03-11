@@ -26,7 +26,7 @@ My goal is to build systems that are genuinely useful, responsibly designed, and
 ## Engineering Themes
 
 - **AI systems and multi-agent orchestration** — coordinating multiple LLMs for reasoning, comparison, and autonomous dialogue
-- **Security engineering and cryptographic experimentation** — protocol design, applied cryptography, steganography, and fail-closed architecture
+- **Security engineering and cryptographic experimentation** — protocol design, applied cryptography, steganography, and fail-closed / fail-safe system design
 - **Library systems integration and automation** — connecting ILS platforms, access control, reservations, and patron workflows through API integration
 - **Data pipelines and analytics** — transforming library and public-sector data into structured, actionable insight
 - **Human-centered software design** — prioritizing reliability, accessibility, and operational usefulness over technical novelty
@@ -37,14 +37,14 @@ My goal is to build systems that are genuinely useful, responsibly designed, and
 
 ## Toolkit
 
-| | |
-| :-- | :-- |
-| **Languages** | `Python` `C#` `SQL` `Rust` `JavaScript` `HTML/CSS` |
-| **Frameworks** | `.NET 8` `ASP.NET Core MVC` `Next.js` `FastAPI` |
-| **AI / ML** | `Prompt Engineering` `Multi-Agent Systems` `LLM Orchestration` `LangChain` `OpenAI API` |
-| **Data** | `Data Pipelines` `Pandas` `Visualization` `Automation` `APIs` `CI/CD` `Observability` |
-| **Security** | `Applied Cryptography` `Steganography` `Threat Modeling` `Tamper Detection` `Fail-Closed Design` |
-| **Practices** | `TDD` `Security Review` `Ethical Design` `Human-Centered Design` `AI-Assisted Development` |
+| Category | Technologies / Tools |
+|:--|:--|
+| **Languages** | Python, C#, SQL, Rust, JavaScript, HTML/CSS |
+| **Frameworks** | .NET 8, ASP.NET Core MVC, Next.js, FastAPI |
+| **AI / ML** | Prompt Engineering, Multi-Agent Systems, LLM Orchestration, LangChain, OpenAI API |
+| **Data** | Data Pipelines, Pandas, Visualization, Automation, APIs, CI/CD, Observability |
+| **Security** | Applied Cryptography, Steganography, Threat Modeling, Tamper Detection, Fail-Closed Design |
+| **Practices** | TDD, Security Review, Ethical Design, Human-Centered Design, AI-Assisted Development |
 
 <br>
 
@@ -89,7 +89,7 @@ The design prioritizes an explicit threat model, honest security boundaries, and
 - Explicit, versioned byte-level protocol specifications
 - Threat-model-driven invariants throughout
 
-**Status:** Pre-v1 hardening. **Not externally audited.**
+**Status:** Actively hardening — not yet externally audited.
 
 <br>
 
@@ -169,7 +169,7 @@ The following production systems cannot be open sourced because they involve lib
 
 <br>
 
-### Secure Patron Registration Platform + Staff Administration Dashboard (Private)
+### 🔒 Secure Patron Registration Platform + Staff Administration Dashboard (Private)
 
 A two-application ASP.NET Core platform built for the LeRoy Collins Leon County Public Library. The public-facing app handles online library card registration and identity document submission. A separate internal dashboard provides staff with tools to review, approve, and manage applications, along with diagnostics for system health and ILS connectivity.
 
@@ -195,7 +195,7 @@ A two-application ASP.NET Core platform built for the LeRoy Collins Leon County 
 
 ---
 
-### SwipeWatcher — Real-Time Access Control Event Monitor (Private)
+### 🚪 SwipeWatcher — Real-Time Access Control Event Monitor (Private)
 
 A real-time monitoring service that ingests door swipe events from the **C-CURE 9000** access control system via Victor Web Services, evaluates operational conditions, and triggers automated staff alerts.
 
@@ -217,7 +217,7 @@ A real-time monitoring service that ingests door swipe events from the **C-CURE 
 
 ---
 
-### LibCal–C-CURE 9000 Integration: Automated Meeting Room Access (Private) *(Team Project)*
+### 🔑 LibCal–C-CURE 9000 Integration: Automated Meeting Room Access (Private) *(Team Project)*
 
 A collaboration with a staff programmer integrating **LibCal meeting room reservations** with the **C-CURE 9000 access control system**. My contribution covered systems analysis, integration architecture, and domain expertise — identifying LibCal's APIs as the integration entry point, defining the data flow between platforms, and guiding the overall design. The programmer handled implementation.
 
@@ -239,7 +239,7 @@ The system automatically provisions temporary door access based on active reserv
 
 ---
 
-### LibCal–SirsiDynix Integration: Automated Library of Things Checkout (Private) *(Team Project)*
+### 📦 LibCal–SirsiDynix Integration: Automated Library of Things Checkout (Private) *(Team Project)*
 
 A collaboration with a staff programmer integrating **LibCal reservation data** with the **SirsiDynix Symphony ILS** to automate checkout transactions for Library of Things items. My contribution covered systems analysis and integration design — identifying LibCal's APIs as the entry point, defining the mapping between reservation records and Symphony patron/item data, and establishing the workflow logic. The programmer handled implementation.
 

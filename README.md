@@ -1,4 +1,4 @@
-# Paul — Building Reliable Library Systems + AI-Augmented Tools
+# Systems Engineering · Library Technology · AI-Augmented Development
 
 **Application Systems Analyst · Google Data Analytics Certified · Library Technologist · Security-Conscious Engineer**
 

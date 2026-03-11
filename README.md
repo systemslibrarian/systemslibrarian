@@ -87,7 +87,7 @@ A Christ-centered learning application designed to help people explore how the e
 
 The goal is to help people understand the unified story of Scripture and God's love revealed through Christ.
 
-*Tech:* `Next.js`, `Tailwind CS`, `React`
+*Tech:* `Next.js`, `Tailwind CS`, `React`, Progressive Web App
 
 ---
 ### 🐢 [Dad Mode Morse](https://github.com/systemslibrarian/dad-mode-morse)

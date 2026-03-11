@@ -54,7 +54,7 @@ My goal is to build systems that are genuinely useful, responsibly designed, and
 
 ### 🤖 [AI Conversation Platform — Multi-Agent AI Collaboration](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)
 
-> 🚀 **[Live Demo](https://ai-conversation-demo.onrender.com)**
+> 🚀 **[Live Demo](https://ai-conversation-demo.onrender.com)** *(may take 20–60s to wake from free-tier sleep on first load)*
 
 An async platform that orchestrates real-time dialogue between multiple LLMs — useful for comparing model reasoning, stress-testing arguments, and exploring how different AI systems approach the same problem.
 

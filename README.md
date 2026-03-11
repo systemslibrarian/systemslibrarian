@@ -275,13 +275,6 @@ A collaboration with a staff programmer integrating **LibCal reservation data** 
 
 <br>
 
----
-
-## 📊 GitHub Stats
-
-![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=systemslibrarian&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-<br>
 
 ---
 

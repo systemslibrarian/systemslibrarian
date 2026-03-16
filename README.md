@@ -119,6 +119,38 @@ A prayer-focused mobile application designed to help individuals and groups orga
 
 <br>
 
+### 🧭 [HisWillGuide](https://github.com/systemslibrarian/hiswillguide) · [Live Site](https://hiswillguide.com)
+
+A Scripture-centered discernment tool walking users through a 10-step framework for seeking God's will — grounded in prayer, biblical wisdom, and reflective practice. Designed as a quiet, focused experience free of noise and distraction.
+
+*Tech:* `JavaScript` `Next.js` `React` · *Focus:* `Faith-Based UX` `Scripture-Centered Design` `Spiritual Formation`
+
+---
+
+### 🔑 [Crypto Compare](https://github.com/systemslibrarian/crypto-compare)
+
+An interactive cryptographic algorithm reference covering 12 categories and 55+ algorithms with beginner and advanced modes, international support, and links to portfolio projects. Built for developers and security learners who need a fast, structured comparison across cipher families.
+
+*Tech:* `TypeScript` `Next.js` · MIT License · *Focus:* `Applied Cryptography` `Reference Tools` `Security Education`
+
+---
+
+### 🏛️ [Cipher Museum](https://github.com/systemslibrarian/cipher-museum)
+
+An interactive museum of historical ciphers featuring visual explanations, encryption demos, and cryptanalysis labs — designed to make the history and mechanics of cryptography accessible and engaging.
+
+*Tech:* `HTML` `JavaScript` · *Focus:* `Cryptography History` `Security Education` `Interactive Learning`
+
+---
+
+### ⚛️ [Quantum Vault KPQC](https://github.com/systemslibrarian/quantum-vault-kpqc)
+
+A research-grade threshold file encryption tool combining **Shamir Secret Sharing** with post-quantum cryptography (SMAUG-T + HAETAE). Explores practical applications of Korean PQC standards for future-resistant data protection.
+
+*Tech:* `Rust` · MIT License · *Focus:* `Post-Quantum Cryptography` `Threshold Encryption` `Security Research`
+
+---
+
 ### 🐢 [Dad Mode Morse](https://github.com/systemslibrarian/dad-mode-morse) · [Live Demo](https://systemslibrarian.github.io/dad-mode-morse/)
 
 A browser-based Morse messaging app combining encryption, audio transmission, and client-side crypto — dedicated to my dad, a Navy veteran who knew Morse code.
@@ -127,9 +159,17 @@ A browser-based Morse messaging app combining encryption, audio transmission, an
 
 ---
 
+### 📡 [Dad Mode Morse 2](https://github.com/systemslibrarian/dad-mode-morse2)
+
+An evolved version of the original Dad Mode Morse — encrypts messages with AES-GCM and transmits them as Morse code with beep audio and copy/paste decoding for easier cross-device use.
+
+*Tech:* `HTML` `JavaScript` · MIT License · *Focus:* `Signal Encoding` `Client-Side Crypto` `Creative Security`
+
+---
+
 ### ❄️ [SNOW2](https://github.com/systemslibrarian/snow2) · [Live Demo](https://systemslibrarian.github.io/snow2/)
 
-A modern Rust port of the classic SNOW steganography tool, focused on secure hidden-message embedding and educational security engineering.
+A modern Rust reimplementation of the classic SNOW steganography tool with strong 2026-era cryptography, focused on secure hidden-message embedding and educational security engineering.
 
 *Tech:* `Rust` `WASM` `Cryptography` `Steganography` · *Focus:* `Security Engineering` `Privacy Tools`
 
@@ -260,8 +300,6 @@ A collaboration with a staff programmer integrating **LibCal reservation data** 
 <br>
 
 ---
-
-
 
 ## 💬 Let's Connect
 

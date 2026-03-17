@@ -53,7 +53,7 @@ My goal is to build systems that are genuinely useful, responsibly designed, and
 
 ### 🤖 [AI Conversation Platform — Multi-Agent AI Collaboration](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)
 
-> 🚀 **[Live Demo](https://ai-conversation-demo.onrender.com)** *(may take 20–60s to wake from free-tier sleep on first load)*
+> 🚀 **[Demo](https://ai-conversation-demo.onrender.com)** *(may take 20–60s to wake from free-tier sleep on first load)*
 
 An async platform that orchestrates real-time dialogue between multiple LLMs — useful for comparing model reasoning, stress-testing arguments, and exploring how different AI systems approach the same problem.
 
@@ -75,7 +75,7 @@ uv run aic-start --agent1 claude --agent2 chatgpt --topic "AI consciousness" --y
 
 ### 🔐 [Meow-Decoder — Secure Air-Gapped Data Transfer](https://github.com/systemslibrarian/meow-decoder)
 
-> 🌐 **[Live Demo](https://www.meowdecoder.com)**
+> 🌐 **[Demo](https://www.meowdecoder.com)**
 
 A research project exploring data transfer across air gaps using **animated QR / image frames**. A phone acts only as an untrusted optical sensor — all cryptographic operations stay on the endpoints.
 
@@ -96,7 +96,8 @@ The design prioritizes an explicit threat model, honest security boundaries, and
 
 ## 🌍 Additional Projects
 
-### ✝️ [Scripture Journey](https://github.com/systemslibrarian/scripture-journey) · [Live Demo](https://scripturejourney.com)
+### ✝️ [Scripture Journey](https://github.com/systemslibrarian/scripture-journey) 
+[Web Site](https://scripturejourney.com)
 
 A Christ-centered learning application mapping Old Testament prophecy to New Testament fulfillment — designed to help people see the unified story of Scripture and God's love revealed through Christ.
 
@@ -118,7 +119,8 @@ A prayer-focused mobile application designed to help individuals and groups orga
 
 <br>
 
-### 🧭 [HisWillGuide](https://github.com/systemslibrarian/hiswillguide) · [Live Site](https://hiswillguide.com)
+### 🧭 [HisWillGuide](https://github.com/systemslibrarian/hiswillguide) 
+[Web Site](https://hiswillguide.com)
 
 A Scripture-centered discernment tool walking users through a 10-step framework for seeking God's will — grounded in prayer, biblical wisdom, and reflective practice. Designed as a quiet, focused experience free of noise and distraction.
 
@@ -126,7 +128,8 @@ A Scripture-centered discernment tool walking users through a 10-step framework 
 
 ---
 
-### 🔑 [Crypto Compare](https://github.com/systemslibrarian/crypto-compare) · [Live Site](https://systemslibrarian.github.io/crypto-compare)
+### 🔑 [Crypto Compare](https://github.com/systemslibrarian/crypto-compare)
+[Web Site](https://systemslibrarian.github.io/crypto-compare)
 
 An interactive cryptographic algorithm reference covering 12 categories and 55+ algorithms with beginner and advanced modes, international support, and links to portfolio projects. Built for developers and security learners who need a fast, structured comparison across cipher families.
 
@@ -134,7 +137,8 @@ An interactive cryptographic algorithm reference covering 12 categories and 55+ 
 
 ---
 
-### 🏛️ [Cipher Museum](https://github.com/systemslibrarian/cipher-museum) · [Live Site](https://ciphermusuem.com)
+### 🏛️ [Cipher Museum](https://github.com/systemslibrarian/cipher-museum) 
+[Web Site](https://ciphermusuem.com)
 
 An interactive museum of historical ciphers featuring visual explanations, encryption demos, and cryptanalysis labs — designed to make the history and mechanics of cryptography accessible and engaging.
 
@@ -142,7 +146,8 @@ An interactive museum of historical ciphers featuring visual explanations, encry
 
 ---
 
-### ⚛️ [Quantum Vault KPQC](https://github.com/systemslibrarian/quantum-vault-kpqc) · [Demo]([https://ciphermusuem.com](https://systemslibrarian.github.io/quantum-vault-kpqc/))
+### ⚛️ [Quantum Vault KPQC](https://github.com/systemslibrarian/quantum-vault-kpqc) 
+[Demo]([https://ciphermusuem.com](https://systemslibrarian.github.io/quantum-vault-kpqc/))
 
 A research-grade threshold file encryption tool combining **Shamir Secret Sharing** with post-quantum cryptography (SMAUG-T + HAETAE). Explores practical applications of Korean PQC standards for future-resistant data protection.
 
@@ -150,7 +155,8 @@ A research-grade threshold file encryption tool combining **Shamir Secret Sharin
 
 ---
 
-### 🐢 [Dad Mode Morse](https://github.com/systemslibrarian/dad-mode-morse) · [Live Demo](https://systemslibrarian.github.io/dad-mode-morse/)
+### 🐢 [Dad Mode Morse](https://github.com/systemslibrarian/dad-mode-morse) 
+[Demo](https://systemslibrarian.github.io/dad-mode-morse/)
 
 A browser-based Morse messaging app combining encryption, audio transmission, and client-side crypto — dedicated to my dad, a Navy veteran who knew Morse code.
 

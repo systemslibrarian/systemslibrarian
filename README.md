@@ -126,7 +126,7 @@ A Scripture-centered discernment tool walking users through a 10-step framework 
 
 ---
 
-### 🔑 [Crypto Compare](https://github.com/systemslibrarian/crypto-compare)
+### 🔑 [Crypto Compare](https://github.com/systemslibrarian/crypto-compare) · [Live Site](https://systemslibrarian.github.io/crypto-compare)
 
 An interactive cryptographic algorithm reference covering 12 categories and 55+ algorithms with beginner and advanced modes, international support, and links to portfolio projects. Built for developers and security learners who need a fast, structured comparison across cipher families.
 
@@ -134,7 +134,7 @@ An interactive cryptographic algorithm reference covering 12 categories and 55+ 
 
 ---
 
-### 🏛️ [Cipher Museum](https://github.com/systemslibrarian/cipher-museum)
+### 🏛️ [Cipher Museum](https://github.com/systemslibrarian/cipher-museum) · [Live Site](https://ciphermusuem.com)
 
 An interactive museum of historical ciphers featuring visual explanations, encryption demos, and cryptanalysis labs — designed to make the history and mechanics of cryptography accessible and engaging.
 
@@ -142,7 +142,7 @@ An interactive museum of historical ciphers featuring visual explanations, encry
 
 ---
 
-### ⚛️ [Quantum Vault KPQC](https://github.com/systemslibrarian/quantum-vault-kpqc)
+### ⚛️ [Quantum Vault KPQC](https://github.com/systemslibrarian/quantum-vault-kpqc) · [Demo]([https://ciphermusuem.com](https://systemslibrarian.github.io/quantum-vault-kpqc/))
 
 A research-grade threshold file encryption tool combining **Shamir Secret Sharing** with post-quantum cryptography (SMAUG-T + HAETAE). Explores practical applications of Korean PQC standards for future-resistant data protection.
 

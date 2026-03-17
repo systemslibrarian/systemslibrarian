@@ -155,15 +155,6 @@ A research-grade threshold file encryption tool combining **Shamir Secret Sharin
 
 ---
 
-### 🐢 [Dad Mode Morse](https://github.com/systemslibrarian/dad-mode-morse) 
-> 🌐 [Demo](https://systemslibrarian.github.io/dad-mode-morse/)
-
-A browser-based Morse messaging app combining encryption, audio transmission, and client-side crypto — dedicated to my dad, a Navy veteran who knew Morse code.
-
-*Tech:* `JavaScript` `Web Audio` `Client-Side Crypto` `HTML/CSS` · *Focus:* `Signal Encoding` `Creative Security` `Human-Centered Design`
-
----
-
 ### 📡 [Dad Mode Morse 2]
 > 🌐 [Demo](https://github.com/systemslibrarian/dad-mode-morse2)
 

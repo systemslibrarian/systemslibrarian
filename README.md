@@ -6,8 +6,7 @@
 
 [![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue?style=flat&logo=google&logoColor=white)](https://www.credly.com/badges/d41670d1-a861-474d-be14-0c973c39d122/public_url)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/systemslibrarian)
-[![GitHub Followers](https://img.shields.io/github/followers/systemslibrarian?style=social)](https://github.com/systemslibrarian)
-[![GitHub Stars](https://img.shields.io/github/stars/systemslibrarian?style=social)](https://github.com/systemslibrarian)
+
 
 ---
 

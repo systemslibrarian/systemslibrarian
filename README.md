@@ -155,7 +155,7 @@ A research-grade threshold file encryption tool combining **Shamir Secret Sharin
 
 ---
 
-### 📡 [Dad Mode Morse 2]
+### 📡 [Dad Mode Morse 2](https://github.com/systemslibrarian/dad-mode-morse2)
 > 🌐 [Demo](https://github.com/systemslibrarian/dad-mode-morse2)
 
 An evolved version of the original Dad Mode Morse — encrypts messages with AES-GCM and transmits them as Morse code with beep audio and copy/paste decoding for easier cross-device use.

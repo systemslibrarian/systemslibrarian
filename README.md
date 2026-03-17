@@ -147,7 +147,7 @@ An interactive museum of historical ciphers featuring visual explanations, encry
 ---
 
 ### ⚛️ [Quantum Vault KPQC](https://github.com/systemslibrarian/quantum-vault-kpqc) 
-[Demo]([https://ciphermusuem.com](https://systemslibrarian.github.io/quantum-vault-kpqc/))
+[Demo]([https://ciphermusuem.com](https://systemslibrarian.github.io/quantum-vault-kpqc/)
 
 A research-grade threshold file encryption tool combining **Shamir Secret Sharing** with post-quantum cryptography (SMAUG-T + HAETAE). Explores practical applications of Korean PQC standards for future-resistant data protection.
 

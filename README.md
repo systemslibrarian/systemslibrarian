@@ -138,7 +138,7 @@ An interactive cryptographic algorithm reference covering 12 categories and 55+ 
 ---
 
 ### 🏛️ [Cipher Museum](https://github.com/systemslibrarian/cipher-museum) 
-[Web Site](https://ciphermusuem.com)
+[Web Site](https://ciphermuseum.com)
 
 An interactive museum of historical ciphers featuring visual explanations, encryption demos, and cryptanalysis labs — designed to make the history and mechanics of cryptography accessible and engaging.
 
@@ -164,7 +164,8 @@ A browser-based Morse messaging app combining encryption, audio transmission, an
 
 ---
 
-### 📡 [Dad Mode Morse 2](https://github.com/systemslibrarian/dad-mode-morse2)
+### 📡 [Dad Mode Morse 2]
+[Demo](https://github.com/systemslibrarian/dad-mode-morse2)
 
 An evolved version of the original Dad Mode Morse — encrypts messages with AES-GCM and transmits them as Morse code with beep audio and copy/paste decoding for easier cross-device use.
 
@@ -172,7 +173,8 @@ An evolved version of the original Dad Mode Morse — encrypts messages with AES
 
 ---
 
-### ❄️ [SNOW2](https://github.com/systemslibrarian/snow2) · [Live Demo](https://systemslibrarian.github.io/snow2/)
+### ❄️ [SNOW2](https://github.com/systemslibrarian/snow2)
+[Demo](https://systemslibrarian.github.io/snow2/)
 
 A modern Rust reimplementation of the classic SNOW steganography tool with strong 2026-era cryptography, focused on secure hidden-message embedding and educational security engineering.
 

@@ -97,7 +97,7 @@ The design prioritizes an explicit threat model, honest security boundaries, and
 ## 🌍 Additional Projects
 
 ### ✝️ [Scripture Journey](https://github.com/systemslibrarian/scripture-journey) 
-[Web Site](https://scripturejourney.com)
+> 🌐 [Web Site](https://scripturejourney.com)
 
 A Christ-centered learning application mapping Old Testament prophecy to New Testament fulfillment — designed to help people see the unified story of Scripture and God's love revealed through Christ.
 
@@ -120,7 +120,7 @@ A prayer-focused mobile application designed to help individuals and groups orga
 <br>
 
 ### 🧭 [HisWillGuide](https://github.com/systemslibrarian/hiswillguide) 
-[Web Site](https://hiswillguide.com)
+> 🌐 [Web Site](https://hiswillguide.com)
 
 A Scripture-centered discernment tool walking users through a 10-step framework for seeking God's will — grounded in prayer, biblical wisdom, and reflective practice. Designed as a quiet, focused experience free of noise and distraction.
 
@@ -129,7 +129,7 @@ A Scripture-centered discernment tool walking users through a 10-step framework 
 ---
 
 ### 🔑 [Crypto Compare](https://github.com/systemslibrarian/crypto-compare)
-[Web Site](https://systemslibrarian.github.io/crypto-compare)
+> 🌐 [Web Site](https://systemslibrarian.github.io/crypto-compare)
 
 An interactive cryptographic algorithm reference covering 12 categories and 55+ algorithms with beginner and advanced modes, international support, and links to portfolio projects. Built for developers and security learners who need a fast, structured comparison across cipher families.
 
@@ -138,7 +138,7 @@ An interactive cryptographic algorithm reference covering 12 categories and 55+ 
 ---
 
 ### 🏛️ [Cipher Museum](https://github.com/systemslibrarian/cipher-museum) 
-[Web Site](https://ciphermuseum.com)
+> 🌐 [Web Site](https://ciphermuseum.com)
 
 An interactive museum of historical ciphers featuring visual explanations, encryption demos, and cryptanalysis labs — designed to make the history and mechanics of cryptography accessible and engaging.
 
@@ -147,7 +147,7 @@ An interactive museum of historical ciphers featuring visual explanations, encry
 ---
 
 ### ⚛️ [Quantum Vault KPQC](https://github.com/systemslibrarian/quantum-vault-kpqc) 
-[Demo]([https://ciphermusuem.com](https://systemslibrarian.github.io/quantum-vault-kpqc/)
+> 🌐 [Demo](https://ciphermusuem.com](https://systemslibrarian.github.io/quantum-vault-kpqc/)
 
 A research-grade threshold file encryption tool combining **Shamir Secret Sharing** with post-quantum cryptography (SMAUG-T + HAETAE). Explores practical applications of Korean PQC standards for future-resistant data protection.
 
@@ -156,7 +156,7 @@ A research-grade threshold file encryption tool combining **Shamir Secret Sharin
 ---
 
 ### 🐢 [Dad Mode Morse](https://github.com/systemslibrarian/dad-mode-morse) 
-[Demo](https://systemslibrarian.github.io/dad-mode-morse/)
+> 🌐 [Demo](https://systemslibrarian.github.io/dad-mode-morse/)
 
 A browser-based Morse messaging app combining encryption, audio transmission, and client-side crypto — dedicated to my dad, a Navy veteran who knew Morse code.
 
@@ -165,7 +165,7 @@ A browser-based Morse messaging app combining encryption, audio transmission, an
 ---
 
 ### 📡 [Dad Mode Morse 2]
-[Demo](https://github.com/systemslibrarian/dad-mode-morse2)
+> 🌐 [Demo](https://github.com/systemslibrarian/dad-mode-morse2)
 
 An evolved version of the original Dad Mode Morse — encrypts messages with AES-GCM and transmits them as Morse code with beep audio and copy/paste decoding for easier cross-device use.
 
@@ -174,7 +174,7 @@ An evolved version of the original Dad Mode Morse — encrypts messages with AES
 ---
 
 ### ❄️ [SNOW2](https://github.com/systemslibrarian/snow2)
-[Demo](https://systemslibrarian.github.io/snow2/)
+> 🌐 [Demo](https://systemslibrarian.github.io/snow2/)
 
 A modern Rust reimplementation of the classic SNOW steganography tool with strong 2026-era cryptography, focused on secure hidden-message embedding and educational security engineering.
 

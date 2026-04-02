@@ -1,6 +1,6 @@
 # Paul Clark · Systems Engineer · Library Technologist · AI Builder
 
-**I build production systems where security, AI, and public service intersect — shipping tools that real people depend on, from library platforms to cryptographic protocols.**
+**I build production systems where security, AI, and public service intersect — from library platforms that staff depend on daily to cryptographic protocols and Scripture apps that matter.**
 
 Application Systems Analyst · Google Data Analytics Certified
 
@@ -22,13 +22,13 @@ Recommended projects to explore my work:
 
 ## About
 
-I'm a Systems Engineer and Library Technologist who builds things that work in the real world — not just in demos. By day I design and maintain production platforms inside a public library system: patron registration, access control, ILS integrations, and automated workflows that staff and patrons rely on every day.
+By day I'm the engineer behind production systems that a public library depends on — patron registration, access control, ILS integrations, and automated workflows that staff and patrons use without thinking about them, because they just work.
 
-Outside of work I explore applied cryptography, multi-agent AI, and software with genuine purpose — including faith-based tools I care deeply about. Scripture Journey and PrayerWarriors aren't side projects to me; they're the same engineering discipline applied to something eternal.
+By night I'm building air-gapped crypto tools, multi-agent AI platforms, and Scripture apps that matter to me personally. Scripture Journey and Hide in Heart aren't side projects — they're the same discipline applied to something eternal.
 
-I use AI as a real development partner — moving faster without sacrificing architecture, security, or correctness.
+I use AI as a real development partner — moving faster without cutting corners on architecture or correctness.
 
-My Christian faith is the throughline. It's why I care about clarity, integrity, and building things worth depending on. I do this work for the glory of God.
+My Christian faith is the throughline in all of it. Clarity, integrity, and building things worth depending on. I do this work for the glory of God.
 
 ---
 
@@ -121,11 +121,11 @@ A Christ-centered web app that helps readers explore how the entire Bible points
 Live systems built for a public library institution — not open-sourced due to security and operational sensitivity.
 
 **🔒 Secure Patron Registration Platform + Staff Administration Dashboard**
-Replaced a manual paper process with a full-stack ASP.NET Core system — encrypted document uploads (AES-256-GCM), malware scanning, ArcGIS address validation, and automated patron record creation through SirsiDynix Symphony Web Services.
+Replaced a manual paper-based registration process with a full-stack ASP.NET Core system — encrypted document uploads (AES-256-GCM), malware scanning, ArcGIS address validation, and automated patron record creation through SirsiDynix Symphony Web Services. Staff went from processing paper forms to a streamlined digital workflow.
 `ASP.NET Core MVC` `C#` `AES-256-GCM` `SirsiDynix`
 
 **🚪 SwipeWatcher — Real-Time Access Control Event Monitor**
-Monitors C-CURE 9000 door events in real time via HMAC-validated webhooks, with automated staff alerting and structured logging — giving staff visibility they didn't have before.
+Monitors C-CURE 9000 door events in real time via HMAC-validated webhooks, with automated staff alerting and structured logging — giving staff immediate visibility into access activity they had no way to monitor before.
 `JavaScript` `Victor Web Services` `C-CURE 9000`
 
 **🔑 LibCal ↔ C-CURE 9000 Integration** *(Team Project)*

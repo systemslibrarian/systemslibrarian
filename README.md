@@ -106,11 +106,11 @@ A Christ-centered web app that helps readers explore how the entire Bible points
 
 - ✝️ **Hide in Heart** — A calm daily companion for hiding God's Word in your heart. Rooted in Psalm 119:11 — guiding you through reading, reflection, memorization, and application. `Next.js` `TypeScript` `Supabase` · [🌐 Live App](https://hideinheart.com/)
 - 🙏 **PrayerWarriors** — A platform for organizing prayer requests, tracking intercession, and staying grounded in Scripture. Mobile app launching later this year. `Firebase` `Firestore` `Cloud Functions` · [🌐 Preview](https://prayerwarriors.mobi) *(mockup — app coming soon)*
-- 📖 **HisWillGuide** — Finding God's will through Scripture, prayer, and wisdom. `Faith` · [🌐 Live App](https://hiswillguide.com)
-- 🏛️ **[Cipher Museum](https://github.com/systemslibrarian/cipher-museum)** — Interactive platform exploring the history and mechanics of cryptographic algorithms. `Security Education` · [🌐 Live Demo](https://ciphermuseum.com/)
+- 📖 **[HisWillGuide](https://github.com/systemslibrarian/hiswillguide)** — Finding God's will through Scripture, prayer, and wisdom. `Faith` · [🌐 Live Site](https://hiswillguide.com)
+- 🏛️ **[Cipher Museum](https://github.com/systemslibrarian/cipher-museum)** — Interactive platform exploring the history and mechanics of cryptographic algorithms. `Security Education` · [🌐 Live Site](https://ciphermuseum.com/)
 - 🔐 **[Quantum Vault](https://github.com/systemslibrarian/quantum-vault-kpqc)** — Threshold file encryption using Shamir Secret Sharing and post-quantum cryptography (SMAUG-T + HAETAE). `Rust` `PQC` `Secret Sharing` · [🌐 Live Demo](https://systemslibrarian.github.io/quantum-vault-kpqc)
 - 🐢 **[Dad Mode Morse 2](https://github.com/systemslibrarian/dad-mode-morse2)** — Encrypt messages with AES-GCM and transmit as Morse code with beep audio and copy/paste decoding, dedicated to my Navy veteran father. `JavaScript` `Web Audio` `AES-GCM` · [🌐 Live Demo](https://systemslibrarian.github.io/dad-mode-morse2/)
-- ❄️ **[SNOW2](https://github.com/systemslibrarian/snow2)** — Modern Rust + WASM port of the classic SNOW steganography tool. `Rust` `WASM`
+- ❄️ **[SNOW2](https://github.com/systemslibrarian/snow2)** — Modern Rust + WASM port of the classic SNOW steganography tool. `Rust` `WASM` · [🌐 Live Demo](https://systemslibrarian.github.io/snow2/)
 - 📊 **[IMLS Public Libraries Analysis](https://github.com/systemslibrarian/imls-public-libraries-2022)** — Analysis of U.S. public library service and funding trends using IMLS survey data. `Python` `Pandas` `Matplotlib`
 - 📚 **[NYT Bestsellers CatKey Generator](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)** — Automates SirsiDynix catalog key creation using current NYT Bestseller data. `Python`
 

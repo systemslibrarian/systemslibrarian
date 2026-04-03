@@ -1,4 +1,4 @@
-# Paul Clark · Systems Engineer · Library Technologist · AI Builder
+# Paul Clark · Systems Analyst · Library Technologist · AI Builder
 
 **I build production systems where security, AI, and public service intersect — from library platforms that staff depend on daily to cryptographic protocols and Scripture apps that matter.**
 

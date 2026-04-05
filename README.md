@@ -17,6 +17,7 @@ Recommended projects to explore my work:
 1. 🔐 **[Meow Decoder](https://github.com/systemslibrarian/meow-decoder)** — Secure air-gapped data transfer using animated QR code frames. Explicit threat model, AEAD cryptography, fail-closed design.
 2. 🤖 **[AI Conversation Platform](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)** — Multi-agent LLM orchestration with circuit breakers, observability, and 90%+ test coverage.
 3. ✝️ **[Scripture Journey](https://github.com/systemslibrarian/scripture-journey)** — A Christ-centered PWA mapping 200+ Old Testament prophecies to their New Testament fulfillments.
+4. 🧪 **[Cryptography Lab](https://systemslibrarian.github.io/crypto-lab/)** — 13 browser-based crypto demos. Real primitives. No backends.
 
 ---
 

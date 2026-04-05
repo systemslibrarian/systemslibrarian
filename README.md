@@ -20,7 +20,7 @@ Recommended projects to explore my work:
 
 3. ✝️ **[Scripture Journey](https://scripturejourney.com)** ([repo](https://github.com/systemslibrarian/scripture-journey)) — A Christ-centered PWA mapping 200+ Old Testament prophecies to their New Testament fulfillments.
 
-4. 🤖 **[AI Conversation Platform](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)** ([repo](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)) — Multi-agent LLM orchestration with circuit breakers, observability, and 90%+ test coverage.
+4. 🤖 **[AI Conversation Platform](https://ai-conversation-demo.onrender.com/)** ([repo](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)) — Multi-agent LLM orchestration with circuit breakers, observability, and 90%+ test coverage.
 
 ---
 

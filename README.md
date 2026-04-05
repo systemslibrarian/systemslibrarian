@@ -31,7 +31,7 @@ on — patron registration, access control, ILS integrations, and automated
 workflows that staff and patrons use without thinking about them, because they
 just work.
 
-By night I'm building air-gapped crypto tools, multi-agent AI platforms, and
+Outsidw work, I'm building air-gapped crypto tools, multi-agent AI platforms, and
 Scripture apps that matter to me personally. Scripture Journey and Hide in Heart
 aren't side projects — they're the same discipline applied to something eternal.
 

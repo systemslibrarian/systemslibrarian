@@ -26,13 +26,32 @@ Recommended projects to explore my work:
 
 ## About
 
-By day I'm the engineer behind production systems that a public library depends on — patron registration, access control, ILS integrations, and automated workflows that staff and patrons use without thinking about them, because they just work.
+By day I'm a systems analyst (IT Librarian) behind production systems that a public library depends
+on — patron registration, access control, ILS integrations, and automated
+workflows that staff and patrons use without thinking about them, because they
+just work.
 
-By night I'm building air-gapped crypto tools, multi-agent AI platforms, and Scripture apps that matter to me personally. Scripture Journey and Hide in Heart aren't side projects — they're the same discipline applied to something eternal.
+By night I'm building air-gapped crypto tools, multi-agent AI platforms, and
+Scripture apps that matter to me personally. Scripture Journey and Hide in Heart
+aren't side projects — they're the same discipline applied to something eternal.
 
-I use AI as a real development partner — moving faster without cutting corners on architecture or correctness.
+**The cryptography work isn't a hobby track separate from my library systems
+career — it's the foundation underneath it.** Patron registration, access
+control, and circulation data are sensitive by nature. I built
+[Crypto Lab](https://systemslibrarian.github.io/crypto-lab/),
+[Shadow Vault](https://systemslibrarian.github.io/shadow-vault/),
+[Meow Decoder](https://www.meowdecoder.com/), and the rest because I wanted to
+understand AEAD encryption, key derivation, deniable containers, and
+post-quantum primitives at the implementation level — not just call a library
+and hope it works. Every production system I ship reflects that: AES-256-GCM
+encrypted document uploads, HMAC-validated webhooks, fail-closed parsing,
+explicit threat models. The demos exist so the discipline shows.
 
-My Christian faith is the throughline in all of it. Clarity, integrity, and building things worth depending on. I do this work for the glory of God.
+I use AI as a real development partner — moving faster without cutting corners
+on architecture or correctness.
+
+My Christian faith is the throughline in all of it. Clarity, integrity, and
+building things worth depending on. I do this work for the glory of God.
 
 ---
 

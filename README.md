@@ -13,11 +13,20 @@ Application Systems Analyst · Google Data Analytics Certified
 ## Start Here
 
 Recommended projects to explore my work:
-
-1. 🔐 **[Meow Decoder](https://github.com/systemslibrarian/meow-decoder)** — Secure air-gapped data transfer using animated QR code frames. Explicit threat model, AEAD cryptography, fail-closed design.
-2. 🤖 **[AI Conversation Platform](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)** — Multi-agent LLM orchestration with circuit breakers, observability, and 90%+ test coverage.
-3. ✝️ **[Scripture Journey](https://github.com/systemslibrarian/scripture-journey)** — A Christ-centered PWA mapping 200+ Old Testament prophecies to their New Testament fulfillments.
-4. 🧪 **[Cryptography Lab](https://systemslibrarian.github.io/crypto-lab/)** — 13 browser-based crypto demos. Real primitives. No backends.
+ 
+1. 🧪 **Crypto Lab** — 11 browser-based cryptography demos spanning deniable
+   encryption, post-quantum, zero-knowledge proofs, FHE, and more.
+   Real primitives. No backends. Just the math.
+ 
+2. 🔐 **Meow Decoder** — Secure optical air-gap file transfer via animated
+   QR-code GIFs. AES-256-GCM + Argon2id + ML-KEM-1024 + fountain codes.
+   Explicit threat model, formal verification, fail-closed design.
+ 
+3. ✝️ **Scripture Journey** — A Christ-centered PWA mapping 200+ Old Testament
+   prophecies to their New Testament fulfillments.
+ 
+4. 🤖 **AI Conversation Platform** — Multi-agent LLM orchestration with circuit
+   breakers, observability, and 90%+ test coverage.
 
 ---
 

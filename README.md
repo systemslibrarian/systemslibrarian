@@ -63,6 +63,23 @@ My Christian faith is the throughline. Clarity, integrity, and building things w
 
 ## Featured Projects
 
+### 🔐 [Meow Decoder](https://github.com/systemslibrarian/meow-decoder)
+
+A research tool for secure data transfer across air gaps using animated QR code frames. The phone acts only as an untrusted optical channel — all cryptographic operations stay on the secure endpoints. Built as a tribute to my Navy-veteran father.
+
+**Key Features**
+- AES-256-GCM with Argon2id key derivation
+- ML-KEM-1024 post-quantum hybrid keys
+- Fountain codes for reliable optical transmission
+- Explicit, versioned byte-level protocol specification
+- Fail-closed parsing with tamper detection
+
+**Status:** Actively hardening — not yet externally audited. All cryptographic primitives are standard, publicly vetted algorithms. Security depends on correct implementation.
+
+[🌐 Live Demo](https://www.meowdecoder.com)
+
+---
+
 ### 🤖 [AI Conversation Platform](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)
 
 Async platform for orchestrating real-time conversations between multiple LLMs — useful for comparing model reasoning, stress-testing arguments, and exploring how different AI systems approach the same problem.
@@ -79,23 +96,6 @@ uv run aic-start --agent1 claude --agent2 chatgpt --topic "AI consciousness" --y
 ```
 
 [🌐 Live Demo](https://ai-conversation-demo.onrender.com)
-
----
-
-### 🔐 [Meow Decoder](https://github.com/systemslibrarian/meow-decoder)
-
-A research tool for secure data transfer across air gaps using animated QR code frames. The phone acts only as an untrusted optical channel — all cryptographic operations stay on the secure endpoints. Built as a tribute to my Navy-veteran father.
-
-**Key Features**
-- AES-256-GCM with Argon2id key derivation
-- ML-KEM-1024 post-quantum hybrid keys
-- Fountain codes for reliable optical transmission
-- Explicit, versioned byte-level protocol specification
-- Fail-closed parsing with tamper detection
-
-**Status:** Actively hardening — not yet externally audited.
-
-[🌐 Live Demo](https://www.meowdecoder.com)
 
 ---
 

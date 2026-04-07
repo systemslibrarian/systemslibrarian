@@ -14,13 +14,21 @@ Application Systems Analyst · Google Data Analytics Certified
 
 Recommended projects to explore my work:
 
-1. 🔐 **[Meow Decoder](https://www.meowdecoder.com/)** ([repo](https://github.com/systemslibrarian/meow-decoder)) — Secure optical air-gap file transfer via animated QR-code GIFs. AES-256-GCM + Argon2id + ML-KEM-1024 + fountain codes. Explicit threat model, fail-closed design. 
+## Start Here
 
-2. 🧪 **[Crypto Lab](https://systemslibrarian.github.io/crypto-lab/)** ([repo](https://github.com/systemslibrarian/crypto-lab)) — 12 browser-based cryptography demos spanning deniable encryption, post-quantum, zero-knowledge proofs, FHE, and more. Real primitives. No backends. Just the math.
+Recommended projects to explore my work:
 
-3. ✝️ **[Scripture Journey](https://scripturejourney.com)** ([repo](https://github.com/systemslibrarian/scripture-journey)) — A Christ-centered PWA mapping 200+ Old Testament prophecies to their New Testament fulfillments.
+1. 📖 **[Crypto Compare](https://systemslibrarian.github.io/crypto-compare/)** ([repo](https://github.com/systemslibrarian/crypto-compare)) — Algorithm reference & chooser across 16 cryptographic categories. Start here to understand *why* before you experiment with *how*.
 
-4. 🤖 **[AI Conversation Platform](https://ai-conversation-demo.onrender.com/)** ([repo](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)) — Multi-agent LLM orchestration with circuit breakers, observability, and 90%+ test coverage.
+2. 🧪 **[Crypto Lab](https://systemslibrarian.github.io/crypto-lab/)** ([repo](https://github.com/systemslibrarian/crypto-lab)) — 20+ browser-based cryptography demos spanning deniable encryption, post-quantum, zero-knowledge proofs, FHE, PIR, and more. Real primitives. No backends. Just the math.
+
+   > *crypto-compare is the map. crypto-lab is the playground. Use them together.*
+
+3. 🔐 **[Meow Decoder](https://www.meowdecoder.com/)** ([repo](https://github.com/systemslibrarian/meow-decoder)) — Secure optical air-gap file transfer via animated QR-code GIFs. AES-256-GCM + Argon2id + ML-KEM-1024 + fountain codes. Explicit threat model, fail-closed design.
+
+4. ✝️ **[Scripture Journey](https://scripturejourney.com)** ([repo](https://github.com/systemslibrarian/scripture-journey)) — A Christ-centered PWA mapping 200+ Old Testament prophecies to their New Testament fulfillments.
+
+5. 🤖 **[AI Conversation Platform](https://ai-conversation-demo.onrender.com/)** ([repo](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)) — Multi-agent LLM orchestration with circuit breakers, observability, and 90%+ test coverage.
 
 ---
 
@@ -110,12 +118,6 @@ A Christ-centered web app that helps readers explore how the entire Bible points
 ---
 
 ## Additional Projects
-
-- 🧪 **[Crypto Compare](https://github.com/systemslibrarian/crypto-compare)** — Reference tool cataloging 16 cryptographic algorithm categories with linked interactive demos. `TypeScript` `Security Education`
-- 🔮 **[Phantom Vault](https://github.com/systemslibrarian/phantom-vault)** — Stateless PBKDF2 password manager. No database, no storage, no sync — passwords are derived on demand. `Cryptography`
-- 🌑 **[Shadow Vault](https://github.com/systemslibrarian/shadow-vault)** — Deniable encryption with Argon2id + ChaCha20-Poly1305. Two keys, two plaintexts, no way to prove which is real. `Rust` `Cryptography`
-- ⚡ **[Corrupted Oracle](https://github.com/systemslibrarian/corrupted-oracle)** — Educational demo of the Dual_EC_DRBG backdoor and why CSPRNG design matters. `Security Research`
-- 🧬 **[Quantum Vault (KPQC)](https://github.com/systemslibrarian/quantum-vault-kpqc)** — Browser-based threshold secret storage using Korean PQC algorithms (SMAUG-T, HAETAE) compiled to WASM. Bilingual EN/KR UI. `Rust` `WASM` `Post-Quantum`
 - 🏛️ **[Cipher Museum](https://github.com/systemslibrarian/cipher-museum)** — Interactive platform exploring 2,500 years of cryptographic history across 10 halls and 37 ciphers. `Security Education` · [🌐 Live Site](https://ciphermuseum.com/)
 - ✝️ **[Hide in Heart](https://hideinheart.com/)** — A calm daily companion for hiding God's Word in your heart. Rooted in Psalm 119:11. `Next.js` `TypeScript` `Supabase`
 - 🙏 **[PrayerWarriors](https://prayerwarriors.mobi)** — A platform for organizing prayer requests and tracking intercession. `Firebase` `Firestore` `Cloud Functions`

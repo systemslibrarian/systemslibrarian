@@ -10,9 +10,6 @@ Application Systems Analyst · Google Data Analytics Certified
 
 ---
 
-## Start Here
-
-Recommended projects to explore my work:
 
 ## Start Here
 

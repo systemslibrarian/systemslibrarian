@@ -1,4 +1,4 @@
-# Paul Clark · Systems Analyst · Library Technologist · Security & Cryptography
+# Systems Analyst · Library Technologist · Security & Cryptography
 
 **I build production systems where security, AI, and public service intersect — from library platforms that staff depend on daily to cryptographic protocols and Scripture apps that matter.**
 

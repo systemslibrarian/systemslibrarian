@@ -116,11 +116,11 @@ A Christ-centered web app that helps readers explore how the entire Bible points
 
 ## Additional Projects
 - 🏛️ **[Cipher Museum](https://github.com/systemslibrarian/cipher-museum)** — Interactive platform exploring 2,500 years of cryptographic history across 10 halls and 37 ciphers. `Security Education` · [🌐 Live Site](https://ciphermuseum.com/)
-- ✝️ **[Hide in Heart](https://hideinheart.com/)** — A calm daily companion for hiding God's Word in your heart. Rooted in Psalm 119:11. `Next.js` `TypeScript` `Supabase`
-- 🙏 **[PrayerWarriors](https://prayerwarriors.mobi)** — A platform for organizing prayer requests and tracking intercession. `Firebase` `Firestore` `Cloud Functions`
-- 📖 **[HisWillGuide](https://hiswillguide.com)** — Finding God's will through Scripture, prayer, and wisdom. `Next.js`
-- 📊 **[IMLS Public Libraries Analysis](https://github.com/systemslibrarian/imls-public-libraries-2022)** — Analysis of U.S. public library service and funding trends using IMLS survey data. `Python` `Pandas` `Matplotlib`
-- 📚 **[NYT Bestsellers CatKey Generator](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)** — Automates SirsiDynix catalog key creation using current NYT Bestseller data. `Python`
+- ✝️ **[Hide in Heart](https://hideinheart.com/)** — A calm daily companion for hiding God's Word in your heart. Rooted in Psalm 119:11. 
+- 🙏 **[PrayerWarriors](https://prayerwarriors.mobi)** — A platform for organizing prayer requests and tracking intercession. 
+- 📖 **[HisWillGuide](https://hiswillguide.com)** — Finding God's will through Scripture, prayer, and wisdom. 
+- 📊 **[IMLS Public Libraries Analysis](https://github.com/systemslibrarian/imls-public-libraries-2022)** — Analysis of U.S. public library service and funding trends using IMLS survey data.
+- 📚 **[NYT Bestsellers CatKey Generator](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)** — Automates SirsiDynix catalog key creation using current NYT Bestseller data. 
 
 ---
 

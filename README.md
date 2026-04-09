@@ -17,7 +17,7 @@ Recommended projects to explore my work:
 
 1. 📖 **[Crypto Compare](https://systemslibrarian.github.io/crypto-compare/)** ([repo](https://github.com/systemslibrarian/crypto-compare)) — Algorithm reference & chooser across 16 cryptographic categories. Start here to understand *why* before you experiment with *how*.
 
-2. 🧪 **[Crypto Lab](https://systemslibrarian.github.io/crypto-lab/)** ([repo](https://github.com/systemslibrarian/crypto-lab)) — 36 browser-based cryptography demos spanning deniable encryption, post-quantum, zero-knowledge proofs, FHE, PIR, and more. Real primitives. No backends. Just the math.
+2. 🧪 **[Crypto Lab](https://systemslibrarian.github.io/crypto-lab/)** ([repo](https://github.com/systemslibrarian/crypto-lab)) — 42 browser-based cryptography demos spanning deniable encryption, post-quantum, zero-knowledge proofs, FHE, PIR, and more. Real primitives. No backends. Just the math.
 
    > *crypto-compare is the map. crypto-lab is the playground. Use them together.*
 

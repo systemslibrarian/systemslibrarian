@@ -2,7 +2,7 @@
 
 I build production systems where public infrastructure, security, and data intersect — from library platforms used by staff daily to cryptographic tools exploring modern encryption, privacy, and post-quantum design.
 
-My work is shaped by a commitment to stewardship, integrity, and service — building systems that are not only functional, but secure, auditable, and intentionally designed.**
+My work is shaped by a commitment to stewardship, integrity, and service — building systems that are not only functional, but secure, auditable, and intentionally designed.
 
 Application Systems Analyst · Google Data Analytics Certified
 

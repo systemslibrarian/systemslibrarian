@@ -4,7 +4,7 @@ I build production systems where public infrastructure, security, and data inter
 
 My work is shaped by a commitment to stewardship, integrity, and service — building systems that are not only functional, but secure, auditable, and intentionally designed.
 
-Application Systems Analyst · Google Data Analytics Certified
+*Application Systems Analyst · Google Data Analytics Certified*
 
 [![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue?style=flat&logo=google&logoColor=white)](https://www.credly.com/badges/d41670d1-a861-474d-be14-0c973c39d122/public_url)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/systemslibrarian)

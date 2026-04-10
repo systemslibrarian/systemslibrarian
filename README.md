@@ -59,14 +59,23 @@ My Christian faith is the throughline — shaping a focus on clarity, integrity,
 
 ## Technical Toolkit
 
-| Category | Technologies & Tools |
-|---|---|
-| **Languages** | C#, TypeScript, JavaScript, Python, Rust, SQL |
-| **Frameworks** | .NET 8, ASP.NET Core MVC, Next.js, Node.js |
-| **AI / ML** | Multi-Agent Orchestration, LLM APIs, Prompt Engineering |
-| **Data** | SQL Server, Power BI, Pandas, APIs, Observability |
-| **Security** | AES-256-GCM, Argon2id, HMAC, Post-Quantum (ML-KEM, SMAUG-T, HAETAE), Threat Modeling, Fail-Closed Design |
-| **Practices** | TDD, Security Reviews, WCAG Accessibility, Ethical & Human-Centered Design |
+**Languages**  
+C#, TypeScript, JavaScript, Python, Rust, SQL  
+
+**Frameworks**  
+.NET 8, ASP.NET Core MVC, Next.js, Node.js  
+
+**AI / ML**  
+Multi-agent orchestration, LLM APIs, prompt engineering  
+
+**Data**  
+SQL Server, Power BI, Pandas, APIs, observability  
+
+**Security**  
+AES-256-GCM, Argon2id, HMAC, post-quantum (ML-KEM, SMAUG-T, HAETAE), threat modeling, fail-closed design  
+
+**Practices**  
+TDD, security reviews, WCAG accessibility, ethical and human-centered design
 
 ---
 

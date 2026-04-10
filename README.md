@@ -49,11 +49,11 @@ My Christian faith is the throughline — shaping a focus on clarity, integrity,
 
 ## Engineering Focus Areas
 
-- **Security Engineering & Applied Cryptography** — Protocol design, AEAD encryption, post-quantum primitives, threat modeling, and fail-safe architectures
-- **AI Systems & Multi-Agent Orchestration** — Coordinating multiple LLMs for reasoning, comparison, and collaborative problem-solving
-- **Library Systems Integration** — Connecting ILS platforms, access control, reservations, and patron workflows
-- **Data Pipelines & Analytics** — Turning raw public-sector data into actionable insights
-- **Human-Centered Design** — Prioritizing reliability, accessibility, and real-world usefulness
+- **Security Engineering & Applied Cryptography** — Protocol design, AEAD encryption, post-quantum primitives, threat modeling, and fail-safe architectures  
+- **AI Systems & Multi-Agent Orchestration** — Coordinating multiple LLMs for reasoning, comparison, and collaborative problem-solving  
+- **Library Systems Integration** — Integrating ILS platforms, access control, reservations, and patron workflows  
+- **Data Pipelines & Analytics** — Transforming raw public-sector data into actionable insights  
+- **Human-Centered Design** — Prioritizing reliability, accessibility, and real-world usability
 
 ---
 

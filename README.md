@@ -15,7 +15,7 @@ Application Systems Analyst · Google Data Analytics Certified
 
 Recommended projects to explore my work:
 
-1. 📖 **[Crypto Compare](https://systemslibrarian.github.io/crypto-compare/)** ([repo](https://github.com/systemslibrarian/crypto-compare)) — Algorithm reference & chooser across 16 cryptographic categories. Start here to understand *why* before you experiment with *how*.
+1. 📖 **[Crypto Compare](https://systemslibrarian.github.io/crypto-compare/)** ([repo](https://github.com/systemslibrarian/crypto-compare)) — Algorithm reference & chooser across 17 cryptographic categories. Start here to understand *why* before you experiment with *how*.
 
 2. 🧪 **[Crypto Lab](https://systemslibrarian.github.io/crypto-lab/)** ([repo](https://github.com/systemslibrarian/crypto-lab)) — The central index for Crypto Lab — 48 interactive browser-based cryptography demos. From deniable encryption and post-quantum algorithms to visual attacks and zero-knowledge proofs. Everything runs client-side. No accounts. Just the math.
 
@@ -129,7 +129,7 @@ A Christ-centered web app that helps readers explore how the entire Bible points
 Live systems built for a public library institution — not open-sourced due to security and operational sensitivity.
 
 **🔒 Secure Patron Registration Platform + Staff Administration Dashboard**
-Replaced a manual paper-based registration process with a full-stack ASP.NET Core system — encrypted document uploads (AES-256-GCM), malware scanning, ArcGIS address validation, and automated patron record creation through SirsiDynix Symphony Web Services. Staff went from processing paper forms to a streamlined digital workflow.
+Replaced a vendor-managed legacy Perl registration system with a modern ASP.NET Core platform integrated with SirsiDynix Symphony Web Services. Designed a security-first document pipeline (AES-256-GCM encryption, malware scanning, deep file validation) and automated patron creation, billing, and barcode lifecycle management. Delivered a fully auditable, accessible workflow that modernized patron onboarding and reduced reliance on vendor-controlled infrastructure.
 `ASP.NET Core MVC` `C#` `AES-256-GCM` `SirsiDynix`
 
 **🚪 SwipeWatcher — Real-Time Access Control Event Monitor**

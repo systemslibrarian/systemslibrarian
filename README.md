@@ -33,15 +33,17 @@ Recommended projects to explore my work:
 
 ## About
 
-By day I'm a systems analyst (IT Librarian) behind production systems a public library depends on — patron registration, access control, ILS integrations, and automated workflows that staff and patrons use without thinking about them, because they just work.
+By day, I’m a systems analyst (IT Librarian) behind mission-critical systems a public library depends on — patron registration, access control, ILS integrations, and automated workflows that staff and patrons rely on because they simply work.
 
-Outside work I'm building air-gapped crypto tools, multi-agent AI platforms, and Scripture apps that matter to me personally. Scripture Journey and Hide in Heart aren't side projects — they're the same discipline applied to something eternal.
+Outside of work, I build air-gapped cryptographic tools, multi-agent AI platforms, and Scripture apps that matter to me personally. *Scripture Journey* and *Hide in Heart* aren’t side projects — they’re the same discipline applied to something eternal.
 
-**The cryptography work isn't a hobby track separate from my library career — it's the foundation underneath it.** Patron data is sensitive by nature. I built [Crypto Lab](https://systemslibrarian.github.io/crypto-lab/), [Shadow Vault](https://systemslibrarian.github.io/shadow-vault/), [Meow Decoder](https://www.meowdecoder.com/), and the rest because I wanted to understand AEAD encryption, key derivation, deniable containers, and post-quantum primitives at the implementation level — not just call a library and hope it works. Every production system I ship reflects that: AES-256-GCM encrypted uploads, HMAC-validated webhooks, fail-closed parsing, explicit threat models. The demos exist so the discipline shows.
+The cryptography work isn’t separate from my library career — it underpins it. Patron data is sensitive by nature. I built [Crypto Lab](https://systemslibrarian.github.io/crypto-lab/), [Shadow Vault](https://systemslibrarian.github.io/shadow-vault/), [Meow Decoder](https://www.meowdecoder.com/), and related projects to understand AEAD encryption, key derivation, deniable containers, and post-quantum primitives at the implementation level — not just call a library and assume correctness.
 
-I use AI as a real development partner — faster without cutting corners on architecture or correctness.
+Every production system I ship reflects that discipline: AES-256-GCM encrypted uploads, HMAC-validated webhooks, fail-closed parsing, and explicit threat models. The demos exist to make that discipline visible.
 
-My Christian faith is the throughline. Clarity, integrity, and building things worth depending on.
+I use AI as a development partner — accelerating iteration without compromising architecture or correctness.
+
+My Christian faith is the throughline — shaping a focus on clarity, integrity, and building systems worth depending on.
 
 ---
 

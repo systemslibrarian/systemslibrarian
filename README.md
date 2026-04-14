@@ -21,7 +21,7 @@ Recommended projects to explore my work:
 
 2. 🧪 **[Crypto Lab](https://systemslibrarian.github.io/crypto-lab/)** ([repo](https://github.com/systemslibrarian/crypto-lab)) — The central index for Crypto Lab — 67 interactive browser-based cryptography demos. From deniable encryption and post-quantum algorithms to visual attacks and zero-knowledge proofs. Everything runs client-side. No accounts. Just the math.
 
-   > *Use crypto::compare to decide what to use. Use Crypto Lab to see how it works.*
+   > *Choose with crypto::compare. Understand with Crypto Lab.*
 
 3. 🔐 **[Meow Decoder](https://www.meowdecoder.com/)** ([repo](https://github.com/systemslibrarian/meow-decoder)) — Secure optical air-gap file transfer via animated QR-code GIFs. AES-256-GCM + Argon2id + ML-KEM-1024 + fountain codes. Explicit threat model, fail-closed design.
 

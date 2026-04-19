@@ -19,7 +19,7 @@ Recommended projects to explore my work:
 
 1. 📖 **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** ([repo](https://github.com/systemslibrarian/crypto-compare)) — Algorithm reference & chooser across 17 cryptographic categories. Start here to understand *why* before you experiment with *how*.
 
-2. 🧪 **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** ([repo](https://github.com/systemslibrarian/crypto-lab)) — The central index for Crypto Lab — 95+ interactive browser-based cryptography demos spanning post-quantum, zero-knowledge proofs, homomorphic encryption, MPC & threshold, attacks, steganography, and historical ciphers. No accounts. Just the math.
+2. 🧪 **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** ([repo](https://github.com/systemslibrarian/crypto-lab)) — The central index for Crypto Lab — 99 interactive cryptography demos spanning post-quantum, zero-knowledge, homomorphic encryption, MPC, attacks, and more.
 
    > *Choose with crypto::compare. Understand with Crypto Lab.*
 

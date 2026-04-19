@@ -15,21 +15,22 @@ My work is shaped by a commitment to stewardship, integrity, and service — bui
 
 ## Start Here
 
-## Recommended projects to explore my work:
+### Recommended projects to explore my work:
 
 1. 📖 **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** ([repo](https://github.com/systemslibrarian/crypto-compare)) — Algorithm reference & chooser across 17 cryptographic categories. Start here to understand *why* before you experiment with *how*.
 
-2. 🧪 **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** ([repo](https://github.com/systemslibrarian/crypto-lab)) — **99 interactive cryptography demos** organized into a browser-based laboratory covering post-quantum systems, zero-knowledge proofs, homomorphic encryption, MPC & threshold cryptography, real-world attacks, steganography, and historical ciphers.  
-   No accounts. Just the math.
+2. 🧪 **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** ([repo](https://github.com/systemslibrarian/crypto-lab)) — **99 interactive cryptography demos** organized into a browser-based laboratory.
+
+   Covers post-quantum systems, zero-knowledge proofs, homomorphic encryption, MPC & threshold cryptography, real-world attacks, steganography, and historical ciphers.  
+   **No accounts. Just the math.**
 
    > *Choose with Crypto Compare. Understand with Crypto Lab.*
 
 3. 🔐 **[Meow Decoder](https://www.meowdecoder.com/)** ([repo](https://github.com/systemslibrarian/meow-decoder)) — Secure optical air-gap file transfer via animated QR-code streams. AES-256-GCM + Argon2id + ML-KEM-1024 + fountain codes, built with an explicit threat model and fail-closed design.
 
-4. ✝️ **[Scripture Journey](https://scripturejourney.com)** ([repo](https://github.com/systemslibrarian/scripture-journey)) — A Christ-centered PWA mapping 200+ Old Testament prophecies to their New Testament fulfillments.
+4. ✝️ **[Scripture Journey](#)** ([repo](#)) — A Christ-centered PWA exploring Scripture as a unified story, mapping 200+ Old Testament prophecies to their New Testament fulfillments.
 
-5. 🤖 **[AI Conversation Platform](https://ai-conversation-demo.onrender.com/)** ([repo](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)) — Multi-agent LLM orchestration with circuit breakers, observability, and 90%+ test coverage.
-
+5. 🤖 **[AI Conversation Platform](#)** ([repo](#)) — Multi-agent LLM orchestration platform with circuit breakers, observability, and production-style reliability patterns.
 ---
 
 ## About

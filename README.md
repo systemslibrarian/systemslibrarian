@@ -12,7 +12,6 @@ My work is shaped by a commitment to stewardship, integrity, and service — bui
 
 ---
 
-
 ## Start Here
 
 ### Recommended projects to explore my work:
@@ -21,7 +20,7 @@ My work is shaped by a commitment to stewardship, integrity, and service — bui
 
 2. 🧪 **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** ([repo](https://github.com/systemslibrarian/crypto-lab)) — **99 interactive cryptography demos** organized into a browser-based laboratory.
 
-   Covers post-quantum systems, zero-knowledge proofs, homomorphic encryption, MPC & threshold cryptography, real-world attacks, steganography, and historical ciphers.  
+   Covers post-quantum systems, zero-knowledge proofs, homomorphic encryption, MPC & threshold systems, real-world attacks, steganography, and historical ciphers.  
    **No accounts. Just the math.**
 
    > *Choose with Crypto Compare. Understand with Crypto Lab.*
@@ -30,7 +29,7 @@ My work is shaped by a commitment to stewardship, integrity, and service — bui
 
 4. ✝️ **[Scripture Journey](#)** ([repo](#)) — A Christ-centered PWA exploring Scripture as a unified story, mapping 200+ Old Testament prophecies to their New Testament fulfillments.
 
-5. 🤖 **[AI Conversation Platform](#)** ([repo](#)) — Multi-agent LLM orchestration platform with circuit breakers, observability, and production-style reliability patterns.
+5. 🤖 **[AI Conversation Platform](#)** ([repo](#)) — Multi-agent LLM orchestration platform with circuit breakers, observability, and production-grade reliability patterns.
 ---
 
 ## About

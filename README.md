@@ -1,183 +1,166 @@
-# Systems Analyst · Library Technologist · Security & Cryptography
-
-I build production systems where public infrastructure, security, and data intersect — from library platforms used by staff daily to cryptographic tools exploring modern encryption, privacy, and post-quantum design.
-
-My work is shaped by a commitment to stewardship, integrity, and service — building systems that are not only functional, but secure, auditable, and intentionally designed.
-
-*Application Systems Analyst · Google Data Analytics Certified*
+# Paul Clark
 
 [![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue?style=flat&logo=google&logoColor=white)](https://www.credly.com/badges/d41670d1-a861-474d-be14-0c973c39d122/public_url)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/systemslibrarian)
-[![GitHub Followers](https://img.shields.io/github/followers/systemslibrarian?style=social)](https://github.com/systemslibrarian)
+[![GitHub](https://img.shields.io/github/followers/systemslibrarian?style=social)](https://github.com/systemslibrarian)
+[![Website](https://img.shields.io/badge/systemslibrarian.dev-visit-brightgreen?style=flat&logo=github)](https://systemslibrarian.dev)
 
----
-### 🏛️ Cryptography Ecosystem – Start Here
+## I build systems where trust has to be earned by design — not assumed.
 
-1. **Cipher Museum** — Interactive virtual museum of cryptographic history  
-   [Live Site](https://ciphermuseum.com/) | [Repo](https://github.com/systemslibrarian/cipher-museum)  
-   Explore 2,500 years of cryptography through **37 historical ciphers** in **10 exhibit halls**. Features live encryption/decryption demos, cryptanalysis tools, timeline, and guided tours. The perfect on-ramp to understanding how classical ciphers connect to modern and post-quantum systems.
+Patron data. Access control. Cryptographic tools. Multi-agent AI. The common thread is the same: systems that hold up under scrutiny because that's how they were built from the first line of code.
 
-2. **Crypto Compare** — Algorithm reference & safe chooser  
-   [Live](https://crypto-compare.systemslibrarian.dev/) | [Repo](https://github.com/systemslibrarian/crypto-compare)  
-   Side-by-side comparisons across 17 cryptographic categories with misuse-resistant recommendations.
-
-3. **Crypto Lab** — 99+ interactive cryptography demos  
-   [Live](https://crypto-lab.systemslibrarian.dev/) | [Repo](https://github.com/systemslibrarian/crypto-lab)  
-   Browser-based laboratory covering post-quantum systems, zero-knowledge proofs, homomorphic encryption, MPC, threshold systems, real-world attacks, steganography, and historical ciphers. **No accounts. Just the math.**
-
-4. **Meow Decoder** — Secure air-gapped file transfer  
-   [Live](https://www.meowdecoder.com) | [Repo](https://github.com/systemslibrarian/meow-decoder)  
-   Animated QR-code streams with AES-256-GCM + Argon2id + ML-KEM-1024 (post-quantum) and fountain codes. Built with an explicit threat model and fail-closed design.
-
-> These four projects form a complete learning-to-practice path:  
-> **Learn the history** at the Cipher Museum → **Choose wisely** with Crypto Compare → **Experiment deeply** in Crypto Lab → **Apply securely** with Meow Decoder.
-
-### Other Notable Projects
-
-- **Scripture Journey** — A Christ-centered PWA exploring Scripture as a unified story  
-  [Live](https://scripturejourney.com) | [Repo](https://github.com/systemslibrarian/scripture-journey)  
-  Maps 200+ Old Testament prophecies to their New Testament fulfillments.
-
-- **AI Conversation Platform** — Multi-agent LLM orchestration platform  
-  [Repo](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)  
-  Production-grade system for autonomous conversations between multiple LLMs (Claude, ChatGPT, Gemini, Grok, etc.) with circuit breakers, observability, and reliability patterns.
+Every system I ship carries an explicit threat model, a fail-closed posture, and an honest accounting of what it does and doesn't guarantee.
 
 ---
 
-## About
+## 🔐 Start here: Meow Decoder
 
-By day, I’m a systems analyst (IT Librarian) behind mission-critical systems a public library depends on — patron registration, access control, ILS integrations, and automated workflows that staff and patrons rely on because they simply work.
+> [**meowdecoder.com**](https://www.meowdecoder.com) · [repo](https://github.com/systemslibrarian/meow-decoder)
 
-Outside of work, I build air-gapped cryptographic tools, multi-agent AI platforms, and Scripture apps that matter to me personally. *Scripture Journey* and *Hide in Heart* aren’t side projects — they’re the same discipline applied to something eternal.
+**Secure file transfer across an air gap.** Two computers that will never touch a network exchange data through animated QR-code streams on a phone screen. The phone is treated as an untrusted optical channel — every cryptographic guarantee stays on the secure endpoints.
 
-The cryptography work isn’t separate from my library career — it underpins it. Patron data is sensitive by nature. I built [Crypto Lab](https://systemslibrarian.github.io/crypto-lab/), [Shadow Vault](https://systemslibrarian.github.io/shadow-vault/), [Meow Decoder](https://www.meowdecoder.com/), and related projects to understand AEAD encryption, key derivation, deniable containers, and post-quantum primitives at the implementation level — not just call a library and assume correctness.
+The threat model is the point. Not the primitives — the primitives are standard. What's rare is the discipline of deciding up front what you're defending against, designing for that, and documenting honestly where the protection ends.
 
-Every production system I ship reflects that discipline: AES-256-GCM encrypted uploads, HMAC-validated webhooks, fail-closed parsing, and explicit threat models. The demos exist to make that discipline visible.
+**Stack:** AES-256-GCM · Argon2id · ML-KEM-1024 hybrid (post-quantum) · fountain codes · versioned byte-level protocol · fail-closed parsing
 
-I use AI as a development partner — accelerating iteration without compromising architecture or correctness.
+Built as a tribute to my Navy-veteran father, who knew Morse code.
 
-My Christian faith is the throughline — shaping a focus on clarity, integrity, and building systems worth depending on.
-
----
-
-## Engineering Focus Areas
-
-- **Security Engineering & Applied Cryptography** — Protocol design, AEAD encryption, post-quantum primitives, threat modeling, and fail-safe architectures  
-- **AI Systems & Multi-Agent Orchestration** — Coordinating multiple LLMs for reasoning, comparison, and collaborative problem-solving  
-- **Library Systems Integration** — Integrating ILS platforms, access control, reservations, and patron workflows  
-- **Data Pipelines & Analytics** — Transforming raw public-sector data into actionable insights  
-- **Human-Centered Design** — Prioritizing reliability, accessibility, and real-world usability
+*Actively hardening. Not yet externally audited — all primitives are standard and publicly vetted. Security depends on correct implementation, and I document where the gaps are.*
 
 ---
 
-## Technical Toolkit
+## 🏛️ The Cryptography Arc
 
-**Languages**  
-C#, TypeScript, JavaScript, Python, Rust, SQL  
+Meow Decoder didn't appear from nowhere. It exists because I spent years building the understanding to make it trustworthy. These four projects form one deliberate path — from classical ciphers to production-grade applied cryptography.
 
-**Frameworks**  
-.NET 8, ASP.NET Core MVC, Next.js, Node.js  
+| | Project | Role in the arc |
+|---|---|---|
+| **1** | [**Cipher Museum**](https://ciphermuseum.com/) · [repo](https://github.com/systemslibrarian/cipher-museum) | **Learn the history.** 2,500 years of cryptography through 37 ciphers, 10 exhibit halls, live demos, and cryptanalysis tools. |
+| **2** | [**Crypto Compare**](https://crypto-compare.systemslibrarian.dev/) · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side algorithm comparisons across 17 categories with misuse-resistant recommendations. |
+| **3** | [**Crypto Lab**](https://crypto-lab.systemslibrarian.dev/) · [repo](https://github.com/systemslibrarian/crypto-lab) | **Experiment deeply.** 99+ browser-based demos — post-quantum, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, steganography. *Browser-constrained. Educational by design. No accounts. Just the math.* |
+| **4** | [**Meow Decoder**](https://www.meowdecoder.com) · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work. |
 
-**AI / ML**  
-Multi-agent orchestration, LLM APIs, prompt engineering  
-
-**Data**  
-SQL Server, Power BI, Pandas, APIs, observability  
-
-**Security**  
-AES-256-GCM, Argon2id, HMAC, post-quantum (ML-KEM, SMAUG-T, HAETAE), threat modeling, fail-closed design  
-
-**Practices**  
-TDD, security reviews, WCAG accessibility, ethical and human-centered design
+I didn't build these to pad a portfolio. I built them because I wanted to know — at implementation depth — what I was trusting in production code.
 
 ---
 
-## Featured Projects
+## 🔒 Production Library Systems *(Private — operational sensitivity)*
 
-### 🔐 [Meow Decoder](https://github.com/systemslibrarian/meow-decoder)
+Live systems serving a public library institution and its community. This is where the discipline meets the daily work.
 
-A research tool for secure data transfer across air gaps using animated QR code frames. The phone acts only as an untrusted optical channel — all cryptographic operations stay on the secure endpoints. Built as a tribute to my Navy-veteran father.
+<details>
+<summary><strong>Patron Registration Platform + Staff Admin Dashboard</strong></summary>
 
-**Key Features**
-- AES-256-GCM with Argon2id key derivation
-- ML-KEM-1024 post-quantum hybrid keys
-- Fountain codes for reliable optical transmission
-- Explicit, versioned byte-level protocol specification
-- Fail-closed parsing with tamper detection
+Replaced a vendor-managed legacy Perl system that had become a single point of failure. Built a modern ASP.NET Core 8 platform integrated with SirsiDynix Symphony Web Services — with a security-first document pipeline (AES-256-GCM encryption, ClamAV malware scanning, deep file content validation), automated patron creation, billing, and barcode lifecycle management.
 
-**Status:** Actively hardening — not yet externally audited. All cryptographic primitives are standard, publicly vetted algorithms. Security depends on correct implementation.
+**Outcome:** staff own the registration workflow for the first time. No vendor dependency for day-to-day operations.
 
-[🌐 Live Demo](https://www.meowdecoder.com)
-
----
-
-### 🤖 [AI Conversation Platform](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)
-
-Async platform for orchestrating real-time conversations between multiple LLMs — useful for comparing model reasoning, stress-testing arguments, and exploring how different AI systems approach the same problem.
-
-**Key Features**
-- Supports Claude, ChatGPT, Gemini, Grok, and Perplexity
-- Async orchestration with circuit breakers and rate limiting
-- Observability via Prometheus + Grafana
-- LLM Guard integration and security hardening
-- Dockerized with CI/CD and 90%+ test coverage
-
-```bash
-uv run aic-start --agent1 claude --agent2 chatgpt --topic "AI consciousness" --yes
-```
-
-[🌐 Live Demo](https://ai-conversation-demo.onrender.com)
-
----
-
-### ✝️ [Scripture Journey](https://github.com/systemslibrarian/scripture-journey)
-
-A Christ-centered web app that helps readers explore how the entire Bible points to Jesus through 200+ messianic prophecy lessons. Built to show that Scripture is one unified story, and Jesus is the center of all of it.
-
-**Tech Stack:** Next.js · TypeScript · Tailwind CSS
-
-[🌐 Live Site](https://scripturejourney.com)
-
----
-
-## Additional Projects
-- ✝️ **[Hide in Heart](https://hideinheart.com/)** — A calm daily companion for hiding God's Word in your heart. Rooted in Psalm 119:11. 
-- 🙏 **[PrayerWarriors](https://prayerwarriors.mobi)** — A platform for organizing prayer requests and tracking intercession. 
-- 📖 **[HisWillGuide](https://hiswillguide.com)** — Finding God's will through Scripture, prayer, and wisdom. 
-- 📊 **[IMLS Public Libraries Analysis](https://github.com/systemslibrarian/imls-public-libraries-2022)** — Analysis of U.S. public library service and funding trends using IMLS survey data.
-- 📚 **[NYT Bestsellers CatKey Generator](https://github.com/systemslibrarian/NYT-Bestsellers-CatKey-Generator)** — Automates SirsiDynix catalog key creation using current NYT Bestseller data. 
-
----
-
-## Production Systems (Private)
-
-Live systems built for a public library institution — not open-sourced due to security and operational sensitivity.
-
-**🔒 Secure Patron Registration Platform + Staff Administration Dashboard**
-Replaced a vendor-managed legacy Perl registration system with a modern ASP.NET Core platform integrated with SirsiDynix Symphony Web Services. Designed a security-first document pipeline (AES-256-GCM encryption, malware scanning, deep file validation) and automated patron creation, billing, and barcode lifecycle management. Delivered a fully auditable, accessible workflow that modernized patron onboarding and reduced reliance on vendor-controlled infrastructure.
 `ASP.NET Core MVC` `C#` `AES-256-GCM` `SirsiDynix`
 
-**🚪 SwipeWatcher — Real-Time Access Control Event Monitor**
-Monitors C•CURE 9000 door events in real time via HMAC-validated webhooks, with automated staff alerting and structured logging — giving staff immediate visibility into access activity they had no way to monitor before.
-`C#` `.NET` `Victor Web Services` `C•CURE 9000`
+</details>
 
-**🔑 LibCal ↔ C•CURE 9000 Integration** *(Team Project)*
-Patrons now unlock meeting rooms with their library cards — no staff intervention required. Automatic access provisioning driven by LibCal reservation data. Recognized with an **I² (Innovator / Inspirator) Award**.
+<details>
+<summary><strong>SwipeWatcher — Real-Time Access Control Monitor</strong></summary>
+
+Before this system, staff had no live view of who was entering or exiting the building. SwipeWatcher monitors C•CURE 9000 door events via HMAC-validated webhooks and delivers immediate alerting and structured logging.
+
+**Outcome:** operational visibility staff had never had before.
+
+`C#` `.NET 8` `Victor Web Services` `C•CURE 9000`
+
+</details>
+
+<details>
+<summary><strong>LibCal ↔ C•CURE 9000 Integration</strong> · 🏆 <em>I² Innovator/Inspirator Award</em></summary>
+
+Patrons now unlock meeting rooms with their library cards at the scheduled time — automatic provisioning and revocation driven entirely by LibCal reservation data.
+
+**Outcome:** no staff intervention, no manual access grants, no friction.
+
 `C#` `LibCal APIs` `Victor Web Services`
 
-**📦 LibCal ↔ SirsiDynix Integration** *(Team Project)*
-Eliminated manual checkout processing for Library of Things equipment by triggering circulation transactions directly from LibCal reservation events.
+</details>
+
+<details>
+<summary><strong>LibCal ↔ SirsiDynix Integration</strong></summary>
+
+Circulation transactions trigger automatically from LibCal reservation events for Library of Things equipment.
+
+**Outcome:** eliminated a manual checkout step previously required on every loan.
+
 `C#` `LibCal APIs` `SirsiDynix Symphony Web Services`
+
+</details>
 
 ---
 
-## Let's Connect
+## ✝️ Scripture & Ministry — The Same Discipline
 
-Open to conversations on secure AI systems, library technology, applied cryptography, or projects that serve the public good. If you're building something meaningful, I'd love to connect.
+The same way of building — intentional architecture, honest design, long-term thinking — applied to something eternal. Structured as a path, not a collection.
+
+| Stage | Project | What it does |
+|---|---|---|
+| **Understand** | [**Scripture Journey**](https://scripturejourney.com) · [repo](https://github.com/systemslibrarian/scripture-journey) | Maps 200+ OT messianic prophecies to NT fulfillments across 7 categories. Scripture as one unified story, with Jesus at the center. |
+| **Remember** | [**Hide in Heart**](https://hideinheart.com) | Daily companion for Scripture memorization. Rooted in Psalm 119:11. |
+| **Discern** | [**HisWillGuide**](https://github.com/systemslibrarian/hiswillguide) | A 10-step biblical framework for finding God's will through Scripture, prayer, and community wisdom. |
+| **Intercede** | [**PrayerWarriors**](https://github.com/systemslibrarian/prayerwarriors) | Platform for organizing prayer requests and tracking intercession. Long-term ministry goal. |
+
+---
+
+## 🤖 AI as Architecture, Not Autocomplete
+
+I use AI the way I use any other powerful primitive: with an explicit model of what it's good at, what it fails at, and where the guardrails belong.
+
+[**AI Conversation Platform**](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration) is the most visible example — async orchestration of autonomous conversations between Claude, ChatGPT, Gemini, Grok, and Perplexity. The point isn't novelty. It's stress-testing reasoning by putting competing models against the same problem and watching what holds up.
+
+Circuit breakers · Prometheus + Grafana observability · LLM Guard · 90%+ test coverage.
+
+---
+
+## What I believe about systems
+
+**Security is a posture, not a layer.**  
+You hold it from the start or you don't have it.
+
+**Honest documentation is part of the system.**  
+If something isn't audited, I say so. If a browser-based demo can't replicate real-world attack conditions, I say so. Overstating guarantees is its own security failure.
+
+**Understand the primitive before you trust it.**  
+I built 99+ cryptographic demos so I'd know, at implementation depth, what I was calling in production.
+
+**Good systems outlast their builders.**  
+The ones I've shipped run without me in the room. That's the goal.
+
+---
+
+## Engineering Focus
+
+**Languages** — C# · TypeScript · JavaScript · Python · Rust · SQL
+
+**Frameworks** — .NET 8 · ASP.NET Core MVC · Next.js · Node.js
+
+**Security** — AES-256-GCM · Argon2id · HMAC · ML-KEM · SMAUG-T · HAETAE · threat modeling · fail-closed design
+
+**Library Systems** — SirsiDynix Symphony · LibCal · C•CURE 9000 · Victor Web Services
+
+**Practices** — TDD · security reviews · WCAG accessibility · explicit threat models · honest capability documentation
+
+---
+
+## Recognition
+
+🏆 Florida Librarian of the Year, 2011  
+🌍 Library Journal Mover & Shaker — Global Leadership, 2012  
+❤️ I Love My Librarian Award, 2010  
+🏅 I² Innovator/Inspirator Award — LibCal ↔ C•CURE Integration
+
+---
+
+If what I've described sounds like the way you think — public infrastructure, applied cryptography, AI systems that have to be responsible — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/systemslibrarian)
 
 ---
 
-> *"So whether you eat or drink or whatever you do, do it all for the glory of God."*
+> *"So whether you eat or drink or whatever you do, do it all for the glory of God."*  
 > — 1 Corinthians 10:31 (NIV)

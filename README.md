@@ -140,7 +140,7 @@ Define the threat model first. Build fail-closed. Document honestly where guaran
 
 Understand the primitive before you trust it — at implementation depth.
 
-Good systems run correctly without their author in the room.
+Systems should be reliable, observable, and self-sustaining in production.
 
 ---
 

@@ -134,17 +134,13 @@ Circuit breakers · Prometheus + Grafana observability · LLM Guard · 90%+ test
 
 ## What I believe about systems
 
-**Security is a posture, not a layer.**  
-You hold it from the start or you don't have it.
+Security is a posture — not a layer.
 
-**Honest documentation is part of the system.**  
-If something isn't audited, I say so. If a browser-based demo can't replicate real-world attack conditions, I say so. Overstating guarantees is its own security failure.
+Define the threat model first. Build fail-closed. Document honestly where guarantees end.
 
-**Understand the primitive before you trust it.**  
-I built 99+ cryptographic demos so I'd know, at implementation depth, what I was calling in production.
+Understand the primitive before you trust it — at implementation depth.
 
-**Good systems outlast their builders.**  
-The ones I've shipped run without me in the room. That's the goal.
+Good systems run correctly without their author in the room.
 
 ---
 

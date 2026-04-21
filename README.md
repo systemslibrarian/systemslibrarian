@@ -23,11 +23,13 @@ The threat model is the point. Not the primitives — the primitives are standar
 
 **Stack:** AES-256-GCM · Argon2id · ML-KEM-1024 hybrid (post-quantum) · fountain codes · versioned byte-level protocol · fail-closed parsing
 
+Built as a tribute to my Navy-veteran father, who knew Morse code.
+
 *Actively hardening. Not yet externally audited — all primitives are standard and publicly vetted. Security depends on correct implementation, and I document where the gaps are.*
 
 ---
 
-## 🏛️ The Cryptography Arc
+## 🏛️ The Cryptography Ecosystem
 
 Meow Decoder didn't appear from nowhere. It exists because I spent years building the understanding to make it trustworthy. These four projects form one deliberate path — from classical ciphers to production-grade applied cryptography.
 
@@ -98,10 +100,10 @@ The same way of building — intentional architecture, honest design, long-term 
 
 | Stage | Project | What it does |
 |---|---|---|
-| **Understand** | [**Scripture Journey**](https://scripturejourney.com) · [repo](https://github.com/systemslibrarian/scripture-journey) | Maps 200+ OT messianic prophecies to NT fulfillments across 7 categories. Scripture as one unified story, with Jesus at the center. |
+| **Understand** | [**Scripture Journey**](https://scripturejourney.com) | Maps 200+ OT messianic prophecies to NT fulfillments across 7 categories. Scripture as one unified story, with Jesus at the center. |
 | **Remember** | [**Hide in Heart**](https://hideinheart.com) | Daily companion for Scripture memorization. Rooted in Psalm 119:11. |
-| **Discern** | [**HisWillGuide**](https://github.com/systemslibrarian/hiswillguide) | A 10-step biblical framework for finding God's will through Scripture, prayer, and community wisdom. |
-| **Intercede** | [**PrayerWarriors**](https://github.com/systemslibrarian/prayerwarriors) | Platform for organizing prayer requests and tracking intercession. Long-term ministry goal. |
+| **Discern** | [**HisWillGuide**](https://hiswillguide.com) | A 10-step biblical framework for finding God's will through Scripture, prayer, and community wisdom. |
+| **Intercede** | [**PrayerWarriors**](https://prayerwarriors.mobi) | Mobile-first platform for organizing prayer requests and tracking intercession. Live mockup at prayerwarriors.mobi — in active design. Long-term ministry goal. |
 
 ---
 

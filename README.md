@@ -153,7 +153,7 @@ National and industry recognition for leadership, advocacy, and public impact in
 - 🌍 **Library Journal Mover & Shaker — Global Leadership (2012)**  
 - ❤️ **I Love My Librarian Award (2010)** — Carnegie Corporation of New York, *The New York Times*, American Library Association  
 - 🗣️ **Advocate of the Year (2010)** — Florida Association of Counties  
-- 🏅 **I² Innovator/Inspirator Award** — LibCal ↔ C•CURE Integration (2024, 2025)
+- 🏅 **I² Innovator/Inspirator Award (2024, 2025)** — LibCal ↔ C•CURE Integration
 
 These recognitions reflect earlier work in advocacy and community leadership — the same focus on public impact now carried forward through system design, security, and infrastructure.
 

@@ -23,8 +23,6 @@ The threat model is the point. Not the primitives — the primitives are standar
 
 **Stack:** AES-256-GCM · Argon2id · ML-KEM-1024 hybrid (post-quantum) · fountain codes · versioned byte-level protocol · fail-closed parsing
 
-Built as a tribute to my Navy-veteran father, who knew Morse code.
-
 *Actively hardening. Not yet externally audited — all primitives are standard and publicly vetted. Security depends on correct implementation, and I document where the gaps are.*
 
 ---

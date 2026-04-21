@@ -24,6 +24,23 @@ The threat model is the point. Not the primitives — the primitives are standar
 **Stack:** AES-256-GCM · Argon2id · ML-KEM-1024 hybrid (post-quantum) · fountain codes · versioned byte-level protocol · fail-closed parsing
 
 *Actively hardening. Not yet externally audited — all primitives are standard and publicly vetted. Security depends on correct implementation, and I document where the gaps are.*
+---
+
+## 🛡️ Applied Security Engineering (Live Demonstration)
+
+**[Secure File Upload Pipeline (.NET)](https://github.com/systemslibrarian/secure-file-upload-dotnet)** · [Live Demo](https://systemslibrarian.github.io/secure-file-upload-dotnet/)
+
+Most real-world breaches don’t break cryptography — they exploit file uploads and input validation failures.
+
+This project demonstrates a hardened ASP.NET Core upload pipeline with a live demo:
+
+- spoofed file rejection (extension vs content mismatch)
+- magic number validation (file signature verification)
+- strict allowlisting and fail-closed behavior
+- size and abuse protections
+
+*A real attack surface — and what it takes to defend it correctly.*
+
 
 ---
 

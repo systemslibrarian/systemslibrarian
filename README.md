@@ -28,7 +28,7 @@ The threat model is the point. Not the primitives — the primitives are standar
 
 ## 🛡️ Applied Security Engineering (Live Demonstration)
 
-**[Secure File Upload Pipeline (.NET)](https://github.com/systemslibrarian/secure-file-upload-dotnet)** · [Live Demo](https://systemslibrarian.github.io/secure-file-upload-dotnet/)
+**[Secure File Upload Pipeline (.NET)](https://systemslibrarian.github.io/secure-file-upload-dotnet/)** · [Repo](https://github.com/systemslibrarian/secure-file-upload-dotnet)
 
 Most real-world breaches don’t break cryptography — they exploit file uploads and input validation failures.
 

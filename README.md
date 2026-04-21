@@ -149,11 +149,13 @@ The ones I've shipped run without me in the room. That's the goal.
 
 ## Recognition
 
-❤️ **I Love My Librarian Award**, 2010 — Carnegie Corporation of New York, *The New York Times* & American Library Association  
-🗣️ **Advocate of the Year**, 2010 — Florida Association of Counties  
-🏆 **Florida Librarian of the Year**, 2011  
-🌍 **Library Journal Mover & Shaker** — Global Leadership, 2012  
-🏅 **I² Innovator/Inspirator Award** — LibCal ↔ C•CURE Integration
+National and industry recognition for advocacy, leadership, and public impact in library systems and community access:
+
+- 🏆 **Florida Librarian of the Year (2011)** — awarded for advocacy and community impact
+- 🌍 **Library Journal Mover & Shaker — Global Leadership (2012)**
+- ❤️ **I Love My Librarian Award (2010)** — Carnegie Corporation of New York, *The New York Times*, American Library Association
+- 🗣️ **Advocate of the Year (2010)** — Florida Association of Counties
+- 🏅 **I² Innovator/Inspirator Award** — LibCal ↔ C•CURE Integration
 
 ---
 

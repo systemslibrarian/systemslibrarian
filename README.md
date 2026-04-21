@@ -11,28 +11,37 @@ My work is shaped by a commitment to stewardship, integrity, and service — bui
 [![GitHub Followers](https://img.shields.io/github/followers/systemslibrarian?style=social)](https://github.com/systemslibrarian)
 
 ---
-
 ### 🏛️ Cryptography Ecosystem – Start Here
 
-**1. Cipher Museum** — Interactive virtual museum of cryptographic history  
-[Live Site](https://ciphermuseum.com/) | [Repo](https://github.com/systemslibrarian/cipher-museum)  
+1. **Cipher Museum** — Interactive virtual museum of cryptographic history  
+   [Live Site](https://ciphermuseum.com/) | [Repo](https://github.com/systemslibrarian/cipher-museum)  
+   Explore 2,500 years of cryptography through **37 historical ciphers** in **10 exhibit halls**. Features live encryption/decryption demos, cryptanalysis tools, timeline, and guided tours. The perfect on-ramp to understanding how classical ciphers connect to modern and post-quantum systems.
 
-Explore 2,500 years of cryptography through **37 historical ciphers** in **10 exhibit halls**. Features live encryption/decryption demos, cryptanalysis tools, timeline, and guided tours. The perfect on-ramp to understanding how classical ciphers connect to modern and post-quantum systems.
+2. **Crypto Compare** — Algorithm reference & safe chooser  
+   [Live](https://crypto-compare.systemslibrarian.dev/) | [Repo](https://github.com/systemslibrarian/crypto-compare)  
+   Side-by-side comparisons across 17 cryptographic categories with misuse-resistant recommendations.
 
-**2. Crypto Compare** — Algorithm reference & safe chooser  
-[Live](https://crypto-compare.systemslibrarian.dev/) | [Repo](https://github.com/systemslibrarian/crypto-compare)  
-Side-by-side comparisons across 17 cryptographic categories with misuse-resistant recommendations.
+3. **Crypto Lab** — 99+ interactive cryptography demos  
+   [Live](https://crypto-lab.systemslibrarian.dev/) | [Repo](https://github.com/systemslibrarian/crypto-lab)  
+   Browser-based laboratory covering post-quantum systems, zero-knowledge proofs, homomorphic encryption, MPC, threshold systems, real-world attacks, steganography, and historical ciphers. **No accounts. Just the math.**
 
-**3. Crypto Lab** — 99+ interactive cryptography demos  
-[Live](https://crypto-lab.systemslibrarian.dev/) | [Repo](https://github.com/systemslibrarian/crypto-lab)  
-Browser-based laboratory covering post-quantum systems, zero-knowledge proofs, homomorphic encryption, MPC, real-world attacks, steganography, and more. No accounts. Just the math.
+4. **Meow Decoder** — Secure air-gapped file transfer  
+   [Live](https://www.meowdecoder.com) | [Repo](https://github.com/systemslibrarian/meow-decoder)  
+   Animated QR-code streams with AES-256-GCM + Argon2id + ML-KEM-1024 (post-quantum) and fountain codes. Built with an explicit threat model and fail-closed design.
 
-**4. Meow Decoder** — Secure air-gapped file transfer  
-[Repo](https://github.com/systemslibrarian/meow-decoder)
+> These four projects form a complete learning-to-practice path:  
+> **Learn the history** at the Cipher Museum → **Choose wisely** with Crypto Compare → **Experiment deeply** in Crypto Lab → **Apply securely** with Meow Decoder.
 
-4. ✝️ **[Scripture Journey](#)** ([repo](#)) — A Christ-centered PWA exploring Scripture as a unified story, mapping 200+ Old Testament prophecies to their New Testament fulfillments.
+### Other Notable Projects
 
-5. 🤖 **[AI Conversation Platform](#)** ([repo](#)) — Multi-agent LLM orchestration platform with circuit breakers, observability, and production-grade reliability patterns.
+- **Scripture Journey** — A Christ-centered PWA exploring Scripture as a unified story  
+  [Live](https://scripturejourney.com) | [Repo](https://github.com/systemslibrarian/scripture-journey)  
+  Maps 200+ Old Testament prophecies to their New Testament fulfillments.
+
+- **AI Conversation Platform** — Multi-agent LLM orchestration platform  
+  [Repo](https://github.com/systemslibrarian/AI-Conversation-Platform-The-Future-of-Multi-Agent-Collaboration)  
+  Production-grade system for autonomous conversations between multiple LLMs (Claude, ChatGPT, Gemini, Grok, etc.) with circuit breakers, observability, and reliability patterns.
+
 ---
 
 ## About

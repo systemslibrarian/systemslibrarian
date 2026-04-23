@@ -23,6 +23,22 @@ The threat model is the point. Not the primitives — the primitives are standar
 
 **Stack:** AES-256-GCM · Argon2id · ML-KEM-1024 hybrid (post-quantum) · fountain codes · versioned byte-level protocol · fail-closed parsing
 
+---
+## 🏛️ The Cryptography Ecosystem
+
+Meow Decoder didn't appear from nowhere. It exists because I spent years building the understanding to make it trustworthy. These four projects form one deliberate path — from classical ciphers to production-grade applied cryptography.
+
+| | Project | Role in the arc |
+|---|---|---|
+| **1** | [**Cipher Museum**](https://ciphermuseum.com/) · [repo](https://github.com/systemslibrarian/cipher-museum) | **Learn the history.** 2,500 years of cryptography through 37 ciphers, 10 exhibit halls, live demos, and cryptanalysis tools. |
+| **2** | [**Crypto Compare**](https://crypto-compare.systemslibrarian.dev/) · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side algorithm comparisons across 17 categories with misuse-resistant recommendations. |
+| **3** | [**Crypto Lab**](https://crypto-lab.systemslibrarian.dev/) · [repo](https://github.com/systemslibrarian/crypto-lab) | **Experiment deeply.** 99+ browser-based demos — post-quantum, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, steganography. *Browser-constrained. Educational by design. No accounts. Just the math.* |
+| **4** | [**Meow Decoder**](https://www.meowdecoder.com) · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work. |
+
+I didn't build these to pad a portfolio. I built them because I wanted to know — at implementation depth — what I was trusting in production code.
+
+
+
 
 ---
 
@@ -43,22 +59,6 @@ This project demonstrates a hardened ASP.NET Core upload pipeline with a live de
 
 
 ---
-
-## 🏛️ The Cryptography Ecosystem
-
-Meow Decoder didn't appear from nowhere. It exists because I spent years building the understanding to make it trustworthy. These four projects form one deliberate path — from classical ciphers to production-grade applied cryptography.
-
-| | Project | Role in the arc |
-|---|---|---|
-| **1** | [**Cipher Museum**](https://ciphermuseum.com/) · [repo](https://github.com/systemslibrarian/cipher-museum) | **Learn the history.** 2,500 years of cryptography through 37 ciphers, 10 exhibit halls, live demos, and cryptanalysis tools. |
-| **2** | [**Crypto Compare**](https://crypto-compare.systemslibrarian.dev/) · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side algorithm comparisons across 17 categories with misuse-resistant recommendations. |
-| **3** | [**Crypto Lab**](https://crypto-lab.systemslibrarian.dev/) · [repo](https://github.com/systemslibrarian/crypto-lab) | **Experiment deeply.** 99+ browser-based demos — post-quantum, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, steganography. *Browser-constrained. Educational by design. No accounts. Just the math.* |
-| **4** | [**Meow Decoder**](https://www.meowdecoder.com) · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work. |
-
-I didn't build these to pad a portfolio. I built them because I wanted to know — at implementation depth — what I was trusting in production code.
-
----
-
 ## 🔒 Production Library Systems *(Private — operational sensitivity)*
 
 Live systems serving a public library institution and its community. This is where the discipline meets the daily work.

@@ -59,7 +59,7 @@ This project demonstrates a hardened ASP.NET Core upload pipeline with a live de
 
 
 ---
-## 🔒 Production Library Systems *(Private — operational sensitivity)*
+## 🔒 Production Library Systems *(Private — institutional)*
 
 Live systems serving a public library institution and its community. This is where the discipline meets the daily work.
 

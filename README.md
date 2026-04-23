@@ -42,7 +42,7 @@ I didn't build these to pad a portfolio. I built them because I wanted to know �
 
 ---
 
-## 🛡️ Applied Security Engineering (Live Demonstration)
+## 🛡️ Applied Security Engineering
 
 **[Secure File Upload Pipeline (.NET)](https://systemslibrarian.github.io/secure-file-upload-dotnet/)** · [repo](https://github.com/systemslibrarian/secure-file-upload-dotnet)
 

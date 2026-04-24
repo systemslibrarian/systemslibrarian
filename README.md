@@ -26,16 +26,16 @@ The threat model is the point. Not the primitives — the primitives are standar
 ---
 ## 🏛️ The Cryptography Ecosystem
 
-Meow Decoder didn't appear from nowhere. It exists because I spent years building the understanding to make it trustworthy. These four projects form one deliberate path — from classical ciphers to production-grade applied cryptography.
+Meow Decoder didn't appear from nowhere. It sits at the end of a deliberate learning path — from classical ciphers, to primitive selection, to modern cryptographic experimentation, to applied security engineering.
 
-| | Project | Role in the arc |
+These four projects form one arc:
+
+| # | Project | Role in the arc |
 |---|---|---|
-| **1** | [**Cipher Museum**](https://ciphermuseum.com/) · [repo](https://github.com/systemslibrarian/cipher-museum) | **Learn the history.** 2,500 years of cryptography through 37 ciphers, 10 exhibit halls, live demos, and cryptanalysis tools. |
-| **2** | [**Crypto Compare**](https://crypto-compare.systemslibrarian.dev/) · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side algorithm comparisons across 17 categories with misuse-resistant recommendations. |
-| **3** | [**Crypto Lab**](https://crypto-lab.systemslibrarian.dev/) · [repo](https://github.com/systemslibrarian/crypto-lab) | **Experiment deeply.** 99+ browser-based demos — post-quantum, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, steganography. *Browser-constrained. Educational by design. No accounts. Just the math.* |
-| **4** | [**Meow Decoder**](https://www.meowdecoder.com) · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work. |
-
-I didn't build these to pad a portfolio. I built them because I wanted to know — at implementation depth — what I was trusting in production code.
+| 1 | **[Cipher Museum](https://github.com/systemslibrarian/cipher-museum)** · [repo](https://github.com/systemslibrarian/cipher-museum) | **Learn the history.** 2,500 years of cryptography through 63 historically important ciphers, 11 exhibit halls, live demos, and cryptanalysis tools. |
+| 2 | **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side algorithm comparisons across 17 categories with misuse-resistant recommendations. |
+| 3 | **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) | **Experiment deeply.** 99+ browser-based demos — post-quantum, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, steganography. Browser-constrained. Educational by design. No accounts. Just the math. |
+| 4 | **[Meow Decoder](https://github.com/systemslibrarian/meow-decoder)** · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work. |
 
 
 

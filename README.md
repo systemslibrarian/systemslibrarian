@@ -32,7 +32,7 @@ These four projects form one arc:
 
 | # | Project | Role in the arc |
 |---|---|---|
-| 1 | **[Cipher Museum](https://github.com/systemslibrarian/cipher-museum)** · [repo](https://github.com/systemslibrarian/cipher-museum) | **Learn the history.** 2,500 years of cryptography through 63 historically important ciphers, 11 exhibit halls, live demos, and cryptanalysis tools. |
+| 1 | **[Cipher Museum](https://github.com/systemslibrarian/cipher-museum)** · [repo](https://github.com/systemslibrarian/cipher-museum) | **Learn the history.** 3,900 years of cryptography through 63 historically important ciphers, 11 exhibit halls, live demos, and cryptanalysis tools. |
 | 2 | **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side algorithm comparisons across 17 categories with misuse-resistant recommendations. |
 | 3 | **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) | **Experiment deeply.** 99+ browser-based demos — post-quantum, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, steganography. Browser-constrained. Educational by design. No accounts. Just the math. |
 | 4 | **[Meow Decoder](https://github.com/systemslibrarian/meow-decoder)** · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work. |

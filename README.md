@@ -28,14 +28,15 @@ The threat model is the point. Not the primitives — the primitives are standar
 
 Meow Decoder didn't appear from nowhere. It sits at the end of a deliberate learning path — from classical ciphers, to primitive selection, to modern cryptographic experimentation, to applied security engineering.
 
-These four projects form one arc:
+These five projects form one arc:
 
 | # | Project | Role in the arc |
 |---|---|---|
 | 1 | **[Cipher Museum](https://github.com/systemslibrarian/cipher-museum)** · [repo](https://github.com/systemslibrarian/cipher-museum) | **Learn the history.** 3,900 years of cryptography through 84 historically important ciphers, 13 exhibit halls, live demos, and cryptanalysis tools. |
-| 2 | **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side algorithm comparisons across 17 categories with misuse-resistant recommendations. |
-| 3 | **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) | **Experiment deeply.** 99+ browser-based demos — post-quantum, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, steganography. Browser-constrained. Educational by design. No accounts. Just the math. |
-| 4 | **[Meow Decoder](https://github.com/systemslibrarian/meow-decoder)** · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work. |
+| 2 | **[Cipher Detective AI](https://github.com/systemslibrarian/cipher-detective-ai)** · [repo](https://github.com/systemslibrarian/cipher-detective-ai) | **Analyze intelligently.** AI-assisted cipher identification and cryptanalysis exploration — connecting classical cipher patterns with modern machine-learning techniques. |
+| 3 | **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side algorithm comparisons across 17 categories with misuse-resistant recommendations. |
+| 4 | **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) | **Experiment deeply.** 99+ browser-based demos — post-quantum cryptography, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, and steganography. Browser-constrained. Educational by design. No accounts. Just the math. |
+| 5 | **[Meow Decoder](https://github.com/systemslibrarian/meow-decoder)** · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work in an applied security engineering project focused on optical air-gap data transfer and modern encrypted-transfer experiments. |
 
 
 

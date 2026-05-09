@@ -36,7 +36,7 @@ These five projects form one arc:
 | 2 | **[Cipher Detective AI](https://huggingface.co/spaces/systemslibrarian/cipher-detective-ai)** · [repo](https://github.com/systemslibrarian/cipher-detective-ai) | **Analyze intelligently.** AI-assisted cipher identification and cryptanalysis exploration — connecting classical cipher patterns with modern machine-learning techniques. |
 | 3 | **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side algorithm comparisons across 17 categories with misuse-resistant recommendations. |
 | 4 | **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) | **Experiment deeply.** 99+ browser-based demos — post-quantum cryptography, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, and steganography. Browser-constrained. Educational by design. No accounts. Just the math. |
-| 5 | **[Meow Decoder](https://github.com/systemslibrarian/meow-decoder)** · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work in an applied security engineering project focused on optical air-gap data transfer and modern encrypted-transfer experiments. |
+| 5 | **[Meow Decoder](https://www.meowdecoder.com)** · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work in an applied security engineering project focused on optical air-gap data transfer and modern encrypted-transfer experiments. |
 
 
 

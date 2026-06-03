@@ -4,6 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/systemslibrarian)
 [![GitHub](https://img.shields.io/github/followers/systemslibrarian?style=social)](https://github.com/systemslibrarian)
 [![Website](https://img.shields.io/badge/systemslibrarian.dev-visit-brightgreen?style=flat&logo=github)](https://systemslibrarian.dev)
+[![NuGet](https://img.shields.io/badge/NuGet-systemslibrarian-004880?style=flat&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/systemslibrarian)
+[![PostQuantum.FileFormat](https://img.shields.io/badge/PostQuantum.FileFormat-PQF-6f42c1?style=flat&logo=github&logoColor=white)](https://github.com/systemslibrarian/PostQuantum.FileFormat)
 
 ## I build systems where trust has to be earned by design — not assumed.
 
@@ -40,6 +42,20 @@ These five projects form one arc:
 
 
 
+
+---
+
+## 📦 Post-Quantum .NET Packages
+
+> [**NuGet profile**](https://www.nuget.org/profiles/systemslibrarian) · [PostQuantum.FileFormat repo](https://github.com/systemslibrarian/PostQuantum.FileFormat)
+
+The same arc is now turning into a practical .NET package ecosystem: small, documented libraries that bring post-quantum experiments into places developers actually work — file encryption, JWT/authentication, secure channels, key management, password hashing, and ASP.NET Core integration.
+
+**PostQuantum.FileFormat (PQF)** is the center of gravity: a draft specification and reference implementation for hybrid post-quantum encrypted files at rest. It treats the file format itself as a security boundary — deterministic encoding, explicit versioning, test vectors, fail-closed parsing, and honest preview-stage documentation.
+
+The NuGet packages are intentionally labeled as previews where appropriate. The goal is not to claim finished cryptography; it is to make post-quantum migration understandable, testable, and reviewable in real .NET code.
+
+**Current direction:** X-Wing / ML-KEM · ML-DSA · AES-256-GCM · HKDF · CBOR · ASP.NET Core · secure-by-default developer APIs
 
 ---
 
@@ -151,7 +167,7 @@ Systems should be reliable, observable, and self-sustaining in production.
 
 **Frameworks** — .NET 8 · ASP.NET Core MVC · Next.js · Node.js
 
-**Security** — AES-256-GCM · Argon2id · HMAC · ML-KEM · SMAUG-T · HAETAE · threat modeling · fail-closed design
+**Security** — AES-256-GCM · Argon2id · HMAC · HKDF · ML-KEM · ML-DSA · X-Wing · SMAUG-T · HAETAE · threat modeling · fail-closed design
 
 **Library Systems** — SirsiDynix Symphony · LibCal · C•CURE 9000 · Victor Web Services
 

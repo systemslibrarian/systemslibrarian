@@ -49,13 +49,18 @@ These five projects form one arc:
 
 > [**NuGet profile**](https://www.nuget.org/profiles/systemslibrarian) · [PostQuantum.FileFormat repo](https://github.com/systemslibrarian/PostQuantum.FileFormat)
 
-The same arc is now turning into a practical .NET package ecosystem: small, documented libraries that bring post-quantum experiments into places developers actually work — file encryption, JWT/authentication, secure channels, key management, password hashing, and ASP.NET Core integration.
+The same arc has grown into a practical .NET package ecosystem — 40+ small, documented libraries that bring post-quantum cryptography into the places developers actually work: file and data encryption, JWT/authentication, secure channels, key management and rotation, password hashing, configuration secrets, Entity Framework Core, and first-class ASP.NET Core integration.
+A few anchors in the ecosystem:
 
-**PostQuantum.FileFormat (PQF)** is the center of gravity: a draft specification and reference implementation for hybrid post-quantum encrypted files at rest. It treats the file format itself as a security boundary — deterministic encoding, explicit versioning, test vectors, fail-closed parsing, and honest preview-stage documentation.
+PostQuantum.Cryptography — the foundation library: clean, secure-by-default wrappers over .NET's native FIPS 203 (ML-KEM) and FIPS 204 (ML-DSA) implementations.
+PostQuantum.Hybrid — high-level hybrid cryptography that pairs classical primitives (X25519, Ed25519) with the NIST-standardized post-quantum algorithms (ML-KEM-768, ML-DSA-65), so a payload stays secure as long as either half holds.
+PostQuantum.FileFormat (PQF) — a draft specification and reference implementation for hybrid post-quantum encrypted files at rest. It treats the file format itself as a security boundary: deterministic CBOR encoding, explicit versioning, test vectors, fail-closed parsing, and honest preview-stage documentation.
+PostQuantum.SecureChannel — three messages to a live, mutually-authenticated, forward-secret session built on X-Wing hybrid key agreement.
+PostQuantum.DataProtection — drops into ASP.NET Core Data Protection to wrap cookie, antiforgery, and session keys, with key stores for Azure Key Vault, AWS Secrets Manager, and Redis.
+PostQuantum.Jwt / PostQuantum.AspNetCore — JOSE-style post-quantum tokens with one-line authentication wiring (AddPostQuantumJwtBearer()), including Roslyn analyzers that enforce safe-by-construction verification.
 
-The NuGet packages are intentionally labeled as previews where appropriate. The goal is not to claim finished cryptography; it is to make post-quantum migration understandable, testable, and reviewable in real .NET code.
-
-**Current direction:** X-Wing / ML-KEM · ML-DSA · AES-256-GCM · HKDF · CBOR · ASP.NET Core · secure-by-default developer APIs
+The packages are intentionally labeled by maturity — from release candidates down to early previews. The goal is not to claim finished cryptography; it is to make post-quantum migration understandable, testable, and reviewable in real .NET code, with misuse-resistant APIs, build-time analyzers, and test fakes throughout.
+Current direction: X-Wing / ML-KEM · ML-DSA · X25519 · Ed25519 · AES-256-GCM · Argon2id · HKDF · CBOR · ASP.NET Core · secure-by-default developer APIs.
 
 ---
 

@@ -54,6 +54,8 @@ A few anchors in the ecosystem:
 
 PostQuantum.Cryptography — the foundation library: clean, secure-by-default wrappers over .NET's native FIPS 203 (ML-KEM) and FIPS 204 (ML-DSA) implementations.
 
+PostQuantum.Jwt / PostQuantum.AspNetCore — JOSE-style post-quantum tokens with one-line authentication wiring (AddPostQuantumJwtBearer()), including Roslyn analyzers that enforce safe-by-construction verification.
+
 PostQuantum.Hybrid — high-level hybrid cryptography that pairs classical primitives (X25519, Ed25519) with the NIST-standardized post-quantum algorithms (ML-KEM-768, ML-DSA-65), so a payload stays secure as long as either half holds.
 
 PostQuantum.FileFormat (PQF) — a draft specification and reference implementation for hybrid post-quantum encrypted files at rest. It treats the file format itself as a security boundary: deterministic CBOR encoding, explicit versioning, test vectors, fail-closed parsing, and honest preview-stage documentation.
@@ -61,8 +63,6 @@ PostQuantum.FileFormat (PQF) — a draft specification and reference implementat
 PostQuantum.SecureChannel — three messages to a live, mutually-authenticated, forward-secret session built on X-Wing hybrid key agreement.
 
 PostQuantum.DataProtection — drops into ASP.NET Core Data Protection to wrap cookie, antiforgery, and session keys, with key stores for Azure Key Vault, AWS Secrets Manager, and Redis.
-
-PostQuantum.Jwt / PostQuantum.AspNetCore — JOSE-style post-quantum tokens with one-line authentication wiring (AddPostQuantumJwtBearer()), including Roslyn analyzers that enforce safe-by-construction verification.
 
 The packages are intentionally labeled by maturity — from release candidates down to early previews. The goal is not to claim finished cryptography; it is to make post-quantum migration understandable, testable, and reviewable in real .NET code, with misuse-resistant APIs, build-time analyzers, and test fakes throughout.
 Current direction: X-Wing / ML-KEM · ML-DSA · X25519 · Ed25519 · AES-256-GCM · Argon2id · HKDF · CBOR · ASP.NET Core · secure-by-default developer APIs.

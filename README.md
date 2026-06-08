@@ -49,7 +49,7 @@ These five projects form one arc:
 
 > [**NuGet profile**](https://www.nuget.org/profiles/systemslibrarian) · [PostQuantum.FileFormat repo](https://github.com/systemslibrarian/PostQuantum.FileFormat)
 
-The same arc has grown into a practical .NET package ecosystem — 40+ small, documented libraries that bring post-quantum cryptography into the places developers actually work: file and data encryption, JWT/authentication, secure channels, key management and rotation, password hashing, configuration secrets, Entity Framework Core, and first-class ASP.NET Core integration.
+The same arc has grown into a practical .NET package ecosystem — 35 small, documented libraries that bring post-quantum cryptography into the places developers actually work: file and data encryption, JWT/authentication, secure channels, key management and rotation, password hashing, configuration secrets, Entity Framework Core, and first-class ASP.NET Core integration.
 A few anchors in the ecosystem:
 
 PostQuantum.Cryptography — the foundation library: clean, secure-by-default wrappers over .NET's native FIPS 203 (ML-KEM) and FIPS 204 (ML-DSA) implementations.

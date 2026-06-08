@@ -171,17 +171,20 @@ Systems should be reliable, observable, and self-sustaining in production.
 
 ---
 
-## Engineering Focus
+**Engineering Focus**
 
-**Languages** — C# · TypeScript · JavaScript · Python · Rust · SQL
+**Languages** — C# · TypeScript · JavaScript · Python · Dart · Rust · SQL
 
-**Frameworks** — .NET 8 · ASP.NET Core MVC · Next.js · Node.js
+**Frameworks** — .NET 8 · ASP.NET Core MVC · Next.js · Node.js · Vite · Flutter · Firebase
 
-**Security** — AES-256-GCM · Argon2id · HMAC · HKDF · ML-KEM · ML-DSA · X-Wing · SMAUG-T · HAETAE · threat modeling · fail-closed design
+**Security** — AES-256-GCM · Argon2id · HMAC · HKDF · BIP-39 · ML-KEM · ML-DSA · X-Wing (X25519 + ML-KEM) · Ed25519 · HQC · multivariate & ZK schemes · E2EE · forward secrecy · threat modeling · fail-closed design
+
+**Cryptography Education** — crypto-lab (90+ browser demos) · Cipher Museum (140 exhibits, 110 demos) · crypto-compare (97 algorithms) · real-primitive demos · KNOWN-GAPS documentation
 
 **Library Systems** — SirsiDynix Symphony · LibCal · C•CURE 9000 · Victor Web Services
 
-**Practices** — TDD · security reviews · WCAG accessibility · explicit threat models · honest capability documentation
+**Practices** — TDD · CI-proven invariants · ADR-driven design · security reviews · WCAG accessibility · explicit threat models · honest capability documentation
+
 
 ---
 

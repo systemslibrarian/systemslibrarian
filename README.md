@@ -61,10 +61,6 @@ The strongest traction so far has been around file encryption, JWT/authenticatio
 - **PostQuantum.Jwt / PostQuantum.Jwt.AspNetCore** — JOSE-style post-quantum tokens with ASP.NET Core authentication wiring, templates, and analyzers designed to make verification safer and harder to misuse.
 - **PostQuantum.Hybrid** — high-level hybrid cryptography that pairs classical primitives such as X25519 and Ed25519 with NIST-standardized post-quantum algorithms such as ML-KEM and ML-DSA.
 - **PostQuantum.DataProtection** — ASP.NET Core Data Protection integration for wrapping cookies, antiforgery tokens, and session keys, with companion packages for Azure Key Vault, AWS Secrets Manager, Redis, OpenTelemetry, testing, and FIPS-oriented scenarios.
-- **Argon2id.PasswordHasher / Argon2id.PasswordHasher.AspNetCore** — password hashing packages built around Argon2id, with ASP.NET Core integration for practical application use.
-- **PostQuantum.KeyManagement** — key lifecycle support for post-quantum and hybrid systems, including rotation-focused workflows.
-- **PostQuantum.FileFormat.Cli / PostQuantum.FileFormat** — a draft specification and CLI-oriented implementation for hybrid post-quantum encrypted file formats, with explicit versioning, deterministic encoding, test vectors, and fail-closed parsing.
-- **PostQuantum.SecureChannel** — an early secure-channel design for mutually authenticated, forward-secret sessions built around hybrid post-quantum key agreement.
 
 ## Maturity Labeling
 

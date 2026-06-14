@@ -2,7 +2,6 @@
 
 [![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue?style=flat&logo=google&logoColor=white)](https://www.credly.com/badges/d41670d1-a861-474d-be14-0c973c39d122/public_url)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/systemslibrarian)
-[![GitHub](https://img.shields.io/github/followers/systemslibrarian?style=social)](https://github.com/systemslibrarian)
 [![Website](https://img.shields.io/badge/systemslibrarian.dev-visit-brightgreen?style=flat&logo=github)](https://systemslibrarian.dev)
 [![NuGet](https://img.shields.io/badge/NuGet-systemslibrarian-004880?style=flat&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/systemslibrarian)
 [![PostQuantum.FileFormat](https://img.shields.io/badge/PostQuantum.FileFormat-PQF-6f42c1?style=flat&logo=github&logoColor=white)](https://github.com/systemslibrarian/PostQuantum.FileFormat)

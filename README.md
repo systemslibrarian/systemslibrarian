@@ -30,14 +30,13 @@ The threat model is the point. Not the primitives — the primitives are standar
 Meow Decoder didn't appear from nowhere. It sits at the end of a deliberate learning path — from classical ciphers, to primitive selection, to modern cryptographic experimentation, to applied security engineering.
 
 These five projects form one arc:
-
+ 
 | # | Project | Role in the arc |
 |---|---|---|
 | 1 | **[Cipher Museum](https://ciphermuseum.com)** · [repo](https://github.com/systemslibrarian/cipher-museum) | **Learn the history.** 3,900 years of cryptography through 84 historically important ciphers, 13 exhibit halls, live demos, and cryptanalysis tools. |
 | 2 | **[Cipher Detective AI](https://huggingface.co/spaces/systemslibrarian/cipher-detective-ai)** · [repo](https://github.com/systemslibrarian/cipher-detective-ai) | **Analyze intelligently.** AI-assisted cipher identification and cryptanalysis exploration — connecting classical cipher patterns with modern machine-learning techniques. |
 | 3 | **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side comparisons of 97 algorithms across 17 categories with misuse-resistant recommendations. |
-| 4 | 🏆 Recognition
-**Crypto Lab** — [2026 Cybersecurity Excellence Awards](https://cybersecurity-excellence-awards.com/candidates/crypto-lab-2026/) nominee, *Security Education* category. **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) | **Experiment deeply.** 110+ browser-based demos — post-quantum cryptography, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, and steganography. Browser-constrained. Educational by design. No accounts. Just the math. |
+| 4 | 🏆 **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) · [2026 Cybersecurity Excellence Awards nominee](https://cybersecurity-excellence-awards.com/candidates/crypto-lab-2026/) | **Experiment deeply.** 110+ browser-based demos — post-quantum cryptography, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, and steganography. Browser-constrained. Educational by design. No accounts. Just the math. |
 | 5 | **[Meow Decoder](https://www.meowdecoder.com)** · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work in an applied security engineering project focused on optical air-gap data transfer and modern encrypted-transfer experiments. |
 
 

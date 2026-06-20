@@ -45,7 +45,7 @@ These five projects form one arc:
 ---
 
 ## 📦 Post-Quantum .NET Packages
-My post-quantum work has grown into a practical .NET package ecosystem: **42 published NuGet packages with 13,700+ total downloads**.
+My post-quantum work has grown into a practical .NET package ecosystem: 26 published NuGet packages with 23,000+ total downloads.
 
 The goal is to bring post-quantum cryptography into the places developers actually work — file encryption, JWT/authentication, secure channels, key management, password hashing, ASP.NET Core, Entity Framework Core, configuration secrets, and data protection.
 

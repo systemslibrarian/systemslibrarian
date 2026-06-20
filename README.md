@@ -33,7 +33,7 @@ These five projects form one arc:
  
 | # | Project | Role in the arc |
 |---|---|---|
-| 1 | **[Cipher Museum](https://ciphermuseum.com)** · [repo](https://github.com/systemslibrarian/cipher-museum) | **Learn the history.** 3,900 years of cryptography through 84 historically important ciphers, 13 exhibit halls, live demos, and cryptanalysis tools. |
+| 1 | **[Cipher Museum](https://ciphermuseum.com)** · [repo](https://github.com/systemslibrarian/cipher-museum) | **Learn the history.** 3,900 years of cryptography across 140 exhibits — 84 browser-runnable cipher engines, 13 exhibit halls, live demos, and cryptanalysis tools. |
 | 2 | **[Cipher Detective AI](https://huggingface.co/spaces/systemslibrarian/cipher-detective-ai)** · [repo](https://github.com/systemslibrarian/cipher-detective-ai) | **Analyze intelligently.** AI-assisted cipher identification and cryptanalysis exploration — connecting classical cipher patterns with modern machine-learning techniques. |
 | 3 | **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side comparisons of 97 algorithms across 17 categories with misuse-resistant recommendations. |
 | 4 | 🏆 **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) · [2026 Cybersecurity Excellence Awards nominee](https://cybersecurity-excellence-awards.com/candidates/crypto-lab-2026/) | **Experiment deeply.** 110+ browser-based demos — post-quantum cryptography, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, and steganography. Browser-constrained. Educational by design. No accounts. Just the math. |
@@ -51,19 +51,17 @@ The goal is to bring post-quantum cryptography into the places developers actual
 
 **Links:** [NuGet profile](https://www.nuget.org/profiles/systemslibrarian) · [PostQuantum.FileFormat repo](https://github.com/systemslibrarian/PostQuantum.FileFormat)
 
-## Strongest Traction
+## Most Used
 
-The strongest traction so far has been around file encryption, JWT/authentication, hybrid cryptography, and ASP.NET Core integration.
+The goal is not to pretend post-quantum migration is finished — it is to make it understandable, testable, reviewable, and usable in real .NET applications. Packages are labeled by maturity, from stable releases to early previews, so you always know what you're depending on.
+
+The most-used parts of the ecosystem so far center on file encryption, JWT/authentication, hybrid cryptography, and ASP.NET Core integration.
 
 - **PostQuantum.FileEncryption.Hybrid** — the leading package in the ecosystem, focused on hybrid post-quantum file encryption using modern classical and post-quantum primitives together.
 - **PostQuantum.FileEncryption** — the core file-encryption library for protecting files at rest, with companion packages for tools, signing, cloud key storage, and extensions.
 - **PostQuantum.Jwt / PostQuantum.Jwt.AspNetCore** — JOSE-style post-quantum tokens with ASP.NET Core authentication wiring, templates, and analyzers designed to make verification safer and harder to misuse.
 - **PostQuantum.Hybrid** — high-level hybrid cryptography that pairs classical primitives such as X25519 and Ed25519 with NIST-standardized post-quantum algorithms such as ML-KEM and ML-DSA.
 - **PostQuantum.DataProtection** — ASP.NET Core Data Protection integration for wrapping cookies, antiforgery tokens, and session keys, with companion packages for Azure Key Vault, AWS Secrets Manager, Redis, OpenTelemetry, testing, and FIPS-oriented scenarios.
-
-## Maturity Labeling
-
-These packages are intentionally labeled by maturity — from stable releases and release candidates to early previews. The goal is not to pretend post-quantum migration is finished; it is to make it understandable, testable, reviewable, and usable in real .NET applications.
 
 ## Current Direction
 
@@ -181,7 +179,7 @@ Systems should be reliable, observable, and self-sustaining in production.
 
 **Languages** — C# · TypeScript · JavaScript · Python · Dart · Rust · SQL
 
-**Frameworks** — .NET 8 · ASP.NET Core MVC · Next.js · Node.js · Vite · Flutter · Firebase
+**Frameworks** — .NET 10 (native ML-KEM / ML-DSA BCL types) · .NET 8 · ASP.NET Core MVC · Next.js · Node.js · Vite · Flutter · Firebase
 
 **Security** — AES-256-GCM · Argon2id · HMAC · HKDF · BIP-39 · ML-KEM · ML-DSA · X-Wing (X25519 + ML-KEM) · Ed25519 · HQC · multivariate & ZK schemes · E2EE · forward secrecy · threat modeling · fail-closed design
 

@@ -195,7 +195,7 @@ Systems should be reliable, observable, and self-sustaining in production.
 ## Recognition
 
 National and industry recognition for leadership, advocacy, and public impact in library systems and community access:
-
+- 🏆 **Crypto Lab — Gold Winner** (2026) — Cybersecurity Excellence Awards
 - 🏆 **Florida Librarian of the Year (2011)** 
 - 🌍 **Library Journal Mover & Shaker — Global Leadership (2012)**  
 - ❤️ **I Love My Librarian Award (2010)** — Carnegie Corporation of New York, *The New York Times*, American Library Association  

@@ -6,28 +6,9 @@
 [![NuGet](https://img.shields.io/badge/NuGet-systemslibrarian-004880?style=flat&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/systemslibrarian)
 
 
-## I build systems where trust has to be earned by design — not assumed.
-
-Patron data. Access control. Cryptographic tools. Multi-agent AI. The common thread is the same: systems that hold up under scrutiny because that's how they were built from the first line of code.
-
-Every system I ship carries an explicit threat model, a fail-closed posture, and an honest accounting of what it does and doesn't guarantee.
-
----
-
-## 🔐 Start here: Meow Decoder
-
-> [**meowdecoder.com**](https://www.meowdecoder.com) · [repo](https://github.com/systemslibrarian/meow-decoder)
-
-**Secure file transfer across an air gap.** Two computers that will never touch a network exchange data through animated QR-code streams on a phone screen. The phone is treated as an untrusted optical channel — every cryptographic guarantee stays on the secure endpoints.
-
-The threat model is the point. Not the primitives — the primitives are standard. What's rare is the discipline of deciding up front what you're defending against, designing for that, and documenting honestly where the protection ends.
-
-**Stack:** AES-256-GCM · Argon2id · ML-KEM-1024 hybrid (post-quantum) · fountain codes · versioned byte-level protocol · fail-closed parsing
-
----
 ## 🏛️ The Cryptography Ecosystem
 
-Meow Decoder didn't appear from nowhere. It sits at the end of a deliberate learning path — from classical ciphers, to primitive selection, to modern cryptographic experimentation, to applied security engineering.
+> **I build systems where trust has to be earned by design — not assumed.**
 
 These five projects form one arc:
 

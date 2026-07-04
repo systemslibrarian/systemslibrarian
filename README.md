@@ -22,39 +22,29 @@ The arc: history → analysis → selection → experimentation → secure appli
 
 
 ---
-
 ## 📦 Post-Quantum .NET Packages
+The **PostQuantum.*** ecosystem is a post-quantum cryptography toolkit for .NET: primitives, framework integrations, analyzers, infrastructure, and governance tools under one package family.
 
-The **PostQuantum.*** ecosystem is a vertically complete post-quantum cryptography toolkit for .NET: primitives, framework integrations, misuse-prevention analyzers, production infrastructure, and governance tooling under one consistent package family.
+It is not one package trying to do everything. It is a migration path — from cryptographic engines, to application integrations, to misuse-prevention guardrails, to production infrastructure and cryptographic inventory.
 
-It is not one package trying to do everything. It is a migration path: from cryptographic engines, to ASP.NET Core and Entity Framework Core integration, to analyzers and templates that reduce misuse, to cloud key management, replay protection, telemetry, CLI tooling, and cryptographic inventory.
-
-**Current scale:** 54+ published NuGet packages · 44K+ total downloads
+**Current scale:** 54+ published NuGet packages · 44K+ total downloads  
 **Links:** [NuGet profile](https://www.nuget.org/profiles/systemslibrarian) · [PostQuantum.FileFormat repo](https://github.com/systemslibrarian/PostQuantum.FileFormat)
 
-### The five layers
+### The package layers
 
-| Layer              | What it provides                                                                                                                                                                              |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Engines**        | Core cryptographic building blocks: ML-KEM, ML-DSA, hybrid encryption, LMS signatures, Argon2id password hashing, secret sharing, secure channels, and file encryption.                       |
-| **Integrations**   | Packages that bring PQC into the places .NET developers already work: ASP.NET Core, Identity, Entity Framework Core, Data Protection, JWT/authentication, and dependency injection.           |
-| **Guardrails**     | Roslyn analyzers, templates, and testing packages that help developers avoid common cryptographic misuse before it reaches production.                                                        |
-| **Infrastructure** | Production-oriented support for AWS, Azure Key Vault, Redis, OpenTelemetry, FIPS-oriented scenarios, CLI tooling, signing, and key lifecycle management.                                      |
-| **Governance**     | Cryptographic inventory, configuration, and key-management tooling for teams that need to know what crypto they run, where it lives, and whether it is ready for the post-quantum transition. |
-
-### Most-used areas
-
-The most-used parts of the ecosystem so far center on file encryption, hybrid public-key encryption, JWT/authentication, and ASP.NET Core integration.
-
-* **PostQuantum.FileEncryption.Hybrid** — hybrid public-key file encryption using classical and post-quantum primitives together.
-* **PostQuantum.FileEncryption** — constant-memory file and stream encryption, with companion packages for CLI tooling, signing, cloud key storage, and dependency injection.
-* **PostQuantum.Jwt / PostQuantum.Jwt.AspNetCore** — JOSE-style post-quantum tokens with ASP.NET Core authentication wiring, templates, and analyzers designed to make verification safer and harder to misuse.
-* **PostQuantum.Hybrid** — high-level hybrid cryptography combining classical primitives such as X25519 and Ed25519 with NIST-standardized post-quantum algorithms such as ML-KEM and ML-DSA.
-* **PostQuantum.DataProtection** — ASP.NET Core Data Protection integration for cookies, antiforgery tokens, session keys, cloud key providers, Redis, OpenTelemetry, testing, and FIPS-oriented scenarios.
+| Layer | What it provides | Representative packages |
+|---|---|---|
+| **Engines** | Core cryptographic building blocks: ML-KEM, ML-DSA, hybrid encryption, Argon2id, secret sharing, secure channels, and file encryption. | `PostQuantum.Cryptography` · `PostQuantum.Hybrid` · `PostQuantum.FileEncryption` · `PostQuantum.FileEncryption.Hybrid` · `Argon2id.PasswordHasher` |
+| **Integrations** | Packages that bring PQC into places .NET developers already work: ASP.NET Core, Identity, EF Core, Data Protection, JWT/authentication, and dependency injection. | `PostQuantum.Jwt.AspNetCore` · `PostQuantum.Identity` · `PostQuantum.EntityFrameworkCore` · `PostQuantum.DataProtection` · `PostQuantum.FileEncryption.Extensions.DependencyInjection` |
+| **Guardrails** | Roslyn analyzers, templates, and testing packages that help developers avoid common cryptographic misuse before it reaches production. | `PostQuantum.Jwt.Analyzers` · `PostQuantum.Jwt.Templates` · `PostQuantum.SecureChannel.Testing` |
+| **Infrastructure** | Production-oriented support for cloud key storage, Redis, OpenTelemetry, CLI tooling, signing, replay protection, and key lifecycle management. | `PostQuantum.FileEncryption.Cli` · `PostQuantum.FileEncryption.Signing` · `PostQuantum.DataProtection.Redis` · `PostQuantum.DataProtection.OpenTelemetry` |
+| **Governance** | Inventory, configuration, and key-management tooling for teams that need to know what crypto they run, where it lives, and whether it is ready for migration. | cryptographic inventory · configuration tooling · key-management packages |
 
 The goal is not to pretend post-quantum migration is finished. The goal is to make it understandable, testable, reviewable, and usable in real .NET applications.
 
 **ML-KEM · ML-DSA · X-Wing · X25519 · Ed25519 · AES-256-GCM · Argon2id**
+
+
 
 ---
 

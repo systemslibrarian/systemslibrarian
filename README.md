@@ -10,7 +10,7 @@
 
 > **I build systems where trust has to be earned by design — not assumed.**
 
-These five projects form one arc:
+The arc: history → analysis → selection → experimentation → secure application.
 
 | # | Project | Role in the arc |
 |---|---|---|

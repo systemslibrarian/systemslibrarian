@@ -158,7 +158,7 @@ Systems should be reliable, observable, and self-sustaining in production.
 
 **Security** — AES-256-GCM · Argon2id · HMAC · HKDF · BIP-39 · ML-KEM · ML-DSA · X-Wing (X25519 + ML-KEM) · Ed25519 · HQC · multivariate & ZK schemes · E2EE · forward secrecy · threat modeling · fail-closed design
 
-**Cryptography Education** — crypto-lab (110+ browser demos) · Cipher Museum (140 exhibits) · crypto-compare (97 algorithms across 17 categories) · real-primitive demos · KNOWN-GAPS documentation
+**Cryptography Education** — crypto-lab (120+ browser demos) · Cipher Museum (140 exhibits) · crypto-compare (97 algorithms across 17 categories) · real-primitive demos · KNOWN-GAPS documentation
 
 **Library Systems** — SirsiDynix Symphony · LibCal · C•CURE 9000 · Victor Web Services
 

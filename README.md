@@ -3,7 +3,6 @@
 [![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue?style=flat&logo=google&logoColor=white)](https://www.credly.com/badges/d41670d1-a861-474d-be14-0c973c39d122/public_url)
 [![IBM AI Product Manager](https://img.shields.io/badge/IBM%20AI%20Product%20Manager-Certified-054ADA?style=flat&logo=ibm&logoColor=white)](https://coursera.org/verify/professional-cert/I9T7R01Y3AA6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/systemslibrarian)
-[![NuGet](https://img.shields.io/badge/NuGet-systemslibrarian-004880?style=flat&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/systemslibrarian)
 
 
 ## 🏛️ The Cryptography Ecosystem

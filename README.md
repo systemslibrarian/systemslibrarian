@@ -175,8 +175,7 @@ Systems should be reliable, observable, and self-sustaining in production.
 - 🗣️ **Advocate of the Year** (2010) — Florida Association of Counties
 
 Two decades of recognition across advocacy, community leadership, and now security engineering — the same focus on public impact, carried forward
-through system design and infrastructure.## Awards & Recognition
-
+through system design and infrastructure.
 
 ---
 

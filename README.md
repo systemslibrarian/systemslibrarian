@@ -168,13 +168,14 @@ Systems should be reliable, observable, and self-sustaining in production.
 
 ## Recognition
 
-National and industry recognition for leadership, advocacy, and public impact in library systems and community access:
-- 🏆 **Crypto Lab — Gold Winner** (2026) — Cybersecurity Excellence Awards
-- 🏆 **Florida Librarian of the Year (2011)** 
-- 🌍 **Library Journal Mover & Shaker (2012) — Global Leadership **  
-- ❤️ **I Love My Librarian Award (2010)** — Carnegie Corporation of New York, *The New York Times*, American Library Association  
-- 🗣️ **Advocate of the Year (2010)** — Florida Association of Counties  
-- 🏅 **I² Innovator/Inspirator Award (2024, 2025)** — LibCal ↔ C•CURE Integration
+## Awards & Recognition
+
+- 🏆 **Cybersecurity Excellence Awards — Gold** (2026) — Security Education category, for [Crypto Lab](https://github.com/systemslibrarian)
+- 🏅 **I² Innovator/Inspirator Award** (2024, 2025) — back-to-back, for LibCal ↔ C•CURE integration
+- 🌍 **Library Journal Mover & Shaker** (2012) — Global Leadership
+- 🏆 **Florida Librarian of the Year** (2011) — Florida Library Association
+- ❤️ **I Love My Librarian Award** (2010) — Carnegie Corporation of New York, *The New York Times*, and the American Library Association
+- 🗣️ **Advocate of the Year** (2010) — Florida Association of Counties
 
 These recognitions reflect earlier work in advocacy and community leadership — the same focus on public impact now carried forward through system design, security, and infrastructure.
 

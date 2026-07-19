@@ -26,7 +26,7 @@ The **PostQuantum.*** ecosystem is a post-quantum cryptography toolkit for .NET:
 
 It is not one package trying to do everything. It is a migration path — from cryptographic engines, to application integrations, to misuse-prevention guardrails, to production infrastructure and cryptographic inventory.
 
-**Current scale:** 54+ published NuGet packages · 50K+ total downloads  
+**Current scale:** 54+ published NuGet packages · 70K+ total downloads  
 **Links:** [NuGet profile](https://www.nuget.org/profiles/systemslibrarian) · [PostQuantum.FileFormat repo](https://github.com/systemslibrarian/PostQuantum.FileFormat)
 
 ### The package layers

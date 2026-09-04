@@ -5,6 +5,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/systemslibrarian)
 
 
+## ⭐ Featured Projects
+
+| Project | Why it stands out |
+|---|---|
+| ❄️ **[SNOW2](https://github.com/systemslibrarian/snow2)** · **[Live Demo](https://systemslibrarian.github.io/snow2/)** | A modern Rust reimplementation inspired by Matthew Kwan's classic SNOW tool. Hides authenticated encrypted payloads inside ordinary-looking text using whitespace steganography, with XChaCha20-Poly1305, Argon2id + HKDF, hardened extraction bounds, secure-memory handling, and optional post-quantum support. |
+| 🔐 **[TruePad](https://github.com/systemslibrarian/TruePad)** · **[Browser Edition](https://systemslibrarian.github.io/TruePad/)** | A working educational cryptographic system focused on the hard part of one-time pads: keeping pad material single-use across crashes, stale copies, restores, two-party state, authentication, and delivery. Uses OTP encryption with one-time Wegman–Carter authentication and clearly separates information-theoretic claims from computational pad delivery. |
+
+> Two projects about a question I keep coming back to: **what does it take to preserve a cryptographic guarantee once the primitive leaves the textbook and becomes a real system?**
+
+---
+
 ## 🏛️ The Cryptography Ecosystem
 
 > **I build systems where trust has to be earned by design — not assumed.**

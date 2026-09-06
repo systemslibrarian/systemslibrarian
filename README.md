@@ -11,6 +11,7 @@
 |---|---|
 | ❄️ **[SNOW2](https://github.com/systemslibrarian/snow2)** · **[Live Demo](https://systemslibrarian.github.io/snow2/)** | A modern Rust reimplementation inspired by Matthew Kwan's classic SNOW tool. Hides authenticated encrypted payloads inside ordinary-looking text using whitespace steganography, with XChaCha20-Poly1305, Argon2id + HKDF, hardened extraction bounds, secure-memory handling, and optional post-quantum support. |
 | 🔐 **[TruePad](https://github.com/systemslibrarian/TruePad)** · **[Browser Edition](https://systemslibrarian.github.io/TruePad/)** | A working educational cryptographic system focused on the hard part of one-time pads: keeping pad material single-use across crashes, stale copies, restores, two-party state, authentication, and delivery. Uses OTP encryption with one-time Wegman–Carter authentication and clearly separates information-theoretic claims from computational pad delivery. |
+| 👻 **[Ghost Ink](https://github.com/systemslibrarian/Ghost-Ink)** · **[Live Demo](https://systemslibrarian.github.io/Ghost-Ink/)** | An educational browser demo of Unicode Tags / ASCII smuggling: hide invisible data inside ordinary text, optionally protect the payload with AES-256-GCM, then detect and strip it. Shows both the mechanics and the security implications for AI prompt injection and filter evasion. |
 
 ---
 

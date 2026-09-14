@@ -135,7 +135,7 @@ The same way of building — intentional architecture, honest design, long-term 
 | **Understand** | [**Scripture Journey**](https://scripturejourney.com) | Maps 200+ OT messianic prophecies to NT fulfillments across 7 categories. Scripture as one unified story, with Jesus at the center. |
 | **Remember** | [**Hide in Heart**](https://hideinheart.com) | Daily companion for Scripture memorization. Rooted in Psalm 119:11. |
 | **Discern** | [**HisWillGuide**](https://hiswillguide.com) | A 10-step biblical framework for finding God's will through Scripture, prayer, and community wisdom. |
-| **Intercede** | [**PrayerWarriors**](https://prayerwarriors.mobi) | Mobile-first platform for organizing prayer requests and tracking intercession. Live mockup at prayerwarriors.mobi — in active design. Long-term ministry goal. |
+| **Intercede** | [**PrayerWarriors**](https://prayerwarriors.mobi) | End-to-end encrypted prayer journaling and sharing app with post-quantum cryptography. Private prayers, prayer partners, groups, and recovery designed so your prayers stay yours. |
 
 ---
 

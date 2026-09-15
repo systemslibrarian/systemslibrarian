@@ -26,7 +26,7 @@ The arc: history → analysis → selection → experimentation → secure appli
 | 1 | **[Cipher Museum](https://ciphermuseum.com)** · [repo](https://github.com/systemslibrarian/cipher-museum) · [![Awwwards Nominee](https://img.shields.io/badge/Awwwards-Nominee-5ABDB2?style=flat)](https://www.awwwards.com/sites/cipher-museum) | **Explore history.** 3,900+ years of cryptography across 160 exhibits — 140 cipher exhibits in 13 halls plus a mathematics annex, 84 browser-runnable cipher engines, live demonstrations, and cryptanalysis tools. |
 | 2 | **[Cipher Detective AI](https://huggingface.co/spaces/systemslibrarian/cipher-detective-ai)** · [repo](https://github.com/systemslibrarian/cipher-detective-ai) | **Analyze intelligently.** AI-assisted cipher identification and cryptanalysis exploration — connecting classical cipher patterns with modern machine-learning techniques. |
 | 3 | **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side comparisons of 97 algorithms across 17 categories with misuse-resistant recommendations. |
-| 4 | <img src="https://cybersecurity-excellence-awards.com/wp-content/uploads/cybersecurity_awards_2026_gold.png" alt="Gold Winner" width="20"> **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) · [2026 Cybersecurity Excellence Awards — Gold Winner](https://cybersecurity-excellence-awards.com/candidates/crypto-lab-2026/) | **Experiment deeply.** 180+ browser-based demos — post-quantum cryptography, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, and steganography. Browser-constrained. Educational by design. No accounts. Just the math. |
+| 4 | <img src="https://cybersecurity-excellence-awards.com/wp-content/uploads/cybersecurity_awards_2026_gold.png" alt="Gold Winner" width="20"> **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) · [2026 Cybersecurity Excellence Awards — Gold Winner](https://cybersecurity-excellence-awards.com/candidates/crypto-lab-2026/) | **Experiment deeply.** 190+ browser-based demos — post-quantum cryptography, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, and steganography. Browser-constrained. Educational by design. No accounts. Just the math. |
 | 5 | **[Meow Decoder](https://www.meowdecoder.com)** · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work in an applied security engineering project focused on optical air-gap data transfer and modern encrypted-transfer experiments. |
 
 
@@ -169,7 +169,7 @@ Systems should be reliable, observable, and self-sustaining in production.
 
 **Security** — AES-256-GCM · Argon2id · HMAC · HKDF · BIP-39 · ML-KEM · ML-DSA · X-Wing (X25519 + ML-KEM) · Ed25519 · HQC · multivariate & ZK schemes · E2EE · forward secrecy · threat modeling · fail-closed design
 
-**Cryptography Education** — crypto-lab (120+ browser demos) · Cipher Museum (140 exhibits) · crypto-compare (97 algorithms across 17 categories) · real-primitive demos · KNOWN-GAPS documentation
+**Cryptography Education** — crypto-lab (190+ browser demos) · Cipher Museum (140 exhibits) · crypto-compare (97 algorithms across 17 categories) · real-primitive demos · KNOWN-GAPS documentation
 
 **Library Systems** — SirsiDynix Symphony · LibCal · C•CURE 9000 · Victor Web Services
 

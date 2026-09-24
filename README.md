@@ -15,7 +15,6 @@
 | 👻 **[Ghost Ink](https://github.com/systemslibrarian/Ghost-Ink)** **[Live Demo](https://systemslibrarian.github.io/Ghost-Ink/)** | An offline-capable browser security lab for hidden and deceptive content across text, Unicode, source code, CSS, clipboard, images, and AI-facing views. Thirteen interactive demonstrations pair hiding techniques with inspection, cleaning, survivability testing, and optional AES-256-GCM payload protection. |
 
 ---
-
 ## 🏛️ The Cryptography Ecosystem
 
 > **I build systems where trust has to be earned by design — not assumed.**
@@ -24,12 +23,11 @@ The arc: history → analysis → selection → experimentation → secure appli
 
 | # | Project | Role in the arc |
 |---|---|---|
-| 1 | **[Cipher Museum](https://ciphermuseum.com)** · [repo](https://github.com/systemslibrarian/cipher-museum) · | **Explore history.** 3,900+ years of cryptography across 160 exhibits — 140 cipher exhibits in 13 halls plus a mathematics annex, 84 browser-runnable cipher engines, live demonstrations, and cryptanalysis tools. |
+| 1 | **[Cipher Museum](https://ciphermuseum.com)** · [repo](https://github.com/systemslibrarian/cipher-museum) | **Explore history.** 3,900+ years of cryptography across 160 exhibits — 140 cipher exhibits in 13 halls plus a mathematics annex, 84 browser-runnable cipher engines, live demonstrations, and cryptanalysis tools. |
 | 2 | **[Cipher Detective AI](https://huggingface.co/spaces/systemslibrarian/cipher-detective-ai)** · [repo](https://github.com/systemslibrarian/cipher-detective-ai) | **Analyze intelligently.** AI-assisted cipher identification and cryptanalysis exploration — connecting classical cipher patterns with modern machine-learning techniques. |
 | 3 | **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side comparisons of 100 algorithms across 17 categories with misuse-resistant recommendations. |
-| 4 | **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) · [2026 Cybersecurity Excellence Awards — Gold Winner](https://cybersecurity-excellence-awards.com/candidates/crypto-lab-2026/) | **Experiment deeply. Browser-based cryptography demonstrations — post-quantum, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, steganography. Now with course modules and worksheets for instructors. Browser-constrained. No accounts. Just the math.|
+| 4 | **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) · [2026 Cybersecurity Excellence Awards — Gold Winner](https://cybersecurity-excellence-awards.com/candidates/crypto-lab-2026/) | **Experiment deeply.** Browser-based cryptography demonstrations — post-quantum, ZK proofs, homomorphic encryption, MPC, threshold schemes, attacks, steganography. Now with course modules and worksheets for instructors. Browser-constrained. No accounts. Just the math. |
 | 5 | **[Meow Decoder](https://www.meowdecoder.com)** · [repo](https://github.com/systemslibrarian/meow-decoder) | **Apply securely.** Everything above, put to work in an applied security engineering project focused on optical air-gap data transfer and modern encrypted-transfer experiments. |
-
 
 
 

@@ -134,8 +134,6 @@ The same way of building — intentional architecture, honest design, long-term 
 | **Discern** | [**HisWillGuide**](https://hiswillguide.com) | A 10-step biblical framework for finding God's will through Scripture, prayer, and community wisdom. |
 | **Intercede** | [**Prayer Sealed**](https://prayerwarriors.mobi)<br><sub>Prayer Sealed Ministries — nonprofit in formation</sub> | **Because Prayer Can’t Wait™** — private, end-to-end encrypted prayer for Android and iOS, built on post-quantum cryptography (X-Wing hybrid KEM, ML-DSA-65, AES-256-GCM). Private prayers, prayer partners, prayer groups, and recovery designed so your prayers stay yours — sealed on your device, unreadable to the server. |
 
-<sub>*Because Prayer Can’t Wait™ is a trademark of Paul Clark (USPTO Serial No. 50107231, application pending).*</sub>
-
 ---
 
 ## 🤖 AI as Architecture, Not Autocomplete

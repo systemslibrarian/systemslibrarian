@@ -123,17 +123,22 @@ Circulation transactions trigger automatically from LibCal reservation events fo
 
 </details>
 
-## ✝️ Scripture & Ministry — The Same Discipline
+## ✝️ Scripture & Ministry — Prayer Sealed Ministries, Inc.
 
-The same way of building — intentional architecture, honest design, long-term thinking — applied to something eternal. Structured as a path, not a collection.
+These Scripture and ministry projects are part of **Prayer Sealed Ministries, Inc.**, a Florida nonprofit organization I founded and serve as **President**.
+
+The same way of building — intentional architecture, honest design, and long-term thinking — applied to something eternal. Structured as a path, not a collection.
 
 | Stage | Project | What it does |
 |---|---|---|
 | **Understand** | [**Scripture Journey**](https://scripturejourney.com) | Maps 200+ OT messianic prophecies to NT fulfillments across 7 categories. Scripture as one unified story, with Jesus at the center. |
 | **Remember** | [**Hide in Heart**](https://hideinheart.com) | Daily companion for Scripture memorization. Rooted in Psalm 119:11. |
 | **Discern** | [**His Will Guide**](https://hiswillguide.com) | A 10-step biblical framework for finding God's will through Scripture, prayer, and community wisdom. |
-| **Intercede** | [**Prayer Sealed**](https://prayerwarriors.mobi)<br><sub>Prayer Sealed Ministries — nonprofit in formation</sub> | **Because Prayer Can’t Wait™** — private, end-to-end encrypted prayer for Android and iOS, built on post-quantum cryptography (X-Wing hybrid KEM, ML-DSA-65, AES-256-GCM). Private prayers, prayer partners, prayer groups, and recovery designed so your prayers stay yours — sealed on your device, unreadable to the server. |
+| **Intercede** | [**Prayer Sealed**](https://prayerwarriors.mobi)<br><sub>Flagship project of Prayer Sealed Ministries, Inc.</sub> | **Because Prayer Can’t Wait™** — private, end-to-end encrypted prayer for Android and iOS, built on post-quantum cryptography (X-Wing hybrid KEM, ML-DSA-65, AES-256-GCM). Private prayers, prayer partners, prayer groups, and recovery designed so your prayers stay yours — sealed on your device, unreadable to the server. |
 
+<sub>**Prayer Sealed Ministries, Inc.** — Florida nonprofit organization • Founder & President: Paul Clark</sub>
+
+---
 ---
 
 ## 🤖 AI as Architecture, Not Autocomplete

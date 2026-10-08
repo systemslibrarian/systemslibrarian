@@ -192,11 +192,6 @@ through system design and infrastructure.
 
 ---
 
-If what I've described sounds like the way you think — public infrastructure, applied cryptography, AI systems that have to be responsible — let's talk.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/systemslibrarian)
-
----
 
 > *"So whether you eat or drink or whatever you do, do it all for the glory of God."*  
 > — 1 Corinthians 10:31 (NIV)

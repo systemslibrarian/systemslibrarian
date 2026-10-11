@@ -22,7 +22,7 @@ The arc: history → analysis → selection → experimentation → secure appli
 
 | # | Project | Role in the arc |
 |---|---|---|
-| 1 | **[Cipher Museum](https://ciphermuseum.com)** · [repo](https://github.com/systemslibrarian/cipher-museum) | **Explore history.** 3,900+ years of cryptography across 160 exhibits — 140 cipher exhibits in 13 halls plus a mathematics annex, 84 browser-runnable cipher engines, live demonstrations, and cryptanalysis tools. |
+| 1 | **[Cipher Museum](https://ciphermuseum.com)** · [repo](https://github.com/systemslibrarian/cipher-museum) | **Explore history.** 3,900+ years of cryptography across 167 exhibits — 147 cipher and history exhibits in 13 halls, a 17-exhibit mathematics annex, and 3 protocol and construction exhibits — with 88 browser-runnable engines, live demonstrations, and cryptanalysis tools. |
 | 2 | **[Cipher Detective AI](https://huggingface.co/spaces/systemslibrarian/cipher-detective-ai)** · [repo](https://github.com/systemslibrarian/cipher-detective-ai) | **Analyze intelligently.** AI-assisted cipher identification and cryptanalysis exploration — connecting classical cipher patterns with modern machine-learning techniques. |
 | 3 | **[Crypto Compare](https://crypto-compare.systemslibrarian.dev)** · [repo](https://github.com/systemslibrarian/crypto-compare) | **Choose wisely.** Side-by-side comparisons of 100 algorithms across 17 categories with misuse-resistant recommendations. |
 | 4 | **[Crypto Lab](https://crypto-lab.systemslibrarian.dev/)** · [repo](https://github.com/systemslibrarian/crypto-lab) · [2026 Cybersecurity Excellence Awards — Gold Winner](https://cybersecurity-excellence-awards.com/candidates/crypto-lab-2026/) | **Experiment deeply.** Browser-based cryptography demonstrations spanning post-quantum cryptography, zero-knowledge proofs, homomorphic encryption, MPC, threshold schemes, attacks, steganography, and more. Crypto Lab serves as the continuously maintained master catalog for the collection, with new exhibits added regularly and existing demos periodically re-audited against primary sources, standards, and current research. Its catalog, indexing, metadata, and maintenance tooling are continually refined to keep the growing fleet accurate, discoverable, and current. Now with course modules and worksheets for instructors. Browser-constrained. No accounts. Just the math.|
@@ -170,7 +170,7 @@ Systems should be reliable, observable, and self-sustaining in production.
 
 **Security** — AES-256-GCM · Argon2id · HMAC · HKDF · BIP-39 · ML-KEM · ML-DSA · X-Wing (X25519 + ML-KEM) · Ed25519 · HQC · multivariate & ZK schemes · E2EE · forward secrecy · threat modeling · fail-closed design
 
-**Cryptography Education** — crypto-lab (200+ browser demos) · Cipher Museum (140 exhibits) · crypto-compare (100 algorithms across 17 categories) · real-primitive demos · KNOWN-GAPS documentation
+**Cryptography Education** — crypto-lab (200+ browser demos) · Cipher Museum (167 exhibits) · crypto-compare (100 algorithms across 17 categories) · real-primitive demos · KNOWN-GAPS documentation
 
 **Library Systems** — SirsiDynix Symphony · LibCal · C•CURE 9000 · Victor Web Services
 

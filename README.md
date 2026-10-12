@@ -149,8 +149,6 @@ These projects are part of **[Prayer Sealed Ministries, Inc.](https://prayerseal
 | 5 | **Intercede**<br><sub>1 Timothy 2:1</sub> | **[Prayer Sealed](https://prayersealed.org)**<br><sub>Flagship project · private beta · public launch December 2026</sub> | **Because Prayer Can’t Wait™** — private, end-to-end encrypted prayer for Android and iOS, built on post-quantum cryptography (X-Wing hybrid KEM, ML-DSA-65, AES-256-GCM). Private prayers, prayer partners, prayer groups, and recovery designed so your prayers stay yours — sealed on your device, unreadable to the server. |
 | 6 | **Pass It On**<br><sub>Psalm 78:4</sub> | **My Life With Christ**<br><sub>In development</sub> | A private Scripture journal for sermon notes, prayers, and reflections that never leaves your device — and over the years becomes a printable record of your faith to hand down to the next generation. |
 
-<sub>**Prayer Sealed Ministries, Inc.** — Florida nonprofit organization • Founder & President: Paul Clark</sub>
-
 ---
 
 ## 🤖 AI as Architecture, Not Autocomplete

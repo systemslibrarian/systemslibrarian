@@ -122,22 +122,35 @@ Circulation transactions trigger automatically from LibCal reservation events fo
 
 </details>
 
+---
+
 ## ✝️ Scripture & Ministry — Prayer Sealed Ministries, Inc.
 
-These Scripture and ministry projects are part of **Prayer Sealed Ministries, Inc.**, a Florida nonprofit organization I founded and serve as **President**.
+> *"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."*  
+> — John 3:16 (NIV)
 
-The same way of building — intentional architecture, honest design, and long-term thinking — applied to something eternal. Structured as a path, not a collection.
+The goal of this work is simple: **that people would come to know Jesus Christ as their Lord and Savior — and keep walking with Him.**
 
-| Stage | Project | What it does |
-|---|---|---|
-| **Understand** | [**Scripture Journey**](https://scripturejourney.com) | Maps 200+ OT messianic prophecies to NT fulfillments across 7 categories. Scripture as one unified story, with Jesus at the center. |
-| **Remember** | [**Hide in Heart**](https://hideinheart.com) | Daily companion for Scripture memorization. Rooted in Psalm 119:11. |
-| **Discern** | [**His Will Guide**](https://hiswillguide.com) | A 10-step biblical framework for finding God's will through Scripture, prayer, and community wisdom. |
-| **Intercede** | [**Prayer Sealed**](https://prayersealed.org)<br><sub>Flagship project of Prayer Sealed Ministries, Inc.</sub> | **Because Prayer Can’t Wait™** — private, end-to-end encrypted prayer for Android and iOS, built on post-quantum cryptography (X-Wing hybrid KEM, ML-DSA-65, AES-256-GCM). Private prayers, prayer partners, prayer groups, and recovery designed so your prayers stay yours — sealed on your device, unreadable to the server. |
+These projects are part of **[Prayer Sealed Ministries, Inc.](https://prayersealed.org)**, a Florida nonprofit organization I founded and serve as **President**. The same way of building — intentional architecture, honest design, and long-term thinking — applied to something eternal.
+
+> 🕊️ **Not sure where you stand with God? [Start with Gospel Journey →](https://systemslibrarian.github.io/gospel-journey/)**  
+> A short, Scripture-guided walk from creation to the cross to the empty tomb — and an honest invitation to respond. No account. No tracking.
+
+### One path, not a collection
+
+**Believe → Understand → Remember → Discern → Intercede → Pass It On**
+
+| # | Stage | Project | What it does |
+|---|---|---|---|
+| 1 | **Believe**<br><sub>Romans 10:9</sub> | **[Gospel Journey](https://systemslibrarian.github.io/gospel-journey/)** · [repo](https://github.com/systemslibrarian/gospel-journey) | **Start here.** The Gospel in 7 Scripture-anchored steps — created for God, separated by sin, promised a Savior, Jesus came, died for our sins, and rose again — and how to receive Him by grace through faith. Includes *Who Is Jesus?*, *Why Do I Need Saving?*, *The Scarlet Thread*, a prayer of response, and next steps for new believers. |
+| 2 | **Understand**<br><sub>Luke 24:27</sub> | **[Scripture Journey](https://scripturejourney.com)** · [repo](https://github.com/systemslibrarian/scripture-journey) | Maps 200+ Old Testament messianic prophecies to their New Testament fulfillments across 7 categories. Scripture as one unified story, with Jesus at the center. |
+| 3 | **Remember**<br><sub>Psalm 119:11</sub> | **[Hide in Heart](https://hideinheart.com)** · [repo](https://github.com/systemslibrarian/HideInHeart) | A calm daily companion for Scripture memorization — read the verse, rebuild it word by word, and carry it into life. 47 topics, with a kids mode. |
+| 4 | **Discern**<br><sub>James 1:5</sub> | **[His Will Guide](https://hiswillguide.com)** · [repo](https://github.com/systemslibrarian/hiswillguide) | A 10-step biblical framework for seeking God's will through surrender, Scripture, prayer, godly counsel, and obedient trust. |
+| 5 | **Intercede**<br><sub>1 Timothy 2:1</sub> | **[Prayer Sealed](https://prayersealed.org)**<br><sub>Flagship project · private beta · public launch December 2026</sub> | **Because Prayer Can’t Wait™** — private, end-to-end encrypted prayer for Android and iOS, built on post-quantum cryptography (X-Wing hybrid KEM, ML-DSA-65, AES-256-GCM). Private prayers, prayer partners, prayer groups, and recovery designed so your prayers stay yours — sealed on your device, unreadable to the server. |
+| 6 | **Pass It On**<br><sub>Psalm 78:4</sub> | **My Life With Christ**<br><sub>In development</sub> | A private Scripture journal for sermon notes, prayers, and reflections that never leaves your device — and over the years becomes a printable record of your faith to hand down to the next generation. |
 
 <sub>**Prayer Sealed Ministries, Inc.** — Florida nonprofit organization • Founder & President: Paul Clark</sub>
 
----
 ---
 
 ## 🤖 AI as Architecture, Not Autocomplete

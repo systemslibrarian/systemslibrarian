@@ -147,7 +147,7 @@ These projects are part of **[Prayer Sealed Ministries, Inc.](https://prayerseal
 | 3 | **Remember**<br><sub>Psalm 119:11</sub> | **[Hide in Heart](https://heart.prayersealed.org)** · [repo](https://github.com/prayer-sealed-ministries/HideInHeart) | A calm daily companion for Scripture memorization — read the verse, rebuild it word by word, and carry it into life. 47 topics, with a kids mode. |
 | 4 | **Discern**<br><sub>James 1:5</sub> | **[His Will Guide](https://guide.prayersealed.org)** · [repo](https://github.com/prayer-sealed-ministries/hiswillguide) | A 10-step biblical framework for seeking God's will through surrender, Scripture, prayer, godly counsel, and obedient trust. |
 | 5 | **Intercede**<br><sub>1 Timothy 2:1</sub> | **[Prayer Sealed](https://prayersealed.org)**<br><sub>Flagship project · private beta · public launch December 2026</sub> | **Because Prayer Can’t Wait™** — private prayer for Android and iOS, with partners, groups, and post-quantum end-to-end encryption. Your prayers stay yours—unreadable to the server. |
-| 6 | **Pass It On**<br><sub>Psalm 78:4</sub> | **My Life With Christ**<br><sub>In development</sub> | A private Scripture journal for sermon notes, prayers, and reflections that never leaves your device — and over the years becomes a printable record of your faith to hand down to the next generation. |
+| 6 | **Pass It On**<br><sub>Psalm 78:4</sub> | **[My Life With Christ](https://journal.prayersealed.org/)**<br><sub>Web companion live · iOS & Android app in development</sub> | Private Christian journaling for a life of faith. Web companion live; iOS & Android app in development. |
 
 ---
 
